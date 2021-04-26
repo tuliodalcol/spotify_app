@@ -1,0 +1,1886 @@
+{
+    "playlist_id": "6KouJOsuztG00zE8nEtfxS",
+    "playlist_name": "Keep it up",
+    "tracks": [
+        {
+            "added_at": "2018-01-10T20:05:30Z",
+            "album_id": "1mMfvPS1HZsxtU958F4Eq9",
+            "album_name": "Labour Of Love II",
+            "album_release_date": "1989-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "69MEO1AADKg1IZrq2XLzo5",
+                    "artist_name": "UB40"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.733,
+            "track_id": "1YnVYHXoak0syv4xBRHQRb",
+            "track_name": "Kingston Town",
+            "track_number": 7
+        },
+        {
+            "added_at": "2018-01-10T20:05:34Z",
+            "album_id": "6T31ynBNvwXQ5q6JrMQg2r",
+            "album_name": "Alle 40 Goed",
+            "album_release_date": "2012-01-01",
+            "album_total_tracks": 40,
+            "artists": [
+                {
+                    "artist_id": "69MEO1AADKg1IZrq2XLzo5",
+                    "artist_name": "UB40"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 183.853,
+            "track_id": "1vYew137WJ69SFp9oez3xm",
+            "track_name": "Red Red Wine",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-01-10T20:07:06Z",
+            "album_id": "5YEv101kdWy8liOvCZWtzy",
+            "album_name": "Bad To The Bone",
+            "album_release_date": "1992-03-05",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "5os0Ltvz8Q8BvXOPOd1frx",
+                    "artist_name": "Inner Circle"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 226.546,
+            "track_id": "7kTvXtMERxvwCGcWv68ssH",
+            "track_name": "Sweat (A La La La La Long)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-01-10T20:08:32Z",
+            "album_id": "32fIEDSyiDAZLofpFNPukY",
+            "album_name": "Reggae Dancer",
+            "album_release_date": "1994-03-05",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "5os0Ltvz8Q8BvXOPOd1frx",
+                    "artist_name": "Inner Circle"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 205.52,
+            "track_id": "5d2aT464OyGAuDlInFGdqc",
+            "track_name": "Games People Play",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-01-10T20:14:21Z",
+            "album_id": "2RjgoKYACTWEtfsealo5E1",
+            "album_name": "Maxi",
+            "album_release_date": "1987-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "3aTuTR5Nf6pVW3837q2ZL7",
+                    "artist_name": "Maxi Priest"
+                },
+                {
+                    "artist_id": "5aO4PS2vHHs4n14pMwmadH",
+                    "artist_name": "John Gallen"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 218.426,
+            "track_id": "3vYrrMpsebx3OJ1H5E1lWQ",
+            "track_name": "Wild World",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-01-10T20:14:59Z",
+            "album_id": "6NmFmPX56pcLBOFMhIiKvF",
+            "album_name": "Hot Shot (International Version #2)",
+            "album_release_date": "2000",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "5EvFsr3kj42KNv97ZEnqij",
+                    "artist_name": "Shaggy"
+                },
+                {
+                    "artist_id": "4hB4SmzreXMTGWYj7KQ7QN",
+                    "artist_name": "Rayvon"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 235.133,
+            "track_id": "6dViIgkYIRccNImPln58rS",
+            "track_name": "Angel",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-16T07:49:55Z",
+            "album_id": "6WgGWYw6XXQyLTsWt7tXky",
+            "album_name": "Graceland (25th Anniversary Deluxe Edition)",
+            "album_release_date": "1986-08-12",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "2CvCyf1gEVhI0mX6aFXmVI",
+                    "artist_name": "Paul Simon"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 280.0,
+            "track_id": "0qxYx4F3vm1AOnfux6dDxP",
+            "track_name": "You Can Call Me Al",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-16T07:49:50Z",
+            "album_id": "2coqGqbnSCAy740mClWesA",
+            "album_name": "I Don't Speak The Language",
+            "album_release_date": "1983-03-19",
+            "album_total_tracks": 9,
+            "artists": [
+                {
+                    "artist_id": "3bmFPbLMiLxtR9tFrTcKcP",
+                    "artist_name": "Matthew Wilder"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 184.48,
+            "track_id": "1mCsF9Tw4AkIZOjvZbZZdT",
+            "track_name": "Break My Stride",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-16T07:50:00Z",
+            "album_id": "5nDQAU3K52JimAaShsZoSn",
+            "album_name": "H2O",
+            "album_release_date": "1982",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "77tT1kLj6mCWtFNqiOmP9H",
+                    "artist_name": "Daryl Hall & John Oates"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 271.893,
+            "track_id": "4aKIs5t9TqP59btlCGPrgw",
+            "track_name": "Maneater",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-31T12:00:21Z",
+            "album_id": "1q7a5wZeti0neU2jDn8Dz3",
+            "album_name": "Solo (feat. Demi Lovato)",
+            "album_release_date": "2018-05-17",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6MDME20pz9RveH9rEXvrOM",
+                    "artist_name": "Clean Bandit"
+                },
+                {
+                    "artist_id": "6S2OmqARrzebs0tKUEyXyp",
+                    "artist_name": "Demi Lovato"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 222.653,
+            "track_id": "6kPJZM97LwdG9QIsT7khp6",
+            "track_name": "Solo (feat. Demi Lovato)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-07T09:38:37Z",
+            "album_id": "2pTtitzF075w1GKSpYpva5",
+            "album_name": "Entertainer",
+            "album_release_date": "2018-05-23",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5ZsFI1h6hIdQRw2ti0hz81",
+                    "artist_name": "ZAYN"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 203.51,
+            "track_id": "5LTGmestwpHZ1BfCmpFQJx",
+            "track_name": "Entertainer",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-07T09:38:47Z",
+            "album_id": "7pPgZtAzIIBd9rMk3s3MsH",
+            "album_name": "Troco Likes",
+            "album_release_date": "2015-07-10",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "4iWkwAVzssjb8XgxdoOL6M",
+                    "artist_name": "Tiago Iorc"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 178.718,
+            "track_id": "6o0rGxp5tdtX8cmqXwVIwE",
+            "track_name": "Coisa Linda",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-09-07T09:38:53Z",
+            "album_id": "4LvachE4qXavbfQEQlLvwT",
+            "album_name": "My Darling",
+            "album_release_date": "2018-04-06",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6Ytnandp3KSDg0msjBZ7wC",
+                    "artist_name": "Dooqu"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 208.407,
+            "track_id": "3stQCrc2JXVKqN0ZJJdRW9",
+            "track_name": "My Darling",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-10T07:47:05Z",
+            "album_id": "3YHf7ooFmrTOsp4jPM3aFj",
+            "album_name": "In A Perfect World (Deluxe)",
+            "album_release_date": "2013-06-14",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "4BxCuXFJrSWGi1KHcVqaU4",
+                    "artist_name": "Kodaline"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 230.266,
+            "track_id": "7jDe24vXWUNX8Jl2hZHrIS",
+            "track_name": "High Hopes",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-09-10T07:55:33Z",
+            "album_id": "6C5W5MjZX4tJWL9EJpOGIC",
+            "album_name": "Head Held High",
+            "album_release_date": "2018-08-24",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4BxCuXFJrSWGi1KHcVqaU4",
+                    "artist_name": "Kodaline"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 214.88,
+            "track_id": "5PyRffCCs2KPPL5LFDGEs5",
+            "track_name": "Head Held High",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-11T06:26:52Z",
+            "album_id": "5VvCD7gVffRgdPfExxLfF4",
+            "album_name": "Don't You Worry, Honey",
+            "album_release_date": "2017-06-30",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "3DFoVPonoAAt4EZ1FEI8ue",
+                    "artist_name": "Sir Sly"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.382,
+            "track_id": "3q5Zm5NnYcpXKLNmTO1tyo",
+            "track_name": "Astronaut",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-09-11T06:27:07Z",
+            "album_id": "5VvCD7gVffRgdPfExxLfF4",
+            "album_name": "Don't You Worry, Honey",
+            "album_release_date": "2017-06-30",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "3DFoVPonoAAt4EZ1FEI8ue",
+                    "artist_name": "Sir Sly"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.896,
+            "track_id": "17aDyX39gb1iV1ZWvD1ffE",
+            "track_name": "High",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-19T18:22:25Z",
+            "album_id": "7jrxBbSIpwZnOd7kuAYFHG",
+            "album_name": "I See You (Deluxe)",
+            "album_release_date": "2017-06-23",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "3iOvXCl6edW5Um0fXEBRXy",
+                    "artist_name": "The xx"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.133,
+            "track_id": "77b6EUCsLvrPTE5YJDzxt0",
+            "track_name": "On Hold",
+            "track_number": 8
+        },
+        {
+            "added_at": "2018-09-29T11:49:10Z",
+            "album_id": "5Nwsra93UQYJ6xxcjcE10x",
+            "album_name": "Nine Track Mind",
+            "album_release_date": "2016-01-29",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6VuMaDnrHyPL1p4EHjYLi7",
+                    "artist_name": "Charlie Puth"
+                },
+                {
+                    "artist_id": "0C8ZW7ezQVs4URX5aX7Kqx",
+                    "artist_name": "Selena Gomez"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 217.706,
+            "track_id": "06KyNuuMOX1ROXRhj787tj",
+            "track_name": "We Don't Talk Anymore (feat. Selena Gomez)",
+            "track_number": 5
+        },
+        {
+            "added_at": "2018-09-30T09:35:33Z",
+            "album_id": "1rMmiDKa8V5H9yYTPAbLng",
+            "album_name": "Human (Deluxe)",
+            "album_release_date": "2017-02-10",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "4f9iBmdUOhQWeP7dcAn1pf",
+                    "artist_name": "Rag'n'Bone Man"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 200.186,
+            "track_id": "58zsLZPvfflaiIbNWoA22O",
+            "track_name": "Human",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-10-14T16:39:30Z",
+            "album_id": "5QGLJ0GHC9MX1sqzOHGpA4",
+            "album_name": "Save Me",
+            "album_release_date": "2018-02-13",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "1Q50Y9cXWlkNEG6gJfUP1e",
+                    "artist_name": "DEAMN"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 198.0,
+            "track_id": "4lWZDsHPSdsGcqQ99frgb5",
+            "track_name": "Hypnotized",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-10-19T14:02:50Z",
+            "album_id": "78EicdHZr5XBWD7llEZ1Jh",
+            "album_name": "Happier",
+            "album_release_date": "2018-08-17",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "64KEffDW9EtZ1y2vBYgq8T",
+                    "artist_name": "Marshmello"
+                },
+                {
+                    "artist_id": "7EQ0qTo7fWT7DPxmxtSYEc",
+                    "artist_name": "Bastille"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 214.289,
+            "track_id": "2dpaYNEQHiRxtZbfNsse99",
+            "track_name": "Happier",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-29T11:49:25Z",
+            "album_id": "5Nwsra93UQYJ6xxcjcE10x",
+            "album_name": "Nine Track Mind",
+            "album_release_date": "2016-01-29",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6VuMaDnrHyPL1p4EHjYLi7",
+                    "artist_name": "Charlie Puth"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 199.133,
+            "track_id": "3qonjOrhFCfTnaaMruHzxW",
+            "track_name": "Dangerously",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-10-14T16:42:27Z",
+            "album_id": "5QGLJ0GHC9MX1sqzOHGpA4",
+            "album_name": "Save Me",
+            "album_release_date": "2018-02-13",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "1Q50Y9cXWlkNEG6gJfUP1e",
+                    "artist_name": "DEAMN"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 191.186,
+            "track_id": "0CgoJjztyESsK4pq3UIIKI",
+            "track_name": "Rendezvous",
+            "track_number": 7
+        },
+        {
+            "added_at": "2018-10-14T16:41:02Z",
+            "album_id": "5RVpuSJKFR87PEtls1YsVO",
+            "album_name": "Without You",
+            "album_release_date": "2018-02-13",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1Q50Y9cXWlkNEG6gJfUP1e",
+                    "artist_name": "DEAMN"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 184.918,
+            "track_id": "28BzW6r4lUiWKNYjNwUVjl",
+            "track_name": "Without You",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-10-14T16:39:44Z",
+            "album_id": "5QGLJ0GHC9MX1sqzOHGpA4",
+            "album_name": "Save Me",
+            "album_release_date": "2018-02-13",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "1Q50Y9cXWlkNEG6gJfUP1e",
+                    "artist_name": "DEAMN"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.803,
+            "track_id": "4WGu8MVUfPr8AdZfETALEq",
+            "track_name": "Give Me Your Love",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-10-14T16:40:06Z",
+            "album_id": "5A0gc7KDHjf0Merkjeem9j",
+            "album_name": "Dangerous",
+            "album_release_date": "2018-06-12",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1Q50Y9cXWlkNEG6gJfUP1e",
+                    "artist_name": "DEAMN"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 181.111,
+            "track_id": "4W5nXCOvpf0RzJ6sjQBqvL",
+            "track_name": "Dangerous",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-10-19T14:02:57Z",
+            "album_id": "25LoUxu7lUufYCzMMFi3hP",
+            "album_name": "Just Friends",
+            "album_release_date": "2018-04-27",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4csQIMQm6vI2A2SCVDuM2z",
+                    "artist_name": "Hayden James"
+                },
+                {
+                    "artist_id": "2jn9JOmdrR9BdiR1LTvYG4",
+                    "artist_name": "Boy Matthews"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 238.991,
+            "track_id": "6tB4XVKceo2307SSWXaO0y",
+            "track_name": "Just Friends",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-10-21T08:11:45Z",
+            "album_id": "5QGLJ0GHC9MX1sqzOHGpA4",
+            "album_name": "Save Me",
+            "album_release_date": "2018-02-13",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "1Q50Y9cXWlkNEG6gJfUP1e",
+                    "artist_name": "DEAMN"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 184.918,
+            "track_id": "4hgYZU5yp5P9Zx50VTnioR",
+            "track_name": "Save Me",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-10-19T08:18:09Z",
+            "album_id": "6TZp52tXShLQbq8yNMxqNT",
+            "album_name": "Welcome Interstate Managers",
+            "album_release_date": "2003-01-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "1pgtr4nhBQjp9oCUBPyYWh",
+                    "artist_name": "Fountains Of Wayne"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 202.32,
+            "track_id": "6sPuuzPOih8vLC92qLpdJB",
+            "track_name": "Mexican Wine",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-11-01T16:20:40Z",
+            "album_id": "0RZ4Ct4vegYBmL9g88TBNi",
+            "album_name": "Don't Kill the Magic",
+            "album_release_date": "2014-06-25",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "0DxeaLnv6SyYk2DOqkLO8c",
+                    "artist_name": "MAGIC!"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.666,
+            "track_id": "5xHooj89TQoQHj3dALvSh1",
+            "track_name": "No Way No",
+            "track_number": 5
+        },
+        {
+            "added_at": "2018-11-15T16:37:49Z",
+            "album_id": "26SJVXgRmCDZvYmw4DwUEM",
+            "album_name": "Morena",
+            "album_release_date": "2018-06-08",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4FGcERJWMg8ENOLixwF71U",
+                    "artist_name": "Vitor Kley"
+                },
+                {
+                    "artist_id": "5veVxxPm1vzgi6pO2iVA8L",
+                    "artist_name": "Bruno Martini"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 163.098,
+            "track_id": "1tKSESuh7Rdpwe3bqxiWOH",
+            "track_name": "Morena",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-11-26T19:08:03Z",
+            "album_id": "19K3IHYeVkUTjcBHGfbCOi",
+            "album_name": "Help! (Remastered)",
+            "album_release_date": "1965-08-06",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "artist_name": "The Beatles"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 125.04,
+            "track_id": "67VdmhC89bZ6yK2XRys0lA",
+            "track_name": "I've Just Seen A Face - Remastered",
+            "track_number": 12
+        },
+        {
+            "added_at": "2018-11-26T19:11:41Z",
+            "album_id": "0PYyrqs9NXtxPhf0CZkq2L",
+            "album_name": "Revolver (Remastered)",
+            "album_release_date": "1966-08-05",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "artist_name": "The Beatles"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 119.813,
+            "track_id": "19aATlcb67bbIdjcMA0rOa",
+            "track_name": "For No One - Remastered",
+            "track_number": 10
+        },
+        {
+            "added_at": "2018-11-29T22:36:36Z",
+            "album_id": "5fPbbwEgH8qX4uIrmPchYi",
+            "album_name": "Notion",
+            "album_release_date": "2017-03-01",
+            "album_total_tracks": 6,
+            "artists": [
+                {
+                    "artist_id": "6zVFRTB0Y1whWyH7ZNmywf",
+                    "artist_name": "Tash Sultana"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 315.602,
+            "track_id": "7ol59kVwq3DQyyjKZ2DRzy",
+            "track_name": "Jungle",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-12-06T12:18:10Z",
+            "album_id": "5FfbqVo0OapeCvoJvjWlOp",
+            "album_name": "Free Rein",
+            "album_release_date": "2018-06-15",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2WjvvwAX0mdWwq3aFuUdtc",
+                    "artist_name": "Rebelution"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 185.687,
+            "track_id": "7ySdEN7DxGsSxljRnWD8eF",
+            "track_name": "Constellation",
+            "track_number": 12
+        },
+        {
+            "added_at": "2018-12-21T17:10:42Z",
+            "album_id": "2sGDQ4EeMBzUf7r21JyrNV",
+            "album_name": "The Boy Who Cried Wolf",
+            "album_release_date": "2017-07-28",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0gadJ2b9A4SKsB1RFkBb66",
+                    "artist_name": "Passenger"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 228.48,
+            "track_id": "70HWRkitkAKfos500LBk0T",
+            "track_name": "Simple Song",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-12-29T18:19:44Z",
+            "album_id": "00hXe7ttZI4gjjWYqKAdMX",
+            "album_name": "Malomiasteczkowy",
+            "album_release_date": "2018-10-19",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6EB8VE9f7Ut6NOgviN6gDW",
+                    "artist_name": "Dawid Podsiad\u0142o"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 238.106,
+            "track_id": "3kWcNl9IThew9vwO8UM3fD",
+            "track_name": "Nie Ma Fal",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-12-29T18:23:27Z",
+            "album_id": "00hXe7ttZI4gjjWYqKAdMX",
+            "album_name": "Malomiasteczkowy",
+            "album_release_date": "2018-10-19",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6EB8VE9f7Ut6NOgviN6gDW",
+                    "artist_name": "Dawid Podsiad\u0142o"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 203.253,
+            "track_id": "77vLpSAMNzeYL4EBeZxWqI",
+            "track_name": "Ma\u0142omiasteczkowy",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-12-31T23:33:47Z",
+            "album_id": "4kgB9pui0fAMwB44axR3C1",
+            "album_name": "3",
+            "album_release_date": "1999",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "0bRV6QPqD18yNy76IeBr10",
+                    "artist_name": "Ich Troje"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 239.373,
+            "track_id": "0CBj18X3J7MabwDqKeMxuo",
+            "track_name": "A Wszystko To...(Bo Ciebie Kocham)",
+            "track_number": 2
+        },
+        {
+            "added_at": "2019-01-08T11:01:11Z",
+            "album_id": "0MlTOiC5ZYKFGeZ8h3D4rd",
+            "album_name": "Hopes And Fears",
+            "album_release_date": "2004-05-10",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "53A0W3U0s8diEn9RhXQhVz",
+                    "artist_name": "Keane"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 237.146,
+            "track_id": "1SKPmfSYaPsETbRHaiA18G",
+            "track_name": "Somewhere Only We Know",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-08T11:01:30Z",
+            "album_id": "0MlTOiC5ZYKFGeZ8h3D4rd",
+            "album_name": "Hopes And Fears",
+            "album_release_date": "2004-05-10",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "53A0W3U0s8diEn9RhXQhVz",
+                    "artist_name": "Keane"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 215.88,
+            "track_id": "0yac0FPhLRH9i9lOng3f81",
+            "track_name": "Everybody's Changing",
+            "track_number": 4
+        },
+        {
+            "added_at": "2019-01-11T09:26:35Z",
+            "album_id": "0vRcQquqBlFvnezWldWfmt",
+            "album_name": "Jackie Chan",
+            "album_release_date": "2018-05-18",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+                    "artist_name": "Ti\u00ebsto"
+                },
+                {
+                    "artist_id": "5vQfv3s2Z2SRdPZKr82ABw",
+                    "artist_name": "Dzeko"
+                },
+                {
+                    "artist_id": "0bdJZl7TDeiymDYzMJnVh2",
+                    "artist_name": "Preme"
+                },
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                }
+            ],
+            "n_artists": 4,
+            "track_duration_seg": 215.759,
+            "track_id": "4kWO6O1BUXcZmaxitpVUwp",
+            "track_name": "Jackie Chan",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-26T10:31:46Z",
+            "album_id": "7nEiwcUSwycvC77kZ9ub7c",
+            "album_name": "The Middle",
+            "album_release_date": "2018-01-23",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2qxJFvFYMEDqd7ui6kSAcq",
+                    "artist_name": "Zedd"
+                },
+                {
+                    "artist_id": "6WY7D3jk8zTrHtmkqqo5GI",
+                    "artist_name": "Maren Morris"
+                },
+                {
+                    "artist_id": "4lDBihdpMlOalxy1jkUbPl",
+                    "artist_name": "Grey"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 184.732,
+            "track_id": "09IStsImFySgyp0pIQdqAc",
+            "track_name": "The Middle",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-28T17:57:00Z",
+            "album_id": "18IaOJpyXfqbOsZIqmnfpZ",
+            "album_name": "Complicated",
+            "album_release_date": "2015-08-09",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1QRj3hoop9Mv5VvHQkwPEp",
+                    "artist_name": "Olivia O'Brien"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 189.0,
+            "track_id": "0jllH0usRFD4LJkJnGK9Lf",
+            "track_name": "Complicated",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-28T18:11:27Z",
+            "album_id": "5XFhtk8Svc1NWYYgrkZjpI",
+            "album_name": "It's Not That Deep",
+            "album_release_date": "2017-11-17",
+            "album_total_tracks": 5,
+            "artists": [
+                {
+                    "artist_id": "1QRj3hoop9Mv5VvHQkwPEp",
+                    "artist_name": "Olivia O'Brien"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 208.4,
+            "track_id": "5648YJgWmV5TSYRdF6Cxl1",
+            "track_name": "Empty",
+            "track_number": 3
+        },
+        {
+            "added_at": "2019-02-07T14:34:07Z",
+            "album_id": "5gQZvWM1o8NkQndueJtZcP",
+            "album_name": "Wolves",
+            "album_release_date": "2017-10-25",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "0C8ZW7ezQVs4URX5aX7Kqx",
+                    "artist_name": "Selena Gomez"
+                },
+                {
+                    "artist_id": "64KEffDW9EtZ1y2vBYgq8T",
+                    "artist_name": "Marshmello"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 197.993,
+            "track_id": "0tBbt8CrmxbjRP0pueQkyU",
+            "track_name": "Wolves",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-03-25T21:24:09Z",
+            "album_id": "6se6q5nk4VCVbWWnZcguCc",
+            "album_name": "Presence",
+            "album_release_date": "2017-11-10",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "6gK1Uct5FEdaUWRWpU4Cl2",
+                    "artist_name": "Petit Biscuit"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 238.906,
+            "track_id": "3WRQUvzRvBDr4AxMWhXc5E",
+            "track_name": "Sunset Lover",
+            "track_number": 12
+        },
+        {
+            "added_at": "2019-04-06T13:41:57Z",
+            "album_id": "7fRrTyKvE4Skh93v97gtcU",
+            "album_name": "dont smile at me",
+            "album_release_date": "2017-12-22",
+            "album_total_tracks": 9,
+            "artists": [
+                {
+                    "artist_id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "artist_name": "Billie Eilish"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 200.379,
+            "track_id": "7hDVYcQq6MxkdJGweuCtl9",
+            "track_name": "ocean eyes",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-05-15T13:00:23Z",
+            "album_id": "5msfCyqu8fJYqDDV6OrXTg",
+            "album_name": "I'm Wide Awake, It's Morning",
+            "album_release_date": "2005-01-25",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "5o206eFLx38glA2bb4zqIU",
+                    "artist_name": "Bright Eyes"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 188.8,
+            "track_id": "5OiaAaIMYlCZONyDBxqk4G",
+            "track_name": "First Day Of My Life",
+            "track_number": 6
+        },
+        {
+            "added_at": "2019-06-10T13:06:48Z",
+            "album_id": "7tzhVyskKJ4VVFkanD2DOh",
+            "album_name": "Ain't No Sunshine",
+            "album_release_date": "2017-09-29",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2bnHA3uft5ff7aFQLvscV5",
+                    "artist_name": "Achtabahn"
+                },
+                {
+                    "artist_id": "2dOaom01dm1MhNLnyHpWD5",
+                    "artist_name": "Matt Andersen"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 161.311,
+            "track_id": "0GEr4zpcXMT8YS9b8mq3SC",
+            "track_name": "Ain't No Sunshine",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-06-10T13:07:28Z",
+            "album_id": "1EnUMNxL0zBONLd6GorqiW",
+            "album_name": "Mad World",
+            "album_release_date": "2017-10-13",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "7rAWlkGSRdQDmjCbZi4DJV",
+                    "artist_name": "Kid Legacy"
+                },
+                {
+                    "artist_id": "0KbcCt8ykK9veUoosYoQqI",
+                    "artist_name": "Zadkiel"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 186.446,
+            "track_id": "6INRhBux3LfE2kv9TGmrrY",
+            "track_name": "Mad World",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-11-10T21:46:42Z",
+            "album_id": "4KXLjIEas8MTwwX3xpmAdC",
+            "album_name": "V (Deluxe)",
+            "album_release_date": "2015-05-18",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "4bYPcJP5jwMhSivRcqie2n",
+                    "artist_name": "Adam Levine"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 267.853,
+            "track_id": "1ejtHfSXQwvaAU7F82FXww",
+            "track_name": "Lost Stars",
+            "track_number": 15
+        },
+        {
+            "added_at": "2020-01-12T14:36:32Z",
+            "album_id": "1U5dRqjPi81KIuANU25EwR",
+            "album_name": "De Ellos Aprend\u00ed",
+            "album_release_date": "2019-02-06",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2CQHyfluB4mliyv193Qn2L",
+                    "artist_name": "David Rees"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 266.076,
+            "track_id": "3VaFDR5FuLjgZxJ36hV9LN",
+            "track_name": "De Ellos Aprend\u00ed",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-01-16T16:56:10Z",
+            "album_id": "6mm1Skz3JE6AXneya9Nyiv",
+            "album_name": "Oracular Spectacular",
+            "album_release_date": "2007-12-14",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0SwO7SWeDHJijQ3XNS7xEE",
+                    "artist_name": "MGMT"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 302.84,
+            "track_id": "1jJci4qxiYcOHhQR247rEU",
+            "track_name": "Kids",
+            "track_number": 5
+        },
+        {
+            "added_at": "2020-01-21T14:43:46Z",
+            "album_id": "2dhT6RuNd4po36alY0hDAB",
+            "album_name": "By My Side",
+            "album_release_date": "2019-10-18",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4H6XYH7PhoJXhD45W93wkh",
+                    "artist_name": "Mauve"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 155.217,
+            "track_id": "50AtbZbvd3OXD2NDqy4G29",
+            "track_name": "By My Side",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-01-22T02:42:47Z",
+            "album_id": "2GFXYpDQ1TOZ9zJUk30tXO",
+            "album_name": "Spirit Bird",
+            "album_release_date": "2012-01-01",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "5lbM4g6bhxjNX7R5QHP2nD",
+                    "artist_name": "Xavier Rudd"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 430.76,
+            "track_id": "70zZclGWOjOVv9VRJ7RCyq",
+            "track_name": "Spirit Bird",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-01-30T16:02:34Z",
+            "album_id": "5QGLJ0GHC9MX1sqzOHGpA4",
+            "album_name": "Save Me",
+            "album_release_date": "2018-02-13",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "1Q50Y9cXWlkNEG6gJfUP1e",
+                    "artist_name": "DEAMN"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 191.559,
+            "track_id": "4ZVSSE2JUJwsyTukDwjoT6",
+            "track_name": "Sign",
+            "track_number": 6
+        },
+        {
+            "added_at": "2020-02-03T00:17:08Z",
+            "album_id": "31IDBea3eEs57a0joX6TjN",
+            "album_name": "Dance Monkey",
+            "album_release_date": "2019-05-10",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2NjfBq1NflQcKSeiDooVjY",
+                    "artist_name": "Tones And I"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 209.754,
+            "track_id": "1rgnBhdG2JDFTbYkYRZAku",
+            "track_name": "Dance Monkey",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-02-05T12:29:48Z",
+            "album_id": "32WOc887nwhOcEUznSjG59",
+            "album_name": "Change of Scenery",
+            "album_release_date": "2015-04-28",
+            "album_total_tracks": 5,
+            "artists": [
+                {
+                    "artist_id": "3ApUX1o6oSz321MMECyIYd",
+                    "artist_name": "Quinn XCII"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 211.5,
+            "track_id": "6Jc1ff7MzKkk1w4rmWv0H9",
+            "track_name": "Wounds",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-02-17T01:37:35Z",
+            "album_id": "6vRDgJ6ZlOQ8DH1Y4Olx46",
+            "album_name": "Fr\u00e9ro Delavega",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "6bebPrkEPr2xEkiHP3QkNT",
+                    "artist_name": "Fr\u00e9ro Delavega"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 183.08,
+            "track_id": "0F6ju9gPE2nUiqOgixQFZ9",
+            "track_name": "Il y a",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-03T22:57:31Z",
+            "album_id": "3nR9B40hYLKLcR0Eph3Goc",
+            "album_name": "Memories",
+            "album_release_date": "2019-09-20",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "04gDigrS5kc9YWfZHwBETP",
+                    "artist_name": "Maroon 5"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 189.486,
+            "track_id": "2b8fOow8UzyDFAE27YhOZM",
+            "track_name": "Memories",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-25T10:14:52Z",
+            "album_id": "3Y1wjtNLwBFE1xT1CwpxS9",
+            "album_name": "Sa Nuvia Morta Hansell I Gretel",
+            "album_release_date": "2008-06-26",
+            "album_total_tracks": 2,
+            "artists": [
+                {
+                    "artist_id": "6zXhOyC07G4spYTHFLm7oo",
+                    "artist_name": "Joan Miquel Oliver"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 228.92,
+            "track_id": "3T2k3OI8rQ2ituvTwUIO8Q",
+            "track_name": "Hansel i gretel",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-08-14T11:57:33Z",
+            "album_id": "0PJgdLOhB6MUxABKi4i8uK",
+            "album_name": "Per la bona gent",
+            "album_release_date": "2019-10-04",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "40tHhop0T30DwienQBmTxb",
+                    "artist_name": "Manel"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 237.126,
+            "track_id": "5lKRNS030vgoz7pl8GADnb",
+            "track_name": "Aqu\u00ed tens el meu bra\u00e7",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-06-06T14:06:32Z",
+            "album_id": "2p9gK2BcdrloHNJwarc9gc",
+            "album_name": "death bed (coffee for your head)",
+            "album_release_date": "2020-02-08",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6bmlMHgSheBauioMgKv2tn",
+                    "artist_name": "Powfu"
+                },
+                {
+                    "artist_id": "35l9BRT7MXmM8bv2WDQiyB",
+                    "artist_name": "beabadoobee"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 173.333,
+            "track_id": "7eJMfftS33KTjuF7lTsMCx",
+            "track_name": "death bed (coffee for your head)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-06-30T21:06:07Z",
+            "album_id": "1UKOG0QZYJMd2Rzf6xQOLG",
+            "album_name": "You Got A Friend In Me (From \"Toy Story\")",
+            "album_release_date": "2020-01-08",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1HxPwXSGSw7M0NTjaZ0tjJ",
+                    "artist_name": "Just Kids"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 123.877,
+            "track_id": "5hcW22zjdyamTZu14u3KzV",
+            "track_name": "You Got A Friend In Me (From \"Toy Story\")",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-07-31T20:45:41Z",
+            "album_id": "6hrla5I0TF37GCm9Wim8Ja",
+            "album_name": "pop a pill",
+            "album_release_date": "2017-10-18",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5i4BaWy8YIun1u3RXwmlWn",
+                    "artist_name": "gianni & kyle"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 180.808,
+            "track_id": "15VIPlqNYLgN6T43kBAClE",
+            "track_name": "pop a pill",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-07-31T20:47:20Z",
+            "album_id": "1XMw3pBrYeXzNXZXc84DNw",
+            "album_name": "Savage Love (Laxed - Siren Beat)",
+            "album_release_date": "2020-06-11",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "56mfhUDKa1vec6rSLZV5Eg",
+                    "artist_name": "Jawsh 685"
+                },
+                {
+                    "artist_id": "07YZf4WDAMNwqr4jfgOZ8y",
+                    "artist_name": "Jason Derulo"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 171.374,
+            "track_id": "1xQ6trAsedVPCdbtDAmk0c",
+            "track_name": "Savage Love (Laxed - Siren Beat)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-07-31T20:48:07Z",
+            "album_id": "3MKzPmcLVNlQdAZxRBnC6c",
+            "album_name": "Laxed (Siren Beat)",
+            "album_release_date": "2020-04-24",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "56mfhUDKa1vec6rSLZV5Eg",
+                    "artist_name": "Jawsh 685"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 201.99,
+            "track_id": "3BJiF37kmX4HCfYSO7qBnQ",
+            "track_name": "Laxed \u2013 Siren Beat",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-08-26T13:10:34Z",
+            "album_id": "061IeHu2QcmToSRzRkzeqM",
+            "album_name": "Committed to the Crime",
+            "album_release_date": "2014-10-07",
+            "album_total_tracks": 6,
+            "artists": [
+                {
+                    "artist_id": "6D6rjLdxyE5vwhMlkuQq0E",
+                    "artist_name": "Chaos Chaos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 250.712,
+            "track_id": "3lOok0REf4j3790abX26PR",
+            "track_name": "Do You Feel It?",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-10-30T16:07:18Z",
+            "album_id": "0BwWUstDMUbgq2NYONRqlu",
+            "album_name": "Rumours (Super Deluxe)",
+            "album_release_date": "1977-02-04",
+            "album_total_tracks": 58,
+            "artists": [
+                {
+                    "artist_id": "08GQAI4eElDnROBrJRGE0X",
+                    "artist_name": "Fleetwood Mac"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 257.8,
+            "track_id": "0ofHAoxe9vBkTCp2UQIavz",
+            "track_name": "Dreams - 2004 Remaster",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-11-11T08:43:09Z",
+            "album_id": "3HCY9oQ7X5vPQzfkHAgNW0",
+            "album_name": "The Return of Stravinsky Wellington",
+            "album_release_date": "2017-06-02",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "2jwl8DJIsmnFbA5vPdGSCy",
+                    "artist_name": "Bonaparte"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 200.773,
+            "track_id": "0DjjsGPBMqWQCfImCCIMIb",
+            "track_name": "Fuck Your Accent",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-11-11T08:43:16Z",
+            "album_id": "02HFEZPVz1dgaovAPg8ntj",
+            "album_name": "Manana Forever",
+            "album_release_date": "2013-04-17",
+            "album_total_tracks": 8,
+            "artists": [
+                {
+                    "artist_id": "2jwl8DJIsmnFbA5vPdGSCy",
+                    "artist_name": "Bonaparte"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 207.211,
+            "track_id": "2J9vby0Y9O6g8Ot9smMmjp",
+            "track_name": "Ma\u00f1ana Forever",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-12-14T08:35:45Z",
+            "album_id": "6H0wsYDvFlATzXHn0IqVpi",
+            "album_name": "Get The Knack",
+            "album_release_date": "1979-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "0Nn9YwJzcaeuU1jJL06e3r",
+                    "artist_name": "The Knack"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 295.4,
+            "track_id": "1HOMkjp0nHMaTnfAkslCQj",
+            "track_name": "My Sharona",
+            "track_number": 7
+        },
+        {
+            "added_at": "2020-12-14T08:37:21Z",
+            "album_id": "2Pw51hAGvWpTA3AYl2WVuu",
+            "album_name": "4 (Expanded)",
+            "album_release_date": "1981",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6IRouO5mvvfcyxtPDKMYFN",
+                    "artist_name": "Foreigner"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 271.2,
+            "track_id": "08onVqQ8YicJ98Ycm1qoLf",
+            "track_name": "Urgent",
+            "track_number": 6
+        },
+        {
+            "added_at": "2020-12-14T08:40:45Z",
+            "album_id": "3cHTRZ8zythVmOH5js9mgi",
+            "album_name": "100 Essential Soul & Funk Classics",
+            "album_release_date": "2010-10-15",
+            "album_total_tracks": 100,
+            "artists": [
+                {
+                    "artist_id": "7zliF6Q946WznVk3ZMYhZX",
+                    "artist_name": "The Sugarhill Gang"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 235.12,
+            "track_id": "4ah2I83egBRhCGRGbYNyTw",
+            "track_name": "Rappers Delight",
+            "track_number": 7
+        },
+        {
+            "added_at": "2020-12-15T11:05:15Z",
+            "album_id": "0qNwJrFHuC0nQt9J4UwEqn",
+            "album_name": "Amor ou o Litr\u00e3o",
+            "album_release_date": "2020-10-16",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6gGJH7joTDx9M3xREiAq9U",
+                    "artist_name": "Petter Ferraz"
+                },
+                {
+                    "artist_id": "0xTWPVQfXgaj6Je1inSRKw",
+                    "artist_name": "Menor Nico"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 173.913,
+            "track_id": "7qmnP8Woc47dLSrMD5MxL1",
+            "track_name": "Amor ou o Litr\u00e3o",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-12-15T11:42:50Z",
+            "album_id": "3z4FFF3GiS8BqEj8NERa5C",
+            "album_name": "N\u00e3o Fica Apaixonadinha",
+            "album_release_date": "2020-08-31",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4BJhlwUkAivteWZYr34mAD",
+                    "artist_name": "MC Lorenzo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 179.076,
+            "track_id": "6UqiwXRyoAwvOsFYuGHLir",
+            "track_name": "N\u00e3o Fica Apaixonadinha",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-12-15T11:45:45Z",
+            "album_id": "0Pbqxx1sYY2Tbqe8eLoB2R",
+            "album_name": "Rave Na Praia",
+            "album_release_date": "2020-02-29",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2pV4eqEWsHrgwSbuAg2fmi",
+                    "artist_name": "MC Teteu"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 203.636,
+            "track_id": "50YsV2XFugoMrqJK9Ttdly",
+            "track_name": "Rave Na Praia",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-12-16T16:05:12Z",
+            "album_id": "4bOo9ZPegPWJCH8I67nnYO",
+            "album_name": "Jovem",
+            "album_release_date": "2019-05-10",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "0B0FipO3fLbLbHQz5RfTUs",
+                    "artist_name": "Julio Secchin"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 173.512,
+            "track_id": "6XrIHGBodqJ1J8R7rbEfNk",
+            "track_name": "Jovem",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-01-09T14:20:55Z",
+            "album_id": "4HTCdnAkvxbrwLjo6Z9lTV",
+            "album_name": "Mtg - Vem sentando vem",
+            "album_release_date": "2020-11-09",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "0bzyhFojsIgDceZ4NQK9pY",
+                    "artist_name": "Dj Nbeat"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 139.427,
+            "track_id": "2afirRVDfxKW1gKFc5HqHM",
+            "track_name": "Mtg - Vem sentando vem",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-02-05T09:39:29Z",
+            "album_id": "6lSOD4LW81yaX3TCnyvFKI",
+            "album_name": "Time's Out",
+            "album_release_date": "2021-02-01",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2sPxieBWuh7uvEySB4k3ID",
+                    "artist_name": "Kosta."
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.777,
+            "track_id": "4ppWPBt3APdMeBuZtamPA4",
+            "track_name": "Time's Out",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-03-02T11:28:28Z",
+            "album_id": "07IFUnMDYOzv94jEciuCTi",
+            "album_name": "A Patricinha e o Favelado",
+            "album_release_date": "2019-10-08",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "7BcNoOEIx29j5XjfDxCIUy",
+                    "artist_name": "Mc Leo da Baixada"
+                },
+                {
+                    "artist_id": "27mVhYvJa7apj1zCoZ9TF2",
+                    "artist_name": "MC Neguinho do Kaxeta"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 235.636,
+            "track_id": "4wUanYubOiClPatUzW9XTe",
+            "track_name": "A Patricinha e o Favelado",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-03-02T22:58:45Z",
+            "album_id": "3twlqHfik2vYBMmqprRpXm",
+            "album_name": "Vai no Ch\u00e3o Doidona",
+            "album_release_date": "2020-03-23",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6fTuuqOYCnU7oleecp16zB",
+                    "artist_name": "Mc Vittin PV"
+                },
+                {
+                    "artist_id": "7Dq3oCz43MCuWBRgWTltZI",
+                    "artist_name": "DJ PH DA SERRA"
+                },
+                {
+                    "artist_id": "0YBT1vENPdEL8jU604u81J",
+                    "artist_name": "Dj TG da Inestan"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 163.511,
+            "track_id": "5zCrBIhg3eKTmuz8Y7BhWB",
+            "track_name": "Vai no Ch\u00e3o Doidona",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-03-04T10:00:51Z",
+            "album_id": "6nK66CStnTn8QcSfvoYPAU",
+            "album_name": "Homenagem aos Rel\u00edquias (feat. Menor MC, MC Vinny, MC Julio D.E R. & MC Leozinho ZS)",
+            "album_release_date": "2020-08-07",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1rIc4yTieeRq25NA3T8RQ5",
+                    "artist_name": "DJ Matt D"
+                },
+                {
+                    "artist_id": "0cjkWe9VXcECGiOEHFuTfc",
+                    "artist_name": "Mc Lipi"
+                },
+                {
+                    "artist_id": "4c4seBofkiiONBxLBd4CUa",
+                    "artist_name": "MC Lemos"
+                },
+                {
+                    "artist_id": "78Y1NpgD0yMKoBetaYlUzS",
+                    "artist_name": "Menor MC"
+                },
+                {
+                    "artist_id": "0dNyaMJp0r9zBYG86JgRDI",
+                    "artist_name": "MC Vinny"
+                },
+                {
+                    "artist_id": "3iqmw9YYC7Zo59FHAu1V7U",
+                    "artist_name": "MC Julio D.E R."
+                },
+                {
+                    "artist_id": "6VyttZwyEMGBl90oGdKCB8",
+                    "artist_name": "MC Leozinho ZS"
+                }
+            ],
+            "n_artists": 7,
+            "track_duration_seg": 303.769,
+            "track_id": "4vDC52DnSqAjec5Vh5yJEb",
+            "track_name": "Homenagem aos Rel\u00edquias (feat. Menor MC, MC Vinny, MC Julio D.E R. & MC Leozinho ZS)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-03-02T22:59:22Z",
+            "album_id": "6dXKy9X9o0HpcF0YZjaWOa",
+            "album_name": "Kenny G",
+            "album_release_date": "2019-09-04",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5nP8x4uEFjAAmDzwOEc9b8",
+                    "artist_name": "Matu\u00ea"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 189.6,
+            "track_id": "3MkdA6vwF0ifRl86yzTlJW",
+            "track_name": "Kenny G",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-03-02T22:59:44Z",
+            "album_id": "2NtkW7FT1VdKVjGXhLKp9k",
+            "album_name": "Anos Luz",
+            "album_release_date": "2017-11-10",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5nP8x4uEFjAAmDzwOEc9b8",
+                    "artist_name": "Matu\u00ea"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 264.035,
+            "track_id": "0GYPcKDlsb8WEtJkkKdtgH",
+            "track_name": "Anos Luz",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-03-03T08:40:23Z",
+            "album_id": "6g442PMBkFk6xu5kOsFm36",
+            "album_name": "Touch the Sky (Welcome Home) - EP",
+            "album_release_date": "2010-10-05",
+            "album_total_tracks": 6,
+            "artists": [
+                {
+                    "artist_id": "5EM6xJN2QNk0cL7EEm9HR9",
+                    "artist_name": "Radical Face"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 287.393,
+            "track_id": "1oofwLaSk4kDIWAYT5ZGK7",
+            "track_name": "Welcome Home",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-03-11T11:48:01Z",
+            "album_id": "6OL68J5ZRlWyOpO7lEbn7s",
+            "album_name": "Dear Misfortune, Mother of Joy - EP",
+            "album_release_date": "2015-08-06",
+            "album_total_tracks": 5,
+            "artists": [
+                {
+                    "artist_id": "4nx8ehrFiCOmWgebUKshDV",
+                    "artist_name": "Broken Back"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 219.373,
+            "track_id": "7p2RlyF403KmPmZm2TxKl3",
+            "track_name": "Young Souls",
+            "track_number": 3
+        },
+        {
+            "added_at": "2021-03-15T12:53:06Z",
+            "album_id": "0hNZyq7s2N1N5fYTIZF3zO",
+            "album_name": "The Times They Are A-Changin'",
+            "album_release_date": "2019-12-13",
+            "album_total_tracks": 2,
+            "artists": [
+                {
+                    "artist_id": "6riEBbCnOOr0uBy8YjK4Zj",
+                    "artist_name": "Fort Nowhere"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 324.428,
+            "track_id": "2iBJDuwNkoewHARF0boVET",
+            "track_name": "The Times They Are A-Changin'",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-03-15T12:53:15Z",
+            "album_id": "0hNZyq7s2N1N5fYTIZF3zO",
+            "album_name": "The Times They Are A-Changin'",
+            "album_release_date": "2019-12-13",
+            "album_total_tracks": 2,
+            "artists": [
+                {
+                    "artist_id": "6riEBbCnOOr0uBy8YjK4Zj",
+                    "artist_name": "Fort Nowhere"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 257.142,
+            "track_id": "4CTRsIV1K0rk9wVve2B6WZ",
+            "track_name": "The Times They Are A-Changin' - Radio Edit",
+            "track_number": 2
+        },
+        {
+            "added_at": "2021-03-16T14:21:52Z",
+            "album_id": "4wRvyoU54SubOhGWL2n9Rp",
+            "album_name": "Cheiro do Mato (Ac\u00fastico)",
+            "album_release_date": "2020-08-21",
+            "album_total_tracks": 5,
+            "artists": [
+                {
+                    "artist_id": "0vLuOi2k62sHujIfplInlK",
+                    "artist_name": "Hungria Hip Hop"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 322.736,
+            "track_id": "5ra6CI0pEzqjxPEZeBz0d7",
+            "track_name": "Amor e F\u00e9 - Ac\u00fastico",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-03-31T07:40:40Z",
+            "album_id": "5oH6XhYgqwJ9x6iw6azNiO",
+            "album_name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
+            "album_release_date": "1997-06-17",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "7EK1bQADBoqbYXnT4Cqv9w",
+                    "artist_name": "John Denver"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.813,
+            "track_id": "39q7xibBdRboeMKUbZEB6g",
+            "track_name": "Take Me Home, Country Roads",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-04-02T13:07:46Z",
+            "album_id": "5Jbiw69yGe9uAJ7ElPfPep",
+            "album_name": "H\u00edbrido",
+            "album_release_date": "2021-02-25",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "1xxS2WrLlgl9QNGEUCsbPG",
+                    "artist_name": "Tribo da Periferia"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 210.461,
+            "track_id": "4553asTWEDAk3NUAT4d0RR",
+            "track_name": "Resili\u00eancia",
+            "track_number": 10
+        },
+        {
+            "added_at": "2021-04-07T13:17:38Z",
+            "album_id": "4tyQW6fElOfEGSeRGqrkIJ",
+            "album_name": "Flash",
+            "album_release_date": "2019-09-09",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "7tojcuXcZ7eBlQjbAc65Ee",
+                    "artist_name": "MC Caverinha"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 155.937,
+            "track_id": "3UEm2avDtIIaT3UvuvsxES",
+            "track_name": "Flash",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-04-08T09:26:30Z",
+            "album_id": "7wXkUm13tvmKQ9LJjmkkfm",
+            "album_name": "Isso Que \u00e9 Vida",
+            "album_release_date": "2019-03-15",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6xlRSRMLgZbsSNd0BMobwy",
+                    "artist_name": "DENNIS"
+                },
+                {
+                    "artist_id": "0eG7BXt40ztpJQ7nUOYvg3",
+                    "artist_name": "Cantini"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 159.458,
+            "track_id": "1dKYlw6v9wofuqb7EXSvPn",
+            "track_name": "Isso Que \u00e9 Vida",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-04-13T20:27:53Z",
+            "album_id": "2ahXczQYnPZQnvuTuha1wI",
+            "album_name": "Senta no Fazendeiro",
+            "album_release_date": "2019-07-01",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6qrqAYlS6lUj2BVXax7SZW",
+                    "artist_name": "Mc Jacare\u0301"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 146.233,
+            "track_id": "1wsL4Lgoo27ETnLt6svbnT",
+            "track_name": "Senta no Fazendeiro",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-04-14T20:10:22Z",
+            "album_id": "2hZK1aGxPqE8XMyUK8bV79",
+            "album_name": "Somebody That You Loved",
+            "album_release_date": "2019-08-02",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5veVxxPm1vzgi6pO2iVA8L",
+                    "artist_name": "Bruno Martini"
+                },
+                {
+                    "artist_id": "2WuKU0SYZOQyY3MmE4vtez",
+                    "artist_name": "New Hope Club"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 215.998,
+            "track_id": "2x6kFL5AIIwacxHySO4mXP",
+            "track_name": "Somebody That You Loved",
+            "track_number": 1
+        }
+    ]
+}

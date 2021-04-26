@@ -1,0 +1,380 @@
+{
+    "playlist_id": "2Vmq3Y888reulxP9PpuNTQ",
+    "playlist_name": "ES popshit",
+    "tracks": [
+        {
+            "added_at": "2020-03-25T10:35:09Z",
+            "album_id": "0YCyFUN3ihGbP2x9C09NF6",
+            "album_name": "CNCO",
+            "album_release_date": "2018-04-06",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "0eecdvMrqBftK0M1VKhaF4",
+                    "artist_name": "CNCO"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 188.453,
+            "track_id": "67w1ExZEtmnuMXggqNeX8w",
+            "track_name": "Mala Actitud",
+            "track_number": 9
+        },
+        {
+            "added_at": "2020-03-25T10:35:17Z",
+            "album_id": "0YCyFUN3ihGbP2x9C09NF6",
+            "album_name": "CNCO",
+            "album_release_date": "2018-04-06",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "0eecdvMrqBftK0M1VKhaF4",
+                    "artist_name": "CNCO"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 177.373,
+            "track_id": "6n5956PjaUYUahoGaIIvYQ",
+            "track_name": "No Me Sueltes",
+            "track_number": 12
+        },
+        {
+            "added_at": "2020-03-25T10:35:25Z",
+            "album_id": "57giaIaMyAVCS7jMIaoIgK",
+            "album_name": "VIVES",
+            "album_release_date": "2017-11-10",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "4vhNDa5ycK0ST968ek7kRr",
+                    "artist_name": "Carlos Vives"
+                },
+                {
+                    "artist_id": "07YUOmWljBTXwIseAUd9TW",
+                    "artist_name": "Sebastian Yatra"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 194.742,
+            "track_id": "0JcNysfWVWaMS7R6vzGB2k",
+            "track_name": "Robarte un Beso",
+            "track_number": 13
+        },
+        {
+            "added_at": "2020-03-25T10:35:40Z",
+            "album_id": "5copaUcdkusJODGpGgxLYZ",
+            "album_name": "No Te Veo",
+            "album_release_date": "2018-06-29",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1fux65HMCBvfJHqlBc4Nno",
+                    "artist_name": "Casper Magico"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 217.04,
+            "track_id": "1TQ4zPEwZ5AJ25DIIkXiMi",
+            "track_name": "No Te Veo",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:35:58Z",
+            "album_id": "5LVzltpMHtW3S7GMX5B8Fd",
+            "album_name": "Confia Remix",
+            "album_release_date": "2018-08-03",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2LmcxBak1alK1bf7d1beTr",
+                    "artist_name": "Juhn"
+                },
+                {
+                    "artist_id": "1i8SpTcr7yvPOmcqrbnVXY",
+                    "artist_name": "Ozuna"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 234.68,
+            "track_id": "1Pa6vEvBMLyHcgNxU8yk23",
+            "track_name": "Confia Remix",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:36:05Z",
+            "album_id": "0YCyFUN3ihGbP2x9C09NF6",
+            "album_name": "CNCO",
+            "album_release_date": "2018-04-06",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "0eecdvMrqBftK0M1VKhaF4",
+                    "artist_name": "CNCO"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 182.133,
+            "track_id": "49shYbbd28XFox2gX1e5Mm",
+            "track_name": "Demu\u00e9strame",
+            "track_number": 13
+        },
+        {
+            "added_at": "2020-03-25T10:36:15Z",
+            "album_id": "76mK6wSbJ7vVxTBl8F5DS7",
+            "album_name": "Bella",
+            "album_release_date": "2017-09-29",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2OnKRchqP7tT0FzTvWIFI7",
+                    "artist_name": "Wolfine"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.12,
+            "track_id": "1Ft13La2daEGqz5yWJC7lx",
+            "track_name": "Bella",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:36:22Z",
+            "album_id": "05ydY3EcSmcCm8AfpDlmPU",
+            "album_name": "Bella (Remix)",
+            "album_release_date": "2018-05-04",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2OnKRchqP7tT0FzTvWIFI7",
+                    "artist_name": "Wolfine"
+                },
+                {
+                    "artist_id": "1r4hJ1h58CWwUQe3MxPuau",
+                    "artist_name": "Maluma"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 218.36,
+            "track_id": "0SKhd6uBssOAqEvlLuUr3s",
+            "track_name": "Bella - Remix",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:36:35Z",
+            "album_id": "5NYFSmcnoYZIN74UwObK2i",
+            "album_name": "Quero Que Tu V\u00e1 (International Mix)",
+            "album_release_date": "2018-10-05",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "3ocjm34azq21UtebolrtKj",
+                    "artist_name": "Ananda"
+                },
+                {
+                    "artist_id": "3Ces1OJeGOVGcUB0wPaPXJ",
+                    "artist_name": "Mala Rodr\u00edguez"
+                },
+                {
+                    "artist_id": "7tsmrNpbLkT4xL1nzRLpCu",
+                    "artist_name": "Joker Beats"
+                },
+                {
+                    "artist_id": "0XIKGBo9PnK1ApI5tZA60d",
+                    "artist_name": "DaniLeigh"
+                }
+            ],
+            "n_artists": 4,
+            "track_duration_seg": 139.318,
+            "track_id": "0PrEC7N82UwV79gg0mXPMX",
+            "track_name": "Quero Que Tu V\u00e1 (International Mix)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:37:42Z",
+            "album_id": "2t2aNgqXTXuCh9fqT05g9U",
+            "album_name": "No Me Conoce (Remix)",
+            "album_release_date": "2019-05-17",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "0EFisYRi20PTADoJrifHrz",
+                    "artist_name": "Jhay Cortez"
+                },
+                {
+                    "artist_id": "1vyhD5VmyZ7KMfW5gqLgo5",
+                    "artist_name": "J Balvin"
+                },
+                {
+                    "artist_id": "4q3ewBCX7sLwd24euuV69X",
+                    "artist_name": "Bad Bunny"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 307.546,
+            "track_id": "7rknFhrVDyxzTJkPSf7LoW",
+            "track_name": "No Me Conoce - Remix",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:38:40Z",
+            "album_id": "3YIUNL7qFE8NP3X3zaYSND",
+            "album_name": "11:11",
+            "album_release_date": "2019-05-17",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "1r4hJ1h58CWwUQe3MxPuau",
+                    "artist_name": "Maluma"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 175.733,
+            "track_id": "7KbF6AdprOXEEHlsq11Z6d",
+            "track_name": "11 PM",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:39:12Z",
+            "album_id": "6ylFfzx32ICw4L1A7YWNLN",
+            "album_name": "OASIS",
+            "album_release_date": "2019-06-28",
+            "album_total_tracks": 8,
+            "artists": [
+                {
+                    "artist_id": "1vyhD5VmyZ7KMfW5gqLgo5",
+                    "artist_name": "J Balvin"
+                },
+                {
+                    "artist_id": "4q3ewBCX7sLwd24euuV69X",
+                    "artist_name": "Bad Bunny"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 222.346,
+            "track_id": "25ZAibhr3bdlMCLmubZDVt",
+            "track_name": "QUE PRETENDES",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-03-25T10:39:42Z",
+            "album_id": "1V9QpD8kjA2iHCElhFGvlo",
+            "album_name": "Famouz",
+            "album_release_date": "2019-05-24",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "0EFisYRi20PTADoJrifHrz",
+                    "artist_name": "Jhay Cortez"
+                },
+                {
+                    "artist_id": "1vyhD5VmyZ7KMfW5gqLgo5",
+                    "artist_name": "J Balvin"
+                },
+                {
+                    "artist_id": "4q3ewBCX7sLwd24euuV69X",
+                    "artist_name": "Bad Bunny"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 309.12,
+            "track_id": "4R8BJggjosTswLxtkw8V7P",
+            "track_name": "No Me Conoce - Remix",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-03-25T10:39:56Z",
+            "album_id": "70WadO9CAH4rOI1rEbTS0a",
+            "album_name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
+            "album_release_date": "2017-10-20",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4bw2Am3p9ji3mYsXNXtQcd",
+                    "artist_name": "Piso 21"
+                },
+                {
+                    "artist_id": "0tmwSHipWxN12fsoLcFU3B",
+                    "artist_name": "Manuel Turizo"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 220.116,
+            "track_id": "33bnxcjePIkcmNjEFTJX0l",
+            "track_name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:41:38Z",
+            "album_id": "2njbaonul4fuGOFmPchUgU",
+            "album_name": "Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",
+            "album_release_date": "2019-04-25",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1i8SpTcr7yvPOmcqrbnVXY",
+                    "artist_name": "Ozuna"
+                },
+                {
+                    "artist_id": "4VMYDCV2IEDYJArk749S6m",
+                    "artist_name": "Daddy Yankee"
+                },
+                {
+                    "artist_id": "1vyhD5VmyZ7KMfW5gqLgo5",
+                    "artist_name": "J Balvin"
+                },
+                {
+                    "artist_id": "329e4yvIujISKGKz1BZZbO",
+                    "artist_name": "Farruko"
+                },
+                {
+                    "artist_id": "2R21vXR83lH98kGeO99Y66",
+                    "artist_name": "Anuel AA"
+                }
+            ],
+            "n_artists": 5,
+            "track_duration_seg": 235.284,
+            "track_id": "7mWFF4gPADjTQjC97CgFVt",
+            "track_name": "Baila Baila Baila - Remix",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:44:11Z",
+            "album_id": "02XOoh8XrlCc466QkkjGk5",
+            "album_name": "Te Vi",
+            "album_release_date": "2018-12-14",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4bw2Am3p9ji3mYsXNXtQcd",
+                    "artist_name": "Piso 21"
+                },
+                {
+                    "artist_id": "1aWJsBQa67l72j1VT3D6Ow",
+                    "artist_name": "Micro TDH"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 231.848,
+            "track_id": "059bcIhyc2SBwm6sw2AZzd",
+            "track_name": "Te Vi",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:47:34Z",
+            "album_id": "0qJkFmVwwNXP6fvSemDZqn",
+            "album_name": "Homerun",
+            "album_release_date": "2019-05-23",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "3vQ0GE3mI0dAaxIMYe5g7z",
+                    "artist_name": "Paulo Londra"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 256.971,
+            "track_id": "132ALUzVLmqYB4UsBj5qD6",
+            "track_name": "Adan y Eva",
+            "track_number": 4
+        }
+    ]
+}

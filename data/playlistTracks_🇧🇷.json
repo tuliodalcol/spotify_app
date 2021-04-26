@@ -1,0 +1,1236 @@
+{
+    "playlist_id": "0LnWRhNMb0ott3RV18etGf",
+    "playlist_name": "\ud83c\udde7\ud83c\uddf7",
+    "tracks": [
+        {
+            "added_at": "2018-09-04T08:26:15Z",
+            "album_id": "3sxAzbLUDuydUwiyWj5kil",
+            "album_name": "Chico Buarque de Hollanda Vol. 3",
+            "album_release_date": "1968-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 233.4,
+            "track_id": "06ND7qqsmIRCuWdQNQIlTE",
+            "track_name": "Roda-Viva",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-09-04T08:30:37Z",
+            "album_id": "4YtVB9VpAs4Os4W1OLYJOG",
+            "album_name": "A Tabua De Esmeralda",
+            "album_release_date": "1974-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "5JYtpnUKxAzXfHEYpOeeit",
+                    "artist_name": "Jorge Ben Jor"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 195.266,
+            "track_id": "1wGg0bL0JX77lpjZMEqpCr",
+            "track_name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-04T08:32:03Z",
+            "album_id": "4mlIaAkjf82LrzAw4Ez1vl",
+            "album_name": "Aquarela",
+            "album_release_date": "1983-01-01",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "7rPqFVgJYARiFsLDlN6W6y",
+                    "artist_name": "Toquinho"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 258.506,
+            "track_id": "4LhxdvP3lfgH3ciOyO1BX1",
+            "track_name": "Aquarela",
+            "track_number": 7
+        },
+        {
+            "added_at": "2018-09-04T08:39:07Z",
+            "album_id": "6fxYD0luum9MDdnqcgFYDk",
+            "album_name": "Espiral de Ilus\u00e3o (Deluxe Edition)",
+            "album_release_date": "2017-12-15",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 235.56,
+            "track_id": "6mbVIjzcMvHADuIn7xLbMp",
+            "track_name": "Nas \u00c1guas",
+            "track_number": 5
+        },
+        {
+            "added_at": "2018-09-04T08:26:12Z",
+            "album_id": "4K3E5bhJb92E7eyeIJ16QR",
+            "album_name": "Chico Buarque",
+            "album_release_date": "1978-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                },
+                {
+                    "artist_id": "3SKTkAUNa3oUa2rkd8DAyM",
+                    "artist_name": "MPB4"
+                },
+                {
+                    "artist_id": "177N2fB1WvNBCQ4epjMQ3O",
+                    "artist_name": "Quarteto Em Cy"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 235.546,
+            "track_id": "2GAFZG9Z7UGS1iMm4Idrnr",
+            "track_name": "Apesar De Voc\u00ea",
+            "track_number": 11
+        },
+        {
+            "added_at": "2018-09-04T08:29:22Z",
+            "album_id": "2b3Lz0g3F99wVCz7GemM14",
+            "album_name": "Os Primeiros Cl\u00e1ssicos",
+            "album_release_date": "2015-12-04",
+            "album_total_tracks": 30,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 253.493,
+            "track_id": "3LiXQvjwczVXVDQoWQB4PL",
+            "track_name": "Quem Te Viu, Quem Te V\u00ea",
+            "track_number": 11
+        },
+        {
+            "added_at": "2018-09-04T08:30:33Z",
+            "album_id": "4YtVB9VpAs4Os4W1OLYJOG",
+            "album_name": "A Tabua De Esmeralda",
+            "album_release_date": "1974-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "5JYtpnUKxAzXfHEYpOeeit",
+                    "artist_name": "Jorge Ben Jor"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 177.2,
+            "track_id": "43EuljVPmFPJF6tWkckRdF",
+            "track_name": "Menina Mulher Da Pele Preta",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-09-04T08:39:11Z",
+            "album_id": "6fxYD0luum9MDdnqcgFYDk",
+            "album_name": "Espiral de Ilus\u00e3o (Deluxe Edition)",
+            "album_release_date": "2017-12-15",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 105.36,
+            "track_id": "2HLTLsYlyaafNkiE8Pga0c",
+            "track_name": "Filha do Maneco",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-09-04T08:25:59Z",
+            "album_id": "2LxncTIR5lf2dzoZb3QNC6",
+            "album_name": "Meus Caros Amigos",
+            "album_release_date": "1976-01-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                },
+                {
+                    "artist_id": "3Bnq7jiU506HcPjRgQ43TM",
+                    "artist_name": "Milton Nascimento"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 166.573,
+            "track_id": "0rfbvwLPBLBsEd4Bxz8IVb",
+            "track_name": "O Que Ser\u00e1 (A Flor Da Terra)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-04T08:30:44Z",
+            "album_id": "6xxqVo2Gxqab79hVBFi2UW",
+            "album_name": "Jorge Ben (1969)",
+            "album_release_date": "1969",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "5JYtpnUKxAzXfHEYpOeeit",
+                    "artist_name": "Jorge Ben Jor"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 155.666,
+            "track_id": "5rjSKhSHGsKP2RJtbRWQkl",
+            "track_name": "Take It Easy My Brother Charles",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-09-04T08:30:54Z",
+            "album_id": "2KJsAjK0T585kFmFA3O7vr",
+            "album_name": "Bossa Nova",
+            "album_release_date": "2004-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "5JYtpnUKxAzXfHEYpOeeit",
+                    "artist_name": "Jorge Ben Jor"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 191.146,
+            "track_id": "2UPGnCChI7YS5g8Ki38Utz",
+            "track_name": "Mais Que Nada",
+            "track_number": 12
+        },
+        {
+            "added_at": "2018-09-04T08:31:06Z",
+            "album_id": "6xxqVo2Gxqab79hVBFi2UW",
+            "album_name": "Jorge Ben (1969)",
+            "album_release_date": "1969",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "5JYtpnUKxAzXfHEYpOeeit",
+                    "artist_name": "Jorge Ben Jor"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 250.666,
+            "track_id": "6C5jRZIjka2fbbhdkKdxUj",
+            "track_name": "Pa\u00eds Tropical",
+            "track_number": 5
+        },
+        {
+            "added_at": "2018-09-04T08:39:02Z",
+            "album_id": "6fxYD0luum9MDdnqcgFYDk",
+            "album_name": "Espiral de Ilus\u00e3o (Deluxe Edition)",
+            "album_release_date": "2017-12-15",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 220.32,
+            "track_id": "64O7PGUdBmga44nh5SuH7w",
+            "track_name": "L\u00e1 Vem Voc\u00ea",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-04T08:31:19Z",
+            "album_id": "0NdVGJ7e99By4k43k39nUY",
+            "album_name": "A Arte De Jorge Ben Jor",
+            "album_release_date": "2015-10-30",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "5JYtpnUKxAzXfHEYpOeeit",
+                    "artist_name": "Jorge Ben Jor"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 184.973,
+            "track_id": "1MGOjMQUJwrz6hs0WvtBUr",
+            "track_name": "Taj Mahal",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-09-04T08:32:18Z",
+            "album_id": "6uWgXMtKNMmlic7qqzGF0M",
+            "album_name": "Tom Jobim E Amigos",
+            "album_release_date": "2008-01-01",
+            "album_total_tracks": 5,
+            "artists": [
+                {
+                    "artist_id": "3pO5VjZ4wOHCMBXOvbMISG",
+                    "artist_name": "Ant\u00f4nio Carlos Jobim"
+                },
+                {
+                    "artist_id": "0yFvXd36g5sNKYDi0Kkvl8",
+                    "artist_name": "Elis Regina"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 212.4,
+            "track_id": "1zKgDX6cFrdPkNF5Z04snQ",
+            "track_name": "\u00c1guas De Mar\u00e7o",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-04T08:34:06Z",
+            "album_id": "7JTWd3h1XvNQA7mJpN89WB",
+            "album_name": "Chico Buarque (The Definitive Collection 1970-1984)",
+            "album_release_date": "2012-02-07",
+            "album_total_tracks": 40,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 141.906,
+            "track_id": "7BrOFk8Tq45TjHiOYTQvhp",
+            "track_name": "Jo\u00e3o E Maria",
+            "track_number": 27
+        },
+        {
+            "added_at": "2018-09-04T08:31:28Z",
+            "album_id": "0NdVGJ7e99By4k43k39nUY",
+            "album_name": "A Arte De Jorge Ben Jor",
+            "album_release_date": "2015-10-30",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "5JYtpnUKxAzXfHEYpOeeit",
+                    "artist_name": "Jorge Ben Jor"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 130.8,
+            "track_id": "3iFeP8ZNTMQXOpHdduZ6pB",
+            "track_name": "Filho Maravilha",
+            "track_number": 5
+        },
+        {
+            "added_at": "2018-09-04T08:31:59Z",
+            "album_id": "2KJsAjK0T585kFmFA3O7vr",
+            "album_name": "Bossa Nova",
+            "album_release_date": "2004-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "5b2ylVrhm7GKFoUjuNk1Op",
+                    "artist_name": "Vin\u00edcius"
+                },
+                {
+                    "artist_id": "3pO5VjZ4wOHCMBXOvbMISG",
+                    "artist_name": "Ant\u00f4nio Carlos Jobim"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 150.613,
+            "track_id": "13phYi072bj5ibxBx4VhQC",
+            "track_name": "Garota De Ipanema",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-09-04T08:39:21Z",
+            "album_id": "6fxYD0luum9MDdnqcgFYDk",
+            "album_name": "Espiral de Ilus\u00e3o (Deluxe Edition)",
+            "album_release_date": "2017-12-15",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 180.48,
+            "track_id": "4qKxY1kS9H0IAnxyAtoetp",
+            "track_name": "L\u00edngua Felina - Deluxe Edition",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-09-04T08:32:32Z",
+            "album_id": "27Zn2qUQICAQsxTUuMd6P3",
+            "album_name": "The Definitive Collection",
+            "album_release_date": "2012-04-30",
+            "album_total_tracks": 40,
+            "artists": [
+                {
+                    "artist_id": "7HGNYPmbDrMkylWqeFCOIQ",
+                    "artist_name": "Caetano Veloso"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 170.48,
+            "track_id": "3m7rTEQjdSvR6qYOIRHcd9",
+            "track_name": "Alegria Alegria",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-09-04T08:37:53Z",
+            "album_id": "377Lmb4EKi6WZAuTdvm4RF",
+            "album_name": "Para Sempre",
+            "album_release_date": "2001-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "7vTlV3ajnMxl5l0ahupUeP",
+                    "artist_name": "Adoniran Barbosa"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 185.826,
+            "track_id": "5JSNcb3MwTxkDH4mrYKnHG",
+            "track_name": "Trem Das Onze",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-09-04T08:39:29Z",
+            "album_id": "6fxYD0luum9MDdnqcgFYDk",
+            "album_name": "Espiral de Ilus\u00e3o (Deluxe Edition)",
+            "album_release_date": "2017-12-15",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 206.76,
+            "track_id": "3UzxlGFVnGQDn7iYfIkn3j",
+            "track_name": "Cal\u00e7ada",
+            "track_number": 8
+        },
+        {
+            "added_at": "2018-11-30T22:31:07Z",
+            "album_id": "1zAlL3dYSXuLDOKlyoBdbD",
+            "album_name": "Carioca ao Vivo (Ao Vivo)",
+            "album_release_date": "2007-09-03",
+            "album_total_tracks": 28,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 181.16,
+            "track_id": "5deNWRbj6a29vYokcQmMm8",
+            "track_name": "Futuros Amantes",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-01-05T11:49:14Z",
+            "album_id": "4ejwSOS740Jj4z3h4RyxJo",
+            "album_name": "Chico Buarque de Hollanda",
+            "album_release_date": "1966-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 131.0,
+            "track_id": "6wUp7y502iyWLuLuurlOyw",
+            "track_name": "A Banda",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-05T11:56:06Z",
+            "album_id": "7yrRo2o4XzDfv3mNnkPRE5",
+            "album_name": "Constru\u00e7\u00e3o",
+            "album_release_date": "1971-01-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 168.373,
+            "track_id": "127twwy3iCo1xBRQHyWetU",
+            "track_name": "Cotidiano",
+            "track_number": 2
+        },
+        {
+            "added_at": "2019-01-15T22:12:11Z",
+            "album_id": "7yrRo2o4XzDfv3mNnkPRE5",
+            "album_name": "Constru\u00e7\u00e3o",
+            "album_release_date": "1971-01-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 383.626,
+            "track_id": "3FIuBxOxuQ6kYy8JO0gq2a",
+            "track_name": "Constru\u00e7\u00e3o",
+            "track_number": 4
+        },
+        {
+            "added_at": "2019-01-15T22:17:56Z",
+            "album_id": "3IBX1neaqOXcPE44m5Rtoz",
+            "album_name": "Minhas Primeiras Grava\u00e7\u00f5es (Remastered)",
+            "album_release_date": "2018-11-09",
+            "album_total_tracks": 36,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 130.96,
+            "track_id": "3YDUXcPn6JZJGpEWiR1iFP",
+            "track_name": "A Banda - Remastered",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-15T22:21:01Z",
+            "album_id": "2bMTuolrlzBvZIXBzfxw1s",
+            "album_name": "Acustico (Live)",
+            "album_release_date": "1998-01-01",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "7dnT2FUXhjirperXaH22IJ",
+                    "artist_name": "Rita Lee"
+                },
+                {
+                    "artist_id": "3Bnq7jiU506HcPjRgQ43TM",
+                    "artist_name": "Milton Nascimento"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 373.666,
+            "track_id": "2LFcCZZTc6SOo70bkYBjOZ",
+            "track_name": "Mania De Voce - Ao Vivo",
+            "track_number": 16
+        },
+        {
+            "added_at": "2019-01-15T22:22:18Z",
+            "album_id": "5wHPSM8ZSbwRrZJCvCc7Hc",
+            "album_name": "Maria, Maria (Ac\u00fastico)",
+            "album_release_date": "2018-05-11",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "3Bnq7jiU506HcPjRgQ43TM",
+                    "artist_name": "Milton Nascimento"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 286.56,
+            "track_id": "4sOzIkLAaBdeSqUNurJME8",
+            "track_name": "Maria, Maria - Ac\u00fastico",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-05-24T18:18:55Z",
+            "album_id": "4K3E5bhJb92E7eyeIJ16QR",
+            "album_name": "Chico Buarque",
+            "album_release_date": "1978-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                },
+                {
+                    "artist_id": "3Bnq7jiU506HcPjRgQ43TM",
+                    "artist_name": "Milton Nascimento"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 241.866,
+            "track_id": "0VUgbCK0k8QWGpLiEV8YYZ",
+            "track_name": "C\u00e1lice",
+            "track_number": 2
+        },
+        {
+            "added_at": "2019-05-24T18:24:10Z",
+            "album_id": "3GCQzHjGHSvtW99n7U7iD8",
+            "album_name": "Vento De Maio",
+            "album_release_date": "1998-01-01",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "0yFvXd36g5sNKYDi0Kkvl8",
+                    "artist_name": "Elis Regina"
+                },
+                {
+                    "artist_id": "7vTlV3ajnMxl5l0ahupUeP",
+                    "artist_name": "Adoniran Barbosa"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 164.0,
+            "track_id": "7f31hpuzCNIU0rX5E6Dr3g",
+            "track_name": "Tiro Ao \u00c1lvaro",
+            "track_number": 3
+        },
+        {
+            "added_at": "2019-05-24T18:24:58Z",
+            "album_id": "3vVOaBhCsnOWalEPRnLEUC",
+            "album_name": "Gilberto Gil (1969)",
+            "album_release_date": "1969-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "7oEkUINVIj1Nr3Wnj8tzqr",
+                    "artist_name": "Gilberto Gil"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 322.373,
+            "track_id": "3x3uXj4WZLO8wcEaoikdUp",
+            "track_name": "Aquele Abra\u00e7o",
+            "track_number": 3
+        },
+        {
+            "added_at": "2019-05-24T18:29:38Z",
+            "album_id": "61W8s1ybEMeJEhmEnMkZwY",
+            "album_name": "Espiral de Ilus\u00e3o",
+            "album_release_date": "2017-04-28",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 158.04,
+            "track_id": "318i1TNEzYc445WnfGa28m",
+            "track_name": "Dil\u00favio de Solid\u00e3o",
+            "track_number": 2
+        },
+        {
+            "added_at": "2019-05-24T18:32:40Z",
+            "album_id": "2LxncTIR5lf2dzoZb3QNC6",
+            "album_name": "Meus Caros Amigos",
+            "album_release_date": "1976-01-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6tOsSffQQIXmK8TqsDck8t",
+                    "artist_name": "Chico Buarque"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 261.666,
+            "track_id": "2thBIDQBbBSUG7tcwUw7Mw",
+            "track_name": "Meu Caro Amigo",
+            "track_number": 10
+        },
+        {
+            "added_at": "2019-05-24T18:34:26Z",
+            "album_id": "5pIlMNPZh4D9iJSoCfMzGi",
+            "album_name": "Acabou Chorare",
+            "album_release_date": "1972",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "2ohBjgFT9V0LRDWO2wF9DJ",
+                    "artist_name": "Novos Baianos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 217.96,
+            "track_id": "3TAMiM8XFmU9vFd333pgRh",
+            "track_name": "Mist\u00e9rio do Planeta",
+            "track_number": 6
+        },
+        {
+            "added_at": "2019-05-24T18:36:56Z",
+            "album_id": "5Inb6sTfsYiZnOoELmZqbb",
+            "album_name": "Enciclop\u00e9dia Musical Brasileira",
+            "album_release_date": "2001-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "47ucOGPLBaYYcUcTNI1Szg",
+                    "artist_name": "Geraldo Vandre"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 361.36,
+            "track_id": "78lTDfRCqtxSvByIRMiXF2",
+            "track_name": "Pra n\u00e3o dizer que n\u00e3o falei das flores",
+            "track_number": 14
+        },
+        {
+            "added_at": "2019-05-24T18:38:03Z",
+            "album_id": "1RBORtbwQzlPBgcYXErnZz",
+            "album_name": "Enciclop\u00e9dia Musical Brasileira",
+            "album_release_date": "1994-05-20",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2ohBjgFT9V0LRDWO2wF9DJ",
+                    "artist_name": "Novos Baianos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 400.92,
+            "track_id": "4P5f2NLw9GkgnbK5zs52Oj",
+            "track_name": "Preta pretinha",
+            "track_number": 4
+        },
+        {
+            "added_at": "2019-05-24T18:40:18Z",
+            "album_id": "5pIlMNPZh4D9iJSoCfMzGi",
+            "album_name": "Acabou Chorare",
+            "album_release_date": "1972",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "2ohBjgFT9V0LRDWO2wF9DJ",
+                    "artist_name": "Novos Baianos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 232.2,
+            "track_id": "3pSTUZbp7J5jg2JHChTf21",
+            "track_name": "A Menina Dan\u00e7a",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-06-13T12:37:45Z",
+            "album_id": "7Hk9jGHupUwHa0JXQr8m0F",
+            "album_name": "Clube Da Esquina",
+            "album_release_date": "1972",
+            "album_total_tracks": 21,
+            "artists": [
+                {
+                    "artist_id": "1mZbRiSVb2ExneAlDbBiiT",
+                    "artist_name": "L\u00f4 Borges"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 252.8,
+            "track_id": "0ElgcjFAHHj9ZvQfTOWm7v",
+            "track_name": "Um Girassol Da Cor Do Seu Cabelo",
+            "track_number": 8
+        },
+        {
+            "added_at": "2019-07-17T14:40:33Z",
+            "album_id": "76mK6wSbJ7vVxTBl8F5DS7",
+            "album_name": "Bella",
+            "album_release_date": "2017-09-29",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2OnKRchqP7tT0FzTvWIFI7",
+                    "artist_name": "Wolfine"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.12,
+            "track_id": "1Ft13La2daEGqz5yWJC7lx",
+            "track_name": "Bella",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-11-08T20:35:39Z",
+            "album_id": "4hGmuIZf2US0XzzplPki1I",
+            "album_name": "New Wave!",
+            "album_release_date": "1963-03-01",
+            "album_total_tracks": 8,
+            "artists": [
+                {
+                    "artist_id": "5RzjqfPS0Bu4bUMkyNNDpn",
+                    "artist_name": "Dizzy Gillespie"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 314.466,
+            "track_id": "0tQZjvTB0w7oJwOWw5UGjb",
+            "track_name": "One Note Samba",
+            "track_number": 6
+        },
+        {
+            "added_at": "2020-02-11T12:54:17Z",
+            "album_id": "1765kjY7xJvj4ZyescC1xF",
+            "album_name": "Movimento: Manifesta Sentimento",
+            "album_release_date": "2019-08-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "4cTAxWpGWv5fftdcfNdcn3",
+                    "artist_name": "Nanan"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 337.436,
+            "track_id": "3Y2zHHwdU1Hcf87IC93CCa",
+            "track_name": "Casa da Floresta",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-03-13T23:16:04Z",
+            "album_id": "6e4E59GlSVnnIbm4yAOiTg",
+            "album_name": "C_Mpl_Te",
+            "album_release_date": "2009-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "4aLM6HJFWigL80jtG8FNYN",
+                    "artist_name": "M\u00f3veis Coloniais de Acaju"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 278.453,
+            "track_id": "3Efo6Zoa9CesnKCNmuutVj",
+            "track_name": "O Tempo",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-03-24T10:03:19Z",
+            "album_id": "0rqQfqrqv6UaVzBILvGz7M",
+            "album_name": "Samba da Utopia",
+            "album_release_date": "2018-10-19",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6IP99taUkC3DqZfZCEdxLY",
+                    "artist_name": "Jonathan Silva"
+                },
+                {
+                    "artist_id": "4lTstEgQJelAPnmAuNg5Nu",
+                    "artist_name": "Ceumar"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 375.072,
+            "track_id": "311gRL6leNy6SP5t1c2hlL",
+            "track_name": "Samba da Utopia",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-23T12:09:26Z",
+            "album_id": "5gMUq1klnzsxksrh5mHIxO",
+            "album_name": "Sentinela",
+            "album_release_date": "1980-01-01",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "3Bnq7jiU506HcPjRgQ43TM",
+                    "artist_name": "Milton Nascimento"
+                },
+                {
+                    "artist_id": "360FjbxByY4XLqXrZ6cWGF",
+                    "artist_name": "Boca Livre"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 231.866,
+            "track_id": "3lCvcgpfoXg4zip5pdhCwD",
+            "track_name": "Can\u00e7\u00e3o Da Am\u00e9rica",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-04-26T10:17:19Z",
+            "album_id": "4HvVCCgm8aIdaDryqCjMCn",
+            "album_name": "Amuleto",
+            "album_release_date": "2017-08-18",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5rTjH3aABAmPM5B6DZebZ7",
+                    "artist_name": "Ti\u00ea"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 207.53,
+            "track_id": "5JEVbp6mX3umfQePbnN3sE",
+            "track_name": "Amuleto",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-26T10:17:40Z",
+            "album_id": "5LsQsZiCiIsviDVngEurIF",
+            "album_name": "Trem-Bala",
+            "album_release_date": "2017-05-12",
+            "album_total_tracks": 2,
+            "artists": [
+                {
+                    "artist_id": "66mL7YE8rG9eCu4QgM64m4",
+                    "artist_name": "Ana Vilela"
+                },
+                {
+                    "artist_id": "3qvcCP2J0fWi0m0uQDUf6r",
+                    "artist_name": "Luan Santana"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 176.63,
+            "track_id": "66O1SfDryBYk9i3RcV5AXq",
+            "track_name": "Trem-Bala - Ac\u00fastico",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-26T10:23:03Z",
+            "album_id": "28N2a65qVEXfo3vl2McvY1",
+            "album_name": "Melim",
+            "album_release_date": "2017-12-08",
+            "album_total_tracks": 3,
+            "artists": [
+                {
+                    "artist_id": "6uYrXgVHctAJtIdSODcyLJ",
+                    "artist_name": "Melim"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.616,
+            "track_id": "5oFywvlhKbgRT9WSE4VZkY",
+            "track_name": "Meu Abrigo",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-26T10:18:30Z",
+            "album_id": "6lfJqom0pJGFKgkMf3Onnh",
+            "album_name": "Kell Smith",
+            "album_release_date": "2017-03-08",
+            "album_total_tracks": 4,
+            "artists": [
+                {
+                    "artist_id": "74WDLxBsm1TLxV6WVwD994",
+                    "artist_name": "Kell Smith"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.0,
+            "track_id": "6A569zyv8nT8xyFYYGqC6C",
+            "track_name": "Era uma Vez",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-04-26T10:18:52Z",
+            "album_id": "5YtOfqMu6MXmHOaSE5lI1E",
+            "album_name": "Abrigo",
+            "album_release_date": "2017-11-03",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5CC2At3k0Xnyc5s9yHdyax",
+                    "artist_name": "Roberta Campos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 223.773,
+            "track_id": "1eVwcm7KXmJ8cAfQ9jz2wm",
+            "track_name": "Abrigo",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-26T10:20:46Z",
+            "album_id": "7t5ScMLW7t6WIa5F1VRvNN",
+            "album_name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
+            "album_release_date": "2017-04-17",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4iWkwAVzssjb8XgxdoOL6M",
+                    "artist_name": "Tiago Iorc"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 208.47,
+            "track_id": "5nJNdtx7ZtkNRKiYdhb87Z",
+            "track_name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-26T10:21:11Z",
+            "album_id": "2IUVCuvyfKf3W4emTGExqs",
+            "album_name": "Pitanga",
+            "album_release_date": "2011-10-24",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "1m00QT2CkW6rHi4dly8rVN",
+                    "artist_name": "Mallu Magalh\u00e3es"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 165.96,
+            "track_id": "0UtoASDXmEeZklHfKlqz8s",
+            "track_name": "Velha e Louca",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-26T10:22:11Z",
+            "album_id": "2aD4bVWQ2RrPvpOHSV2nSO",
+            "album_name": "Feito Pra Acabar",
+            "album_release_date": "2010-11-30",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "21LI2q2QDyaNjyfXaWWTOE",
+                    "artist_name": "Marcelo Jeneci"
+                },
+                {
+                    "artist_id": "1TqENBMGiIRbO5A0Rhc0za",
+                    "artist_name": "Laura Lavieri"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 268.64,
+            "track_id": "2VJOJBlHlSzdsf1uBpReKe",
+            "track_name": "Pra Sonhar",
+            "track_number": 6
+        },
+        {
+            "added_at": "2020-04-26T10:24:53Z",
+            "album_id": "2aD4bVWQ2RrPvpOHSV2nSO",
+            "album_name": "Feito Pra Acabar",
+            "album_release_date": "2010-11-30",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "21LI2q2QDyaNjyfXaWWTOE",
+                    "artist_name": "Marcelo Jeneci"
+                },
+                {
+                    "artist_id": "1TqENBMGiIRbO5A0Rhc0za",
+                    "artist_name": "Laura Lavieri"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 252.6,
+            "track_id": "7wqojWtf69NNjw3P5wMst6",
+            "track_name": "Felicidade",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-26T10:25:18Z",
+            "album_id": "4jZncyAcIndHAVVlYG4vDk",
+            "album_name": "Ef\u00eamera",
+            "album_release_date": "2010-06-19",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "6OokCpvxnYv43WcFqejMLb",
+                    "artist_name": "Tulipa Ruiz"
+                },
+                {
+                    "artist_id": "1ZLHH9MsBSa70q6KcGzWNM",
+                    "artist_name": "Z\u00e9 Pi"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 221.253,
+            "track_id": "5Y1mguQcl8TbHgS12atuVy",
+            "track_name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
+            "track_number": 11
+        },
+        {
+            "added_at": "2020-04-26T10:25:31Z",
+            "album_id": "4jZncyAcIndHAVVlYG4vDk",
+            "album_name": "Ef\u00eamera",
+            "album_release_date": "2010-06-19",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "6OokCpvxnYv43WcFqejMLb",
+                    "artist_name": "Tulipa Ruiz"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.586,
+            "track_id": "0iRIYx90xEgqfbFcwzrtFc",
+            "track_name": "\u00cafemera",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-26T10:26:36Z",
+            "album_id": "7uDhGYN7V5tmilXYlRwJCk",
+            "album_name": "Mallu Magalh\u00e3es",
+            "album_release_date": "2008-04-30",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "1m00QT2CkW6rHi4dly8rVN",
+                    "artist_name": "Mallu Magalh\u00e3es"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 128.653,
+            "track_id": "4eHY39ze4YxUenGhYH0CV9",
+            "track_name": "Don't You Look Back",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-04-26T10:26:43Z",
+            "album_id": "7uDhGYN7V5tmilXYlRwJCk",
+            "album_name": "Mallu Magalh\u00e3es",
+            "album_release_date": "2008-04-30",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "1m00QT2CkW6rHi4dly8rVN",
+                    "artist_name": "Mallu Magalh\u00e3es"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 199.4,
+            "track_id": "7dE2xu6sUZC0d0s2QiKjLo",
+            "track_name": "Tchubaruba - Bonus Track",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-04-26T10:26:56Z",
+            "album_id": "7uDhGYN7V5tmilXYlRwJCk",
+            "album_name": "Mallu Magalh\u00e3es",
+            "album_release_date": "2008-04-30",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "1m00QT2CkW6rHi4dly8rVN",
+                    "artist_name": "Mallu Magalh\u00e3es"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 166.466,
+            "track_id": "0OFtM1RLXdgYKHiGZWpwEG",
+            "track_name": "Town of rock n' roll",
+            "track_number": 5
+        },
+        {
+            "added_at": "2020-04-26T10:27:18Z",
+            "album_id": "7uDhGYN7V5tmilXYlRwJCk",
+            "album_name": "Mallu Magalh\u00e3es",
+            "album_release_date": "2008-04-30",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "1m00QT2CkW6rHi4dly8rVN",
+                    "artist_name": "Mallu Magalh\u00e3es"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 227.12,
+            "track_id": "2gKkWCGr7Hk6wW85DBbXBb",
+            "track_name": "J1",
+            "track_number": 8
+        },
+        {
+            "added_at": "2020-04-26T10:27:30Z",
+            "album_id": "7uDhGYN7V5tmilXYlRwJCk",
+            "album_name": "Mallu Magalh\u00e3es",
+            "album_release_date": "2008-04-30",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "1m00QT2CkW6rHi4dly8rVN",
+                    "artist_name": "Mallu Magalh\u00e3es"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 153.093,
+            "track_id": "5l2Smy1qWpFkuYXIlFOFCt",
+            "track_name": "Vanguart - Bonus Track",
+            "track_number": 10
+        },
+        {
+            "added_at": "2020-06-13T19:18:28Z",
+            "album_id": "4ip9yGGxnE1yrbtQnylsGB",
+            "album_name": "Fruto Proibido",
+            "album_release_date": "2014-11-03",
+            "album_total_tracks": 9,
+            "artists": [
+                {
+                    "artist_id": "7me0S5Z40qVWj3gzyK8aC3",
+                    "artist_name": "Mc Livinho"
+                },
+                {
+                    "artist_id": "14rm5qigjvQHZN1VILO5CZ",
+                    "artist_name": "Romantico"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 210.93,
+            "track_id": "1hBSISY6BPB1zwg24CZg7b",
+            "track_name": "Noite Linda",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-12-29T10:53:20Z",
+            "album_id": "4oUdOO2U2FwFiuHOMUwkNF",
+            "album_name": "Aos Vivos",
+            "album_release_date": "1995",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "3vlUveVfzPXzhiPGjHHxOH",
+                    "artist_name": "Chico C\u00e9sar"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 214.826,
+            "track_id": "4S18cCp2R0Z0SdbCwNC4ZL",
+            "track_name": "Mama \u00c1frica",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-12-29T10:59:19Z",
+            "album_id": "4rp1jclowkzH4QyGMg6xTx",
+            "album_name": "M\u00fasicas Para Churrasco (Vol. I)",
+            "album_release_date": "2011-01-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0i1s9WcIu0PrUvHzALgofo",
+                    "artist_name": "Seu Jorge"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 248.08,
+            "track_id": "4t4oqMSwwmpHzQIu1aok1z",
+            "track_name": "Amiga Da Minha Mulher",
+            "track_number": 6
+        },
+        {
+            "added_at": "2021-01-30T21:02:10Z",
+            "album_id": "002IhaQrqlVoyLhsTlzLd8",
+            "album_name": "Bloco Do Eu Sozinho",
+            "album_release_date": "2001-06-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "7Brxri4l1ATShikyHXsEr6",
+                    "artist_name": "Los Hermanos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 237.266,
+            "track_id": "1aZCM7CEdgKkGHGJrzwIR7",
+            "track_name": "Retrato Pra Iaia",
+            "track_number": 3
+        }
+    ]
+}

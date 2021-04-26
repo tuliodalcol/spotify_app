@@ -1,0 +1,742 @@
+{
+    "playlist_id": "1SIz5nOAwoshaN9Sny2Xp9",
+    "playlist_name": "ES Viejas",
+    "tracks": [
+        {
+            "added_at": "2020-03-25T10:00:04Z",
+            "album_id": "6IQ9Tk73kwPmKbdnMQ7nlo",
+            "album_name": "Romances",
+            "album_release_date": "2012-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "6AcOTCYBMvjKYy4zms0kaC",
+                    "artist_name": "Banda El Recodo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 191.746,
+            "track_id": "32Ds9GvxKC1oKVoZaiNSAn",
+            "track_name": "Te Presumo",
+            "track_number": 8
+        },
+        {
+            "added_at": "2020-03-25T10:00:15Z",
+            "album_id": "2VccvTUqLh6SMYgAHKVMuS",
+            "album_name": "Diomedes - 30 Grandes Exitos",
+            "album_release_date": "1998",
+            "album_total_tracks": 30,
+            "artists": [
+                {
+                    "artist_id": "66NweiA3nU84k1S3SZdTSG",
+                    "artist_name": "Diomedes Diaz"
+                },
+                {
+                    "artist_id": "54LZrrClgVEeAQcFrk3BJj",
+                    "artist_name": "Colacho Mendoza"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 317.773,
+            "track_id": "4bzHa3NkLuR8cxF8B4K0ih",
+            "track_name": "Bonita",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-03-25T10:00:21Z",
+            "album_id": "3p21ve9Pt5hSPIZyR0371G",
+            "album_name": "Lo M\u00e1s Escuchado De",
+            "album_release_date": "2019-07-19",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "3CAhiUHkUYT1mFtVHM9SHA",
+                    "artist_name": "Valent\u00edn Elizalde"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 167.533,
+            "track_id": "13mJJQG0dCvVcunQ4sVFjr",
+            "track_name": "Ebrio De Amor",
+            "track_number": 13
+        },
+        {
+            "added_at": "2020-03-25T10:01:33Z",
+            "album_id": "1SEf8KBy0khQM5Hxrk9CYm",
+            "album_name": "Historias",
+            "album_release_date": "2006-12-14",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "1dJfjAj2mnpKrGm8ldBjNG",
+                    "artist_name": "Agrupaci\u00f3n Marilyn"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.352,
+            "track_id": "558S2P5A4Ku4bnXheLaXeG",
+            "track_name": "Su Florcita",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:02:06Z",
+            "album_id": "41VfVz6sKvbm1yCbqAlwfM",
+            "album_name": "Mexico en la Piel (edicion diamante)",
+            "album_release_date": "2005-09-06",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "2nszmSgqreHSdJA3zWPyrW",
+                    "artist_name": "Luis Miguel"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 209.213,
+            "track_id": "5BPq1UQa1NSN647R6IzD3n",
+            "track_name": "M\u00e9xico En La Piel",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-03-25T10:02:16Z",
+            "album_id": "2XHw4PFHT6srg7dxA3yrKv",
+            "album_name": "Me Dej\u00e9 Llevar",
+            "album_release_date": "2017-08-25",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "0XwVARXT135rw8lyw1EeWP",
+                    "artist_name": "Christian Nodal"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 199.32,
+            "track_id": "63bmZnBN1CiJ9sA4qTEe8y",
+            "track_name": "Adi\u00f3s Amor",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:03:11Z",
+            "album_id": "6jAvIPPjADSp3gWGwtLvUX",
+            "album_name": "Sonido Subtropical",
+            "album_release_date": "2018-06-08",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "3tzacGOmngxUV8W8lU9h3Q",
+                    "artist_name": "La Delio Valdez"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 310.295,
+            "track_id": "7g6taDbEMUIhsvyFaexjDi",
+            "track_name": "Inocente",
+            "track_number": 7
+        },
+        {
+            "added_at": "2020-03-25T10:03:19Z",
+            "album_id": "1rF2ZZxEDih1DR35QX87ns",
+            "album_name": "Lo Intentamos",
+            "album_release_date": "2018-03-31",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "34ncxwjKmuXtfWo8wh91sL",
+                    "artist_name": "La Sonora Master"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 219.196,
+            "track_id": "0be6iXmeWr9lDTBXA7oE0d",
+            "track_name": "Lo Intentamos",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:03:26Z",
+            "album_id": "5vaWsHjQPQGq0DSpQOHbSW",
+            "album_name": "Cumbiando",
+            "album_release_date": "2017-08-04",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "13or1Wf6ipcvSIiurZATvw",
+                    "artist_name": "La Sonora Dinamita"
+                },
+                {
+                    "artist_id": "2QTmeZpVjHmIoYSRwsoucA",
+                    "artist_name": "Kika Edgar"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 255.08,
+            "track_id": "3PK2fXwMlbsIHtMRlHyqsD",
+            "track_name": "Qu\u00e9 Bello",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-03-25T10:03:38Z",
+            "album_id": "14qj5XTZHM1bzb5FnK5KZd",
+            "album_name": "El Viejo Marquez",
+            "album_release_date": "2017-06-07",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "4EAV5xJot3hs1RICAsxSHA",
+                    "artist_name": "El Viejo Marquez"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 210.773,
+            "track_id": "0ci4OlJdTMqIc4n5jyaZVY",
+            "track_name": "Me Muero De Amor",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:03:43Z",
+            "album_id": "4SPZTJb1KDhmLJRzhgcq5s",
+            "album_name": "No Te Creas Tan Importante (En Vivo)",
+            "album_release_date": "2018-03-23",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "3YeBTR1Q1rUxKguz4jP6UV",
+                    "artist_name": "Damas Gratis"
+                },
+                {
+                    "artist_id": "7edrtXagYn0nCFOwQp8AS1",
+                    "artist_name": "Viru Kumbieron"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 239.76,
+            "track_id": "3trowLiYwwOoiwapLISNyk",
+            "track_name": "No Te Creas Tan Importante - En Vivo",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:03:48Z",
+            "album_id": "7BYWLxJVBabw6PC7upwlUH",
+            "album_name": "Mientes Tan Bien",
+            "album_release_date": "2017-01-01",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "0nj3ihcRrpZoz7xz4lKDcn",
+                    "artist_name": "La Poderosa Sonora Master"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 280.961,
+            "track_id": "09p60r5XNRVtslyp0EqLpj",
+            "track_name": "Mientes tan Bien",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:03:53Z",
+            "album_id": "6BKIN0ZfJGzO4iBCoOsmu4",
+            "album_name": "corazon de papel",
+            "album_release_date": "2011-10-31",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "1poWksyUHxANlcdBLPhsV9",
+                    "artist_name": "Los Charros"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 196.306,
+            "track_id": "6z6aUQtuqZzq2tbyVwHO6n",
+            "track_name": "Amores Como el Nuestro",
+            "track_number": 7
+        },
+        {
+            "added_at": "2020-03-25T10:04:00Z",
+            "album_id": "628CD4iCvk1Q325ErHXq53",
+            "album_name": "Me Vas a Extra\u00f1ar (En Vivo)",
+            "album_release_date": "2018-09-07",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "3YeBTR1Q1rUxKguz4jP6UV",
+                    "artist_name": "Damas Gratis"
+                },
+                {
+                    "artist_id": "7edrtXagYn0nCFOwQp8AS1",
+                    "artist_name": "Viru Kumbieron"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 238.528,
+            "track_id": "3CACzG9I3AoKUKA3ODE5zW",
+            "track_name": "Me Vas a Extra\u00f1ar - En Vivo",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:04:05Z",
+            "album_id": "04lLSTAYIBNjlJ0L6JJnDK",
+            "album_name": "Vol\u00f3 La Paloma/Un Toque Diferente",
+            "album_release_date": "2004-09-05",
+            "album_total_tracks": 22,
+            "artists": [
+                {
+                    "artist_id": "2Htm0q72SjGSmsy8EOIhRG",
+                    "artist_name": "Los Palmeras"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 290.12,
+            "track_id": "0cXGtTRfQKSHojilCoBAOd",
+            "track_name": "Olv\u00eddala",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-03-25T10:04:10Z",
+            "album_id": "65Z4VN8ZKEYkqM6K2yNoRl",
+            "album_name": "Los M\u00e1s Queridos",
+            "album_release_date": "2008",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6pVmT18pd1QaofDegZUEKX",
+                    "artist_name": "La Nueva Luna"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 203.6,
+            "track_id": "5Rb1YFwlxt1AgMaqbOpZzf",
+            "track_name": "Te Vas a Arrepentir",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-03-25T10:04:15Z",
+            "album_id": "7yGG6SN679bWm8Op7Baf1D",
+            "album_name": "A\u00fan Sigue La Lecci\u00f3n",
+            "album_release_date": "2004-09-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2Mu8h5sFkOziL0Rfn7FXIA",
+                    "artist_name": "Leo Mattioli"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 211.213,
+            "track_id": "2IuLxgL5dd02AeF5FSygjQ",
+            "track_name": "Llorar\u00e1s M\u00e1s De Diez Veces",
+            "track_number": 9
+        },
+        {
+            "added_at": "2020-03-25T10:04:25Z",
+            "album_id": "1g4pk2xu9KBJXTdtOwaO4C",
+            "album_name": "Una Cerveza",
+            "album_release_date": "2016-01-20",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0CBKUzrf6yGdTgxAQbUUHS",
+                    "artist_name": "Rafaga"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 240.853,
+            "track_id": "3LNZSTiwQYL7BnTfHvIOII",
+            "track_name": "Una Cerveza",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:05:03Z",
+            "album_id": "0yt2s1DPWP8Zm0OtnqJuAB",
+            "album_name": "Sin Fronteras",
+            "album_release_date": "2009-12-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2Htm0q72SjGSmsy8EOIhRG",
+                    "artist_name": "Los Palmeras"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.186,
+            "track_id": "0ZmWZ5BcdtbozMK7e5I4u6",
+            "track_name": "Perra",
+            "track_number": 11
+        },
+        {
+            "added_at": "2020-03-25T10:30:05Z",
+            "album_id": "0zXEyFkwoxht6Bqd3SgnOm",
+            "album_name": "Boquita de Caramelo",
+            "album_release_date": "2015-03-06",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2t5LZnlhZW4ctjLQE9qoae",
+                    "artist_name": "Grupo Sombras"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 243.92,
+            "track_id": "2dfnK7rHRibkQR93iZn7Z2",
+            "track_name": "La Ventanita",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-03-25T10:30:10Z",
+            "album_id": "0yt2s1DPWP8Zm0OtnqJuAB",
+            "album_name": "Sin Fronteras",
+            "album_release_date": "2009-12-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2Htm0q72SjGSmsy8EOIhRG",
+                    "artist_name": "Los Palmeras"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 236.973,
+            "track_id": "34ayIgjQsK3f7fJis67UWg",
+            "track_name": "El Embrujo",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-03-25T10:30:14Z",
+            "album_id": "6cWj9XVKzrrayy7c6n5KiI",
+            "album_name": "20 Grandes Exitos",
+            "album_release_date": "2009-11-25",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "6Q6qTNC2rAegcR5QjzcRgE",
+                    "artist_name": "Gilda"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 220.813,
+            "track_id": "6Bj9aK0jTMmjUp1y4Z7SVz",
+            "track_name": "No Me Arrepiento de Este Amor",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-03-25T10:30:22Z",
+            "album_id": "3KHwSLop7v3T5egeuXjL9n",
+            "album_name": "Solo",
+            "album_release_date": "2007-07-01",
+            "album_total_tracks": 25,
+            "artists": [
+                {
+                    "artist_id": "13KeE3TnUrYh367HJu0sMx",
+                    "artist_name": "Mario Luis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 244.897,
+            "track_id": "4D1kAeaWOFt4A4g6LBfmP0",
+            "track_name": "Loquito por Ti",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-03-25T10:30:33Z",
+            "album_id": "54PCI2vrd9zYtH2GhP3W8v",
+            "album_name": "Creciendo",
+            "album_release_date": "2004-08-27",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "2Mu8h5sFkOziL0Rfn7FXIA",
+                    "artist_name": "Leo Mattioli"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 235.933,
+            "track_id": "0oONA6yBr4XfW8iloofFSg",
+            "track_name": "Tan Solo Amantes",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:30:47Z",
+            "album_id": "1keAMlGHDDyJFG6bHmbKkp",
+            "album_name": "Volver 1",
+            "album_release_date": "2010-07-01",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "13KeE3TnUrYh367HJu0sMx",
+                    "artist_name": "Mario Luis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 247.536,
+            "track_id": "0vmhnmTgtxR8V9EfxBCR16",
+            "track_name": "Hoja En Blanco",
+            "track_number": 5
+        },
+        {
+            "added_at": "2020-03-25T10:30:52Z",
+            "album_id": "6IGIqpi9vP4bbBBjwJUL0y",
+            "album_name": "Los M\u00e1s Grandes Exitos",
+            "album_release_date": "2004-01-05",
+            "album_total_tracks": 55,
+            "artists": [
+                {
+                    "artist_id": "6Q6qTNC2rAegcR5QjzcRgE",
+                    "artist_name": "Gilda"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 210.586,
+            "track_id": "2OzSJG7HmZYTiggNoGujZP",
+            "track_name": "Se Me Ha Perdido Un Coraz\u00f3n",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-03-25T10:30:57Z",
+            "album_id": "1v2KdMb9X99cCsdahjRD8Y",
+            "album_name": "Inolvidables",
+            "album_release_date": "1996-01-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0ZCO8oVkMj897cKgFH7fRW",
+                    "artist_name": "Los \u00c1ngeles Azules"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 267.826,
+            "track_id": "51dNexiESqcJLsGLrmg1Nv",
+            "track_name": "C\u00f3mo Te Voy A Olvidar",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:31:02Z",
+            "album_id": "2cCG3eeEpcB9tdFYAc0ihP",
+            "album_name": "Yo no s\u00e9 Ma\u00f1ana",
+            "album_release_date": "2010-01-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "37zUz0gjTaNCWTOymnuWGG",
+                    "artist_name": "Jambao"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 170.24,
+            "track_id": "4AittymSSaHX1FSaXRnFEK",
+            "track_name": "Yo no se ma\u00f1ana",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:31:07Z",
+            "album_id": "0ydcUDMrWPKqpz1SACk73x",
+            "album_name": "Soy",
+            "album_release_date": "2015-10-13",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "2UqRkW2wfEkZmyvKyTTv2W",
+                    "artist_name": "Ulises Bueno"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 233.56,
+            "track_id": "66ggNhGinVQLTYJODy6P74",
+            "track_name": "Intento",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-03-25T10:31:21Z",
+            "album_id": "3KHwSLop7v3T5egeuXjL9n",
+            "album_name": "Solo",
+            "album_release_date": "2007-07-01",
+            "album_total_tracks": 25,
+            "artists": [
+                {
+                    "artist_id": "13KeE3TnUrYh367HJu0sMx",
+                    "artist_name": "Mario Luis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 196.414,
+            "track_id": "2YCQpCXM0ebgdFLql30VDh",
+            "track_name": "Voy a Olvidarme de M\u00ed",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-03-25T10:31:29Z",
+            "album_id": "6MJnOjPMpFdInIEWItilLP",
+            "album_name": "Montevideo 418",
+            "album_release_date": "2015-01-28",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6BKMcsGBcNTkXAFY8Dibqq",
+                    "artist_name": "El Gordo Luis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 211.026,
+            "track_id": "2mDq3mPvdpwE8zAXpRXE0b",
+            "track_name": "Cinco Minutos",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:31:35Z",
+            "album_id": "0PTgE8woYUYZUmVBx4DxwK",
+            "album_name": "Irremplazables",
+            "album_release_date": "2000-05-30",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2Htm0q72SjGSmsy8EOIhRG",
+                    "artist_name": "Los Palmeras"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.146,
+            "track_id": "2UYmghgqstP9jz9MGpCb7v",
+            "track_name": "Qu\u00e9 Quiere la Chola",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-03-25T10:31:41Z",
+            "album_id": "6jAvIPPjADSp3gWGwtLvUX",
+            "album_name": "Sonido Subtropical",
+            "album_release_date": "2018-06-08",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "3tzacGOmngxUV8W8lU9h3Q",
+                    "artist_name": "La Delio Valdez"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 323.462,
+            "track_id": "5XcalfMEe1BUct8ArzjHS4",
+            "track_name": "La Cancioncita",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:31:58Z",
+            "album_id": "7HnUowvSStoPDJUeVYPHCo",
+            "album_name": "Inolvidable Amor",
+            "album_release_date": "2015-07-16",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "1poWksyUHxANlcdBLPhsV9",
+                    "artist_name": "Los Charros"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 178.546,
+            "track_id": "2FGNSe2U9AEoXVZIfGPjb5",
+            "track_name": "Pero No Puedo",
+            "track_number": 9
+        },
+        {
+            "added_at": "2020-03-25T10:32:03Z",
+            "album_id": "6v4EOAJlhIqTgl7vbRbUga",
+            "album_name": "Solo Para Entendidos",
+            "album_release_date": "2007-09-20",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "3YeBTR1Q1rUxKguz4jP6UV",
+                    "artist_name": "Damas Gratis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 182.466,
+            "track_id": "6ZHydaYmmzJKeceEV5nmuS",
+            "track_name": "Ella",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-03-25T10:32:18Z",
+            "album_id": "5Bdfuz8R1s29LQyU0UOyuw",
+            "album_name": "Separece A Ti",
+            "album_release_date": "2007-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "37zUz0gjTaNCWTOymnuWGG",
+                    "artist_name": "Jambao"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 248.786,
+            "track_id": "4bWdlExSeKAotB6uJwxFlf",
+            "track_name": "Se Parece M\u00e1s A Ti",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T10:32:23Z",
+            "album_id": "6x0GbSgMkwKW1rP4x5YWbU",
+            "album_name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+            "album_release_date": "2010-04-25",
+            "album_total_tracks": 21,
+            "artists": [
+                {
+                    "artist_id": "1poWksyUHxANlcdBLPhsV9",
+                    "artist_name": "Los Charros"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.946,
+            "track_id": "6SGsYigLaGXaCH2jM2JwlZ",
+            "track_name": "Te extra\u00f1o",
+            "track_number": 7
+        },
+        {
+            "added_at": "2020-03-25T10:32:32Z",
+            "album_id": "5Se68hOPi4QeMytEFnVtma",
+            "album_name": "Volver 1",
+            "album_release_date": "2010-01-01",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "13KeE3TnUrYh367HJu0sMx",
+                    "artist_name": "Mario Luis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 247.536,
+            "track_id": "0TlgMM36G7b8bHujDZA6zG",
+            "track_name": "Hoja en Blanco",
+            "track_number": 5
+        },
+        {
+            "added_at": "2020-03-25T10:33:31Z",
+            "album_id": "0OKPjPKRtmH8DQjUv83jUg",
+            "album_name": "Todos Mis Mejores \u00c9xitos de los Gatos",
+            "album_release_date": "2014-11-21",
+            "album_total_tracks": 40,
+            "artists": [
+                {
+                    "artist_id": "1EegYeIJQswm7BoKFnx5px",
+                    "artist_name": "Los Gatos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 188.733,
+            "track_id": "5PEnMIWn6Ad2hBWYYIhQSp",
+            "track_name": "Pedacito de Mi Vida",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-09-05T18:03:32Z",
+            "album_id": "6JijxAUaS8ng8YfFxQYoWr",
+            "album_name": "El cantante",
+            "album_release_date": "2004-02-16",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "3tAICgiSR5PfYY4B8qsoAU",
+                    "artist_name": "Andr\u00e9s Calamaro"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 217.973,
+            "track_id": "03Ntkzzjkz7nFJldcPbL90",
+            "track_name": "Estadio Azteca",
+            "track_number": 4
+        }
+    ]
+}

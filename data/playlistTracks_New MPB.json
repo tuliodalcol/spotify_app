@@ -1,0 +1,24 @@
+{
+    "playlist_id": "1yDEx9a5E6xOkolmiBAcox",
+    "playlist_name": "New MPB",
+    "tracks": [
+        {
+            "added_at": "2018-06-28T20:05:34Z",
+            "album_id": "7nuMBKZT1PpyGw9RzjqpR1",
+            "album_name": "Problema Meu",
+            "album_release_date": "2016-02-26",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "1wFTlPjO7zRtvylmu5pm1d",
+                    "artist_name": "Clarice Falc\u00e3o"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 159.149,
+            "track_id": "3veHaCMIma9jfgRFArL7hK",
+            "track_name": "Como E Que Eu Vou Dizer Que Acabou?",
+            "track_number": 9
+        }
+    ]
+}

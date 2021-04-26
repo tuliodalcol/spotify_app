@@ -1,0 +1,694 @@
+{
+    "playlist_id": "3VGS3YXKSerWFlxJLvWBca",
+    "playlist_name": "FR",
+    "tracks": [
+        {
+            "added_at": "2019-01-30T09:58:24Z",
+            "album_id": "7BgeK3jtk8GDlEwouUY3AG",
+            "album_name": "Feu",
+            "album_release_date": "2015-06-08",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "4LXBc13z5EWsc5N32bLxfH",
+                    "artist_name": "Nekfeu"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 211.413,
+            "track_id": "57I5KhEpQFC9XBgKt6nklL",
+            "track_name": "On verra",
+            "track_number": 11
+        },
+        {
+            "added_at": "2019-01-30T09:58:28Z",
+            "album_id": "1jfBSA8KgMLol7Iahnq8wv",
+            "album_name": "Comment c'est loin",
+            "album_release_date": "2015-12-09",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "4FpJcNgOvIpSBeJgRg3OfN",
+                    "artist_name": "Orelsan"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 233.253,
+            "track_id": "1a4g2LxwxzjwpeA3PAz6K8",
+            "track_name": "J\u2019essaye, j\u2019essaye",
+            "track_number": 10
+        },
+        {
+            "added_at": "2019-01-30T09:58:36Z",
+            "album_id": "1jfBSA8KgMLol7Iahnq8wv",
+            "album_name": "Comment c'est loin",
+            "album_release_date": "2015-12-09",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "5sXx89ZqVFOUKTl5g2uiST",
+                    "artist_name": "Casseurs Flowters"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 220.186,
+            "track_id": "5C3TCUckVV2p90RV1jF8Ok",
+            "track_name": "\u00c0 l\u2019heure o\u00f9 je me couche",
+            "track_number": 2
+        },
+        {
+            "added_at": "2019-01-30T09:58:44Z",
+            "album_id": "5GfsaNstrK8rszTX5XYtXU",
+            "album_name": "Le chant des sir\u00e8nes",
+            "album_release_date": "2011-09-26",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "4FpJcNgOvIpSBeJgRg3OfN",
+                    "artist_name": "Orelsan"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 219.865,
+            "track_id": "3IM7zXywZ6sRTtkRjRLxJ8",
+            "track_name": "La terre est ronde",
+            "track_number": 10
+        },
+        {
+            "added_at": "2019-01-30T09:58:50Z",
+            "album_id": "04mHlwou1RaPDo8SigFfKf",
+            "album_name": "La f\u00eate est finie",
+            "album_release_date": "2017-10-20",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "4FpJcNgOvIpSBeJgRg3OfN",
+                    "artist_name": "Orelsan"
+                },
+                {
+                    "artist_id": "5Q8NEHGX70m1kkojbtm8wa",
+                    "artist_name": "Ibeyi"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 454.533,
+            "track_id": "3SgnYOV9ONL0bIHaAcOYE1",
+            "track_name": "Notes pour trop tard (feat. Ibeyi)",
+            "track_number": 14
+        },
+        {
+            "added_at": "2019-01-30T09:58:53Z",
+            "album_id": "3aInpnIJ1N8jVH2i1xv8dC",
+            "album_name": "FLIP",
+            "album_release_date": "2017-06-30",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "1Yfe3ONJlioHys7jwHdfVm",
+                    "artist_name": "Lomepal"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 212.586,
+            "track_id": "0RsI4r9abN1pSFJro36Hon",
+            "track_name": "Yeux disent",
+            "track_number": 9
+        },
+        {
+            "added_at": "2019-01-30T09:59:05Z",
+            "album_id": "5KbSOGYUOgDnva9JwYUibW",
+            "album_name": "Feu",
+            "album_release_date": "2015-06-08",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "4LXBc13z5EWsc5N32bLxfH",
+                    "artist_name": "Nekfeu"
+                },
+                {
+                    "artist_id": "5olcgTzelGdyP1rHRLyWgs",
+                    "artist_name": "S.Pri Noir"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 227.399,
+            "track_id": "7xyyjOyiYVJCT3CmJl7HwW",
+            "track_name": "Ma dope",
+            "track_number": 12
+        },
+        {
+            "added_at": "2019-01-30T09:59:08Z",
+            "album_id": "1jfBSA8KgMLol7Iahnq8wv",
+            "album_name": "Comment c'est loin",
+            "album_release_date": "2015-12-09",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "5sXx89ZqVFOUKTl5g2uiST",
+                    "artist_name": "Casseurs Flowters"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 236.733,
+            "track_id": "7GfmLz1shp0aMwkPYHan0y",
+            "track_name": "Si facile",
+            "track_number": 15
+        },
+        {
+            "added_at": "2019-01-30T09:59:12Z",
+            "album_id": "5170B9wvcKvzWRWmTp5lCV",
+            "album_name": "The Water (S)",
+            "album_release_date": "2014-08-12",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "1FvjvACFvko2Z91IvDljrx",
+                    "artist_name": "Mick Jenkins"
+                },
+                {
+                    "artist_id": "4JqpJeNOhP6bAkolNMLwFg",
+                    "artist_name": "Jean Deaux"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 255.067,
+            "track_id": "1h73Ks1f5oFm4Q9RGJEcDs",
+            "track_name": "Healer",
+            "track_number": 4
+        },
+        {
+            "added_at": "2019-01-30T10:13:09Z",
+            "album_id": "2kUUifxTC7Wi16c4dkp5vm",
+            "album_name": "Morale 2",
+            "album_release_date": "2017-03-17",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "2pHk4wAmL7ofTAuvCIUWtv",
+                    "artist_name": "Rom\u00e9o Elvis"
+                },
+                {
+                    "artist_id": "4LLrhUqUv2Mi1NhHz0pjXd",
+                    "artist_name": "Le Motel"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 181.702,
+            "track_id": "2bYI7pBxK76J4uuJjJaW25",
+            "track_name": "Dr\u00f4le de question",
+            "track_number": 4
+        },
+        {
+            "added_at": "2019-01-30T10:16:49Z",
+            "album_id": "3aInpnIJ1N8jVH2i1xv8dC",
+            "album_name": "FLIP",
+            "album_release_date": "2017-06-30",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "1Yfe3ONJlioHys7jwHdfVm",
+                    "artist_name": "Lomepal"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 256.093,
+            "track_id": "47bh8lRg6mZ3H9vIe0h6Gh",
+            "track_name": "Palpal",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-30T10:16:55Z",
+            "album_id": "1jfBSA8KgMLol7Iahnq8wv",
+            "album_name": "Comment c'est loin",
+            "album_release_date": "2015-12-09",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "5sXx89ZqVFOUKTl5g2uiST",
+                    "artist_name": "Casseurs Flowters"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 215.786,
+            "track_id": "5p9kj8hbofB2EIzwYAqjlb",
+            "track_name": "Inachev\u00e9s",
+            "track_number": 16
+        },
+        {
+            "added_at": "2019-01-30T10:18:48Z",
+            "album_id": "68EfcLEwphmmpuOmj4BW0n",
+            "album_name": "Drapeau Noir",
+            "album_release_date": "2017-03-03",
+            "album_total_tracks": 9,
+            "artists": [
+                {
+                    "artist_id": "7CPznx8a1emLVLeCHGuJeN",
+                    "artist_name": "Lord Esperanza"
+                },
+                {
+                    "artist_id": "3IMSh6UlcrbKXwG1lARp5j",
+                    "artist_name": "Majeur Mineur"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 196.0,
+            "track_id": "1c504qHr8DCi02YJW50gkh",
+            "track_name": "Drapeau Noir",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-01-30T10:13:24Z",
+            "album_id": "22bLoalGiouy8OtNgSsE8r",
+            "album_name": "La source",
+            "album_release_date": "2011-06-27",
+            "album_total_tracks": 8,
+            "artists": [
+                {
+                    "artist_id": "4CH2uNha7qT33gsr1y60Ca",
+                    "artist_name": "1995"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 317.306,
+            "track_id": "1Uzqwnqt75QhIsnpnxMSRo",
+            "track_name": "La source",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-30T10:17:14Z",
+            "album_id": "0hM3g0iPnbEKKkGo9swdWe",
+            "album_name": "Cyborg",
+            "album_release_date": "2016-12-02",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "4LXBc13z5EWsc5N32bLxfH",
+                    "artist_name": "Nekfeu"
+                },
+                {
+                    "artist_id": "1cA379ILgR07m7XQVXyP6Q",
+                    "artist_name": "Sneazzy"
+                },
+                {
+                    "artist_id": "5olcgTzelGdyP1rHRLyWgs",
+                    "artist_name": "S.Pri Noir"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 363.213,
+            "track_id": "4DDMmQ3E2LrZtuURRBFEZt",
+            "track_name": "Saturne",
+            "track_number": 9
+        },
+        {
+            "added_at": "2019-01-30T10:18:27Z",
+            "album_id": "3KuUITL9NsC6WdPkL8H5OC",
+            "album_name": "Pierre, feuille, papier, ciseaux",
+            "album_release_date": "2017-08-04",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5AAzeysphag0NxJxLbbVla",
+                    "artist_name": "Columbine"
+                },
+                {
+                    "artist_id": "1eTRyiHsWMoWKPD6s4Kiqt",
+                    "artist_name": "Lujipeka"
+                },
+                {
+                    "artist_id": "3n0ksbjVdPz83etmJcuaur",
+                    "artist_name": "Chaps"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 225.413,
+            "track_id": "6Uk6MCdcT025QBTcXRFKDL",
+            "track_name": "Pierre, feuille, papier, ciseaux",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-07-05T01:45:38Z",
+            "album_id": "3X2k1DIwkHiSw4KotUfG5x",
+            "album_name": "Quelqu'un M'a Dit",
+            "album_release_date": "2002-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "1HVwzNriKEjaeE06okqSpx",
+                    "artist_name": "Carla Bruni"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 208.173,
+            "track_id": "5QIeBlUAki6aOH1XFJKgeP",
+            "track_name": "Le plus beau du quartier",
+            "track_number": 8
+        },
+        {
+            "added_at": "2020-01-24T19:05:28Z",
+            "album_id": "3o9pq1vFESK6532MR63Xwy",
+            "album_name": "Ce monde est cruel",
+            "album_release_date": "2019-10-10",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "3CnCGFxXbOA8bAK54jR8js",
+                    "artist_name": "Vald"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 184.76,
+            "track_id": "4sVqufkRucC6hzUBzxKmdd",
+            "track_name": "Ce monde est cruel",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-01-24T19:19:55Z",
+            "album_id": "3unyBGmicCJzgZguSpVdcV",
+            "album_name": "Ramenez la coupe \u00e0 la maison",
+            "album_release_date": "2018-07-17",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4eYnorQRhVHT2KBl2UyHHd",
+                    "artist_name": "Vegedream"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 235.555,
+            "track_id": "62HZiojtHpYiNbmeBRfUe9",
+            "track_name": "Ramenez la coupe \u00e0 la maison",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-01-24T19:22:24Z",
+            "album_id": "0JiHJJGVSHzQMdTJ2fp9dh",
+            "album_name": "Mwaka Moon",
+            "album_release_date": "2017-10-13",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "3J7r4VsNmuWixU0nXvyPd8",
+                    "artist_name": "Kalash"
+                },
+                {
+                    "artist_id": "2UwqpfQtNuhBwviIC0f2ie",
+                    "artist_name": "Damso"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 237.706,
+            "track_id": "7LDq2cE0TQV66BXorbV8FD",
+            "track_name": "Mwaka Moon",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-01-24T19:45:00Z",
+            "album_id": "0hM3g0iPnbEKKkGo9swdWe",
+            "album_name": "Cyborg",
+            "album_release_date": "2016-12-02",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "4LXBc13z5EWsc5N32bLxfH",
+                    "artist_name": "Nekfeu"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 238.053,
+            "track_id": "0KwdqPzC3HtIM2dXgJUvJQ",
+            "track_name": "Mauvaise graine",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-01-24T19:50:35Z",
+            "album_id": "433TMUyQRQcq1KmbvEfLvQ",
+            "album_name": "H\u00e9ra",
+            "album_release_date": "2016-11-04",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6Xc0KDqzw5u6EQLgdfeoKO",
+                    "artist_name": "Georgio"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 236.96,
+            "track_id": "2yUesO6bsFNW9EpsVTkCaR",
+            "track_name": "H\u00e9ra",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-02-02T15:33:24Z",
+            "album_id": "73R38UCArse15SjpJMxPOh",
+            "album_name": "J'suis pas dupe",
+            "album_release_date": "2015-06-29",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6e3pZKXUxrPfnUPJ960Hd9",
+                    "artist_name": "Pomme"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 200.373,
+            "track_id": "2B3PBq5Sh63zt0mPpZ5gXG",
+            "track_name": "J'suis pas dupe",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-02-03T00:18:58Z",
+            "album_id": "2UrPmvaX5X76LIzE6Cfiqu",
+            "album_name": "Brol La Suite",
+            "album_release_date": "2019-11-07",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "3QVolfxko2UyCOtexhVTli",
+                    "artist_name": "Ang\u00e8le"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 196.8,
+            "track_id": "7rBP4bLjMLNkix1nGHjheP",
+            "track_name": "Oui ou non",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-02-06T20:07:43Z",
+            "album_id": "6XbYsGvaSrNPOrY9E5jRd7",
+            "album_name": "Ben L'Oncle Soul",
+            "album_release_date": "2010-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2dJTa3mUidZAO9sKcY72tK",
+                    "artist_name": "Ben L'Oncle Soul"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 222.466,
+            "track_id": "6gUbpcQmFvDUbe7a213wlr",
+            "track_name": "Soulman - New English Version",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-02-06T20:10:33Z",
+            "album_id": "0ybICEC7yHFq0AOPksaQu1",
+            "album_name": "Live Paris",
+            "album_release_date": "2011-01-01",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "2dJTa3mUidZAO9sKcY72tK",
+                    "artist_name": "Ben L'Oncle Soul"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 286.08,
+            "track_id": "7h0xKEQXp2Do2i8PQajz8l",
+            "track_name": "Petite Soeur - Live Paris",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-02-06T20:11:49Z",
+            "album_id": "6XbYsGvaSrNPOrY9E5jRd7",
+            "album_name": "Ben L'Oncle Soul",
+            "album_release_date": "2010-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2dJTa3mUidZAO9sKcY72tK",
+                    "artist_name": "Ben L'Oncle Soul"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 172.76,
+            "track_id": "06ephoDdMTakuhbt9JEppN",
+            "track_name": "Little Sister - New English Version",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-02-06T20:12:04Z",
+            "album_id": "6XbYsGvaSrNPOrY9E5jRd7",
+            "album_name": "Ben L'Oncle Soul",
+            "album_release_date": "2010-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2dJTa3mUidZAO9sKcY72tK",
+                    "artist_name": "Ben L'Oncle Soul"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 245.586,
+            "track_id": "04MRtE1AdEsXD4bRthgIuq",
+            "track_name": "Elle Me Dit",
+            "track_number": 5
+        },
+        {
+            "added_at": "2020-02-11T19:06:02Z",
+            "album_id": "2KfEcJpTsSl8a8kxrXuZPf",
+            "album_name": "Pauline Croze",
+            "album_release_date": "2005-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "0jaaOnUYwYBQeUTH0sZVe1",
+                    "artist_name": "Pauline Croze"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 163.328,
+            "track_id": "5yeE2zpSDyWMVB6DyPFZJr",
+            "track_name": "T'es beau",
+            "track_number": 5
+        },
+        {
+            "added_at": "2020-02-17T01:37:39Z",
+            "album_id": "6vRDgJ6ZlOQ8DH1Y4Olx46",
+            "album_name": "Fr\u00e9ro Delavega",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "6bebPrkEPr2xEkiHP3QkNT",
+                    "artist_name": "Fr\u00e9ro Delavega"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 183.08,
+            "track_id": "0F6ju9gPE2nUiqOgixQFZ9",
+            "track_name": "Il y a",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-02-17T03:10:32Z",
+            "album_id": "2TGMa7UcpLmLkPhn1p3Ff4",
+            "album_name": "Orelsan et Gringe sont les Casseurs Flowters",
+            "album_release_date": "2013-11-18",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "5sXx89ZqVFOUKTl5g2uiST",
+                    "artist_name": "Casseurs Flowters"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 404.346,
+            "track_id": "1wJAu0NKytglV2bJ6Ven5o",
+            "track_name": "06h16 - Des histoires \u00e0 raconter",
+            "track_number": 18
+        },
+        {
+            "added_at": "2020-02-17T03:13:09Z",
+            "album_id": "6Z41jOipPqINldPbHRUv8J",
+            "album_name": "Destins li\u00e9s",
+            "album_release_date": "2016-06-17",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "1HhXce8PpMmaKjBIWzAxWc",
+                    "artist_name": "S-Crew"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 225.04,
+            "track_id": "7BBifWmpuPSj4ETSHrWFbx",
+            "track_name": "J\u2019aurais pas d\u00fb",
+            "track_number": 10
+        },
+        {
+            "added_at": "2020-02-17T03:14:05Z",
+            "album_id": "433TMUyQRQcq1KmbvEfLvQ",
+            "album_name": "H\u00e9ra",
+            "album_release_date": "2016-11-04",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6Xc0KDqzw5u6EQLgdfeoKO",
+                    "artist_name": "Georgio"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 214.773,
+            "track_id": "1vv4jkgnIfDrMfjFs6f9kb",
+            "track_name": "Br\u00fble",
+            "track_number": 5
+        },
+        {
+            "added_at": "2020-02-17T03:14:35Z",
+            "album_id": "2TGMa7UcpLmLkPhn1p3Ff4",
+            "album_name": "Orelsan et Gringe sont les Casseurs Flowters",
+            "album_release_date": "2013-11-18",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "5sXx89ZqVFOUKTl5g2uiST",
+                    "artist_name": "Casseurs Flowters"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 204.026,
+            "track_id": "4c1ArlBO56iNxiFTupUtt6",
+            "track_name": "15h02 - Regarde comme il fait beau (dehors)",
+            "track_number": 2
+        },
+        {
+            "added_at": "2020-02-23T19:33:57Z",
+            "album_id": "1xeYbtj7jYOOYmK3zcZkys",
+            "album_name": "Petit coeur (Acoustique)",
+            "album_release_date": "2018-02-16",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4A1BIRTQQ1yNPwcg57Ubq7",
+                    "artist_name": "Haristone"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 189.473,
+            "track_id": "18sVJNigEHnLVkfk9qWMt7",
+            "track_name": "Petit coeur (Acoustique)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-04-21T12:57:40Z",
+            "album_id": "0gLNMnnAyIFwNio0RDarWD",
+            "album_name": "La la la",
+            "album_release_date": "2015",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "71sWuTGW07sLDSjq0z5Fan",
+                    "artist_name": "Giedre"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 141.64,
+            "track_id": "783FgXP3cSSReELGj5w6GR",
+            "track_name": "Grand-m\u00e8re",
+            "track_number": 1
+        }
+    ]
+}

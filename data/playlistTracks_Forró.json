@@ -1,0 +1,492 @@
+{
+    "playlist_id": "28G8pDOWfuGUfrWXa8veWl",
+    "playlist_name": "Forr\u00f3",
+    "tracks": [
+        {
+            "added_at": "2017-04-01T03:03:09Z",
+            "album_id": "2rmc15ZlaCXGpuIBZlReay",
+            "album_name": "Tudo E Forro",
+            "album_release_date": "2006-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "4gocL2mlvwlI1G6TAYwQYx",
+                    "artist_name": "Rastap\u00e9"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 189.16,
+            "track_id": "3a2PhvkAWCh2ywfkVyZWhk",
+            "track_name": "Mo\u00e7a Bonita",
+            "track_number": 9
+        },
+        {
+            "added_at": "2017-12-07T13:09:37Z",
+            "album_id": "7vKF9sS5plWFPSTqkRVHt2",
+            "album_name": "At\u00e9 o Dia Clarear",
+            "album_release_date": "2002",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "4gocL2mlvwlI1G6TAYwQYx",
+                    "artist_name": "Rastap\u00e9"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.826,
+            "track_id": "5Tl5U60I7redO5FfEXCsfU",
+            "track_name": "Versos Sinceros",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-12-07T13:08:53Z",
+            "album_id": "5fN3QZFYtSrgDRlAvjILBD",
+            "album_name": "Sete Desejos",
+            "album_release_date": "1992-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "559vxOLTzlAv0zB77JMcdG",
+                    "artist_name": "Alceu Valen\u00e7a"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 268.76,
+            "track_id": "7CdDIvw3jvjNaIs5m3mM4A",
+            "track_name": "La Belle De Jour",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-09-04T12:21:26Z",
+            "album_id": "41cNkBfq1rB5YRjxbHdBEs",
+            "album_name": "Que seja",
+            "album_release_date": "2008-11-06",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "3GQ5J5xPVD0OLgTdosOE1h",
+                    "artist_name": "Bicho de P\u00e9"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 243.44,
+            "track_id": "39Aiwm9mGkSp9QmoYkgyuo",
+            "track_name": "Que seja",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-09-04T12:21:52Z",
+            "album_id": "32MJIbLpcoDqrcYm5TR0Zr",
+            "album_name": "Simples Mortais",
+            "album_release_date": "2003",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6uTK3YD9CT3pLx2yEfVmXk",
+                    "artist_name": "Falamansa"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.573,
+            "track_id": "58EHv2WN2TD519aWF21ywM",
+            "track_name": "Uma Vida Inteira",
+            "track_number": 9
+        },
+        {
+            "added_at": "2017-04-14T19:54:54Z",
+            "album_id": "4dcxOV64FbsMYqBfg905DP",
+            "album_name": "Pode Chegar",
+            "album_release_date": "2004-04-28",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6jpuapq0n5nnW1zktWvbVJ",
+                    "artist_name": "Trio Potigu\u00e1"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 325.426,
+            "track_id": "2C7gQ1Z2211SZm569X1K5N",
+            "track_name": "Agradar Voc\u00ea",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-04-14T19:55:13Z",
+            "album_id": "4dcxOV64FbsMYqBfg905DP",
+            "album_name": "Pode Chegar",
+            "album_release_date": "2004-04-28",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6jpuapq0n5nnW1zktWvbVJ",
+                    "artist_name": "Trio Potigu\u00e1"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 237.56,
+            "track_id": "1QVvdq7HVSOkWyq0ALxdaV",
+            "track_name": "Trem Bom",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-12-07T13:12:32Z",
+            "album_id": "6IGBWtzNsqrr7z3dWPLPRb",
+            "album_name": "Me Diz Amor",
+            "album_release_date": "2001-03-07",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "4C5NwUOtsmPrPSD5A7hYbU",
+                    "artist_name": "Fl\u00e1vio Jos\u00e9"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 199.773,
+            "track_id": "6k3E34A5N90p2WDtv2Uqlu",
+            "track_name": "Me Diz Amor",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-09-04T12:22:00Z",
+            "album_id": "32MJIbLpcoDqrcYm5TR0Zr",
+            "album_name": "Simples Mortais",
+            "album_release_date": "2003",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6uTK3YD9CT3pLx2yEfVmXk",
+                    "artist_name": "Falamansa"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 207.826,
+            "track_id": "7pk9av0cmGVRWjDuXys8Md",
+            "track_name": "Pra Voc\u00ea",
+            "track_number": 13
+        },
+        {
+            "added_at": "2017-12-07T13:17:00Z",
+            "album_id": "6X5IFeLwwPOJ35wNUJMdG0",
+            "album_name": "Ra\u00edzes e Frutos",
+            "album_release_date": "1998-05-06",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "65TbyndeGrDlFd4IkZNfbN",
+                    "artist_name": "Geraldo Azevedo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 205.453,
+            "track_id": "5jyc2gfTkBHbIyMETSfq2u",
+            "track_name": "Dona da Minha Cabe\u00e7a",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-09-04T12:22:06Z",
+            "album_id": "32MJIbLpcoDqrcYm5TR0Zr",
+            "album_name": "Simples Mortais",
+            "album_release_date": "2003",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6uTK3YD9CT3pLx2yEfVmXk",
+                    "artist_name": "Falamansa"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 233.733,
+            "track_id": "1MWmSm15cC852rljKYCT6q",
+            "track_name": "Feinha",
+            "track_number": 6
+        },
+        {
+            "added_at": "2017-12-07T13:05:19Z",
+            "album_id": "74QbmP87OIzEXPlkJXSdkd",
+            "album_name": "Planeta Forr\u00f3",
+            "album_release_date": "2003-03-31",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "3GQ5J5xPVD0OLgTdosOE1h",
+                    "artist_name": "Bicho de P\u00e9"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 218.106,
+            "track_id": "7tYZbAPb7p9mkzvkGNveq4",
+            "track_name": "Nosso Xote",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-12-07T13:05:39Z",
+            "album_id": "6ZyT12btG2NRATJkjQhWCr",
+            "album_name": "Cora\u00e7\u00e3o Feliz",
+            "album_release_date": "2004-03-10",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "3hOaZ37fQ2oZ0wRn4pnzcf",
+                    "artist_name": "Trio Virgulino"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 245.533,
+            "track_id": "0t8RTpPR03rxOgdunbDWVz",
+            "track_name": "Preciso do Teu Sorriso",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-12-07T13:06:54Z",
+            "album_id": "0A4AK9pVFpSO3SA3sIn6Lo",
+            "album_name": "O Som do Forr\u00f3",
+            "album_release_date": "2001",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "0NKnlHA3Q7Xl2gX31Ncjdn",
+                    "artist_name": "Rastap\u00e9, Bai\u00e3o De Quatro"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 256.56,
+            "track_id": "2I0OsZYqOk7EgHSg21tgvM",
+            "track_name": "Pequenininha - At\u00e9 Mais V\u00ea",
+            "track_number": 9
+        },
+        {
+            "added_at": "2017-12-07T13:11:17Z",
+            "album_id": "5zSPeLOror6UiYeodh4Bs9",
+            "album_name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+            "album_release_date": "1998-01-01",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "559vxOLTzlAv0zB77JMcdG",
+                    "artist_name": "Alceu Valen\u00e7a"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.0,
+            "track_id": "54BLy0zSiBUOINjOwMC3M2",
+            "track_name": "Tropicana (Morena Tropicana)",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-12-07T13:11:23Z",
+            "album_id": "6X5IFeLwwPOJ35wNUJMdG0",
+            "album_name": "Ra\u00edzes e Frutos",
+            "album_release_date": "1998-05-06",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "65TbyndeGrDlFd4IkZNfbN",
+                    "artist_name": "Geraldo Azevedo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.066,
+            "track_id": "2mLtn7zqcqalNZSfQZ62ko",
+            "track_name": "T\u00e1xi Lunar",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-12-07T13:12:00Z",
+            "album_id": "7BZKYG3xB4X2eiBkLtA1xT",
+            "album_name": "Circulado",
+            "album_release_date": "2001-01-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "1x37HsIorG7TpnCBZOzJtS",
+                    "artist_name": "Circulando De Fulo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 262.973,
+            "track_id": "1b840p6EHySBMI8f2CEGZf",
+            "track_name": "O Sol, A Lis, E O Beija-Flor",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-12-07T13:14:12Z",
+            "album_id": "17JsOpWpRpOcf6RNX2E9KF",
+            "album_name": "Forro Chama Chuva",
+            "album_release_date": "2001-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "7rnlBLkjRAo1IaN4UcwGJD",
+                    "artist_name": "Chama Chuva"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 244.56,
+            "track_id": "0aVAyiSjdtqZJncQtBgp3d",
+            "track_name": "Samarina",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-12-07T13:15:24Z",
+            "album_id": "4SsMGyG82r0glUCEMzg88l",
+            "album_name": "Botando O Pe Na Estrada",
+            "album_release_date": "2006-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "7BSih5K7krAdkZfrrRlnji",
+                    "artist_name": "Leo Estakazero"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 195.906,
+            "track_id": "3lI0lIoQVPdDjSHmyBk7lr",
+            "track_name": "Sapatilha 37",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-12-07T13:15:35Z",
+            "album_id": "0A4AK9pVFpSO3SA3sIn6Lo",
+            "album_name": "O Som do Forr\u00f3",
+            "album_release_date": "2001",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "0NKnlHA3Q7Xl2gX31Ncjdn",
+                    "artist_name": "Rastap\u00e9, Bai\u00e3o De Quatro"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 174.346,
+            "track_id": "1a5MaAr2zX2RwFcRX7ZHKU",
+            "track_name": "Qui Nem Jil\u00f3",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-12-07T13:16:56Z",
+            "album_id": "57SPPG9JMgfxebqOKbFwld",
+            "album_name": "Forr\u00f3 de Todos os Tempos",
+            "album_release_date": "2010",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "3hOaZ37fQ2oZ0wRn4pnzcf",
+                    "artist_name": "Trio Virgulino"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 243.6,
+            "track_id": "2gOTZ20q1YAN5amIc4tCRv",
+            "track_name": "Frevo Mulher",
+            "track_number": 9
+        },
+        {
+            "added_at": "2017-12-07T13:18:00Z",
+            "album_id": "4SsMGyG82r0glUCEMzg88l",
+            "album_name": "Botando O Pe Na Estrada",
+            "album_release_date": "2006-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "7BSih5K7krAdkZfrrRlnji",
+                    "artist_name": "Leo Estakazero"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.586,
+            "track_id": "0AmYcIkcxQm2zp3MyMWgSQ",
+            "track_name": "Deixa Doido Eu (Encosta N'Eu)",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-05-26T14:17:33Z",
+            "album_id": "41cNkBfq1rB5YRjxbHdBEs",
+            "album_name": "Que seja",
+            "album_release_date": "2008-11-06",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "3GQ5J5xPVD0OLgTdosOE1h",
+                    "artist_name": "Bicho de P\u00e9"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 300.48,
+            "track_id": "4oM0vIOtzhIRd2cLmr261A",
+            "track_name": "Eu e voc\u00ea",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-06-26T22:58:06Z",
+            "album_id": "6WyJrgFA70GqyIZHXlevvT",
+            "album_name": "Simplesmente Dorgival Dantas (Ao Vivo)",
+            "album_release_date": "2014-09-06",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "3J4WurF5XyCy2ToWeCof5Y",
+                    "artist_name": "Dorgival Dantas"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 220.613,
+            "track_id": "5Hd85gz71ZDibyWdbtqNkI",
+            "track_name": "Dest\u00e1 - Ao Vivo",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-05-26T14:18:28Z",
+            "album_id": "17JsOpWpRpOcf6RNX2E9KF",
+            "album_name": "Forro Chama Chuva",
+            "album_release_date": "2001-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "7rnlBLkjRAo1IaN4UcwGJD",
+                    "artist_name": "Chama Chuva"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 200.2,
+            "track_id": "0zMmOisGjuFBmUjL8ZjghM",
+            "track_name": "Forro De Itaunas",
+            "track_number": 5
+        },
+        {
+            "added_at": "2018-06-26T22:58:10Z",
+            "album_id": "6WyJrgFA70GqyIZHXlevvT",
+            "album_name": "Simplesmente Dorgival Dantas (Ao Vivo)",
+            "album_release_date": "2014-09-06",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "3J4WurF5XyCy2ToWeCof5Y",
+                    "artist_name": "Dorgival Dantas"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 245.786,
+            "track_id": "6Vl6N6uWU48OZjIYAMJq7I",
+            "track_name": "Tarde Demais - Ao Vivo",
+            "track_number": 5
+        },
+        {
+            "added_at": "2020-11-10T16:01:48Z",
+            "album_id": "5h1FNdd6FcqH8UAUn3lOWC",
+            "album_name": "O Cantor do Risca Faca",
+            "album_release_date": "2006-08-01",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "2dOGM69Sx3L7SAJzkd2ONr",
+                    "artist_name": "Pepe Moreno"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 288.733,
+            "track_id": "2eqpZQZrAAFuFWtkU5J6cU",
+            "track_name": "Risca Faca - Faixa B\u00f4nus",
+            "track_number": 11
+        }
+    ]
+}

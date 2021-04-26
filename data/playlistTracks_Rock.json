@@ -1,0 +1,1504 @@
+{
+    "playlist_id": "4ouhXZFL4yUNg9Pofr1GZp",
+    "playlist_name": "Rock",
+    "tracks": [
+        {
+            "added_at": "2017-02-01T16:59:50Z",
+            "album_id": "3HFbH1loOUbqCyPsLuHLLh",
+            "album_name": "Room On Fire",
+            "album_release_date": "2003-10-28",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+                    "artist_name": "The Strokes"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 219.826,
+            "track_id": "57Xjny5yNzAcsxnusKmAfA",
+            "track_name": "Reptilia",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-02-01T17:00:03Z",
+            "album_id": "1HQ61my1h3VWp2EBWKlp0n",
+            "album_name": "First Impressions Of Earth",
+            "album_release_date": "2006-01-03",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+                    "artist_name": "The Strokes"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 189.226,
+            "track_id": "4fPBB44eDH71YohayI4eKV",
+            "track_name": "You Only Live Once",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-02-01T17:00:05Z",
+            "album_id": "2k8KgmDp9oHrmu0MIj4XDE",
+            "album_name": "Is This It",
+            "album_release_date": "2001-07-30",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+                    "artist_name": "The Strokes"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 183.44,
+            "track_id": "7hm4HTk9encxT0LYC0J6oI",
+            "track_name": "Someday",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-02-01T17:00:10Z",
+            "album_id": "2yNaksHgeMQM9Quse463b5",
+            "album_name": "Is This It",
+            "album_release_date": "2001-07-30",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+                    "artist_name": "The Strokes"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 193.506,
+            "track_id": "7kzKAuUzOITUauHAhoMoxA",
+            "track_name": "Last Nite",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-02-01T17:00:32Z",
+            "album_id": "4OHNH3sDzIxnmUADXzv2kT",
+            "album_name": "Hot Fuss",
+            "album_release_date": "2004-06-15",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "0C0XlULifJtAgn6ZNCW2eu",
+                    "artist_name": "The Killers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 222.2,
+            "track_id": "3n3Ppam7vgaVa1iaRUc9Lp",
+            "track_name": "Mr. Brightside",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-02-01T17:00:44Z",
+            "album_id": "62zNw66LWCYoYSPGkJ2qCm",
+            "album_name": "Sam's Town",
+            "album_release_date": "2006-10-03",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "0C0XlULifJtAgn6ZNCW2eu",
+                    "artist_name": "The Killers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 220.426,
+            "track_id": "3gNGi2iUGHXGpBQHce6Nua",
+            "track_name": "When You Were Young",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-02-01T17:01:00Z",
+            "album_id": "39JESZeZjLUrjwQtCrRs6d",
+            "album_name": "Day & Age",
+            "album_release_date": "2008-11-18",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0C0XlULifJtAgn6ZNCW2eu",
+                    "artist_name": "The Killers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 284.546,
+            "track_id": "6zbnpAx9RH1W0dS4JEqdpc",
+            "track_name": "Spaceman",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-02-01T17:01:03Z",
+            "album_id": "39JESZeZjLUrjwQtCrRs6d",
+            "album_name": "Day & Age",
+            "album_release_date": "2008-11-18",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0C0XlULifJtAgn6ZNCW2eu",
+                    "artist_name": "The Killers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 245.36,
+            "track_id": "5mhUPDWQH3s544WCsa0r9w",
+            "track_name": "Human",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-02-01T17:02:23Z",
+            "album_id": "28q2N44ocJECgf8sbHEDfY",
+            "album_name": "There Is Nothing Left To Lose",
+            "album_release_date": "1999-11-02",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "7jy3rLJdDQY21OgRLCZ9sD",
+                    "artist_name": "Foo Fighters"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 235.293,
+            "track_id": "5OQsiBsky2k2kDKy2bX2eT",
+            "track_name": "Learn to Fly",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-02-01T17:02:29Z",
+            "album_id": "1zCNrbPpz5OLSr6mSpPdKm",
+            "album_name": "Greatest Hits",
+            "album_release_date": "2009-11-03",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "7jy3rLJdDQY21OgRLCZ9sD",
+                    "artist_name": "Foo Fighters"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 250.906,
+            "track_id": "3QmesrvdbPjwf7i40nht1D",
+            "track_name": "Everlong - Acoustic Version",
+            "track_number": 16
+        },
+        {
+            "added_at": "2017-02-01T17:03:38Z",
+            "album_id": "1zQ6F8gMagKcPL4SoA80cx",
+            "album_name": "One By One (Expanded Edition)",
+            "album_release_date": "2002-10-22",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "7jy3rLJdDQY21OgRLCZ9sD",
+                    "artist_name": "Foo Fighters"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 265.56,
+            "track_id": "67vYdAAM3oGsEImCRfbtsF",
+            "track_name": "Times Like These",
+            "track_number": 4
+        },
+        {
+            "added_at": "2017-02-01T17:04:06Z",
+            "album_id": "0RHX9XECH8IVI3LNgWDpmQ",
+            "album_name": "A Rush of Blood to the Head",
+            "album_release_date": "2002-08-08",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "artist_name": "Coldplay"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 309.6,
+            "track_id": "75JFxkI2RXiU7L9VXzMkle",
+            "track_name": "The Scientist",
+            "track_number": 4
+        },
+        {
+            "added_at": "2017-02-01T17:04:09Z",
+            "album_id": "4E7bV0pzG0LciBSWTszra6",
+            "album_name": "X&Y",
+            "album_release_date": "2005-06-07",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "artist_name": "Coldplay"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 295.533,
+            "track_id": "7LVHVU3tWfcxj5aiPFEW4Q",
+            "track_name": "Fix You",
+            "track_number": 4
+        },
+        {
+            "added_at": "2017-02-01T17:05:01Z",
+            "album_id": "71pRFAwHBLrjKYRG7V1Q2o",
+            "album_name": "Viva La Vida (Prospekt's March Edition)",
+            "album_release_date": "2008-11-24",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "artist_name": "Coldplay"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 241.426,
+            "track_id": "7fcgisGFCr4mfbfNSztr84",
+            "track_name": "Viva La Vida",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-02-01T17:05:26Z",
+            "album_id": "6ZG5lRT77aJ3btmArcykra",
+            "album_name": "Parachutes",
+            "album_release_date": "2000-07-10",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "artist_name": "Coldplay"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 266.773,
+            "track_id": "3AJwUDP919kvQ9QcozQPxg",
+            "track_name": "Yellow",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-02-01T17:05:48Z",
+            "album_id": "1fF8kYX49s5Ufv4XEY5sjW",
+            "album_name": "Enema Of The State",
+            "album_release_date": "1999-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+                    "artist_name": "blink-182"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 168.0,
+            "track_id": "12qZHAeOyTf93YAWvGDTat",
+            "track_name": "All The Small Things",
+            "track_number": 8
+        },
+        {
+            "added_at": "2017-02-01T17:06:10Z",
+            "album_id": "6s4r39zwdJhpuIH9pLoKTh",
+            "album_name": "blink-182",
+            "album_release_date": "2003-11-01",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+                    "artist_name": "blink-182"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 227.25,
+            "track_id": "0dRdb2IIRJil2IW0Q9rYZC",
+            "track_name": "I Miss You",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-02-01T17:06:26Z",
+            "album_id": "1fF8kYX49s5Ufv4XEY5sjW",
+            "album_name": "Enema Of The State",
+            "album_release_date": "1999-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+                    "artist_name": "blink-182"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 249.753,
+            "track_id": "5EauMVTXVoQOkax03XXVaV",
+            "track_name": "Adam's Song",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-02-01T17:07:55Z",
+            "album_id": "5dN7F9DV0Qg1XRdIgW8rke",
+            "album_name": "American Idiot",
+            "album_release_date": "2004-09-21",
+            "album_total_tracks": 9,
+            "artists": [
+                {
+                    "artist_id": "7oPftvlwr6VrsViSDV7fJY",
+                    "artist_name": "Green Day"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 285.653,
+            "track_id": "3ZffCQKLFLUvYM59XKLbVm",
+            "track_name": "Wake Me up When September Ends",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-02-01T17:08:10Z",
+            "album_id": "3x2uer6Xh0d5rF8toWpRDA",
+            "album_name": "Nimrod",
+            "album_release_date": "1997-10-14",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "7oPftvlwr6VrsViSDV7fJY",
+                    "artist_name": "Green Day"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 153.466,
+            "track_id": "6ORqU0bHbVCRjXm9AjyHyZ",
+            "track_name": "Good Riddance (Time of Your Life)",
+            "track_number": 17
+        },
+        {
+            "added_at": "2017-02-01T17:08:13Z",
+            "album_id": "1AHZd3C3S8m8fFrhFxyk79",
+            "album_name": "21st Century Breakdown",
+            "album_release_date": "2009-05-15",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "7oPftvlwr6VrsViSDV7fJY",
+                    "artist_name": "Green Day"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 321.093,
+            "track_id": "64yrDBpcdwEdNY9loyEGbX",
+            "track_name": "21 Guns",
+            "track_number": 16
+        },
+        {
+            "added_at": "2017-02-01T17:08:54Z",
+            "album_id": "1VW1MFNstaJuygaoTPkdCk",
+            "album_name": "(What's The Story) Morning Glory? [Remastered]",
+            "album_release_date": "1995-10-02",
+            "album_total_tracks": 40,
+            "artists": [
+                {
+                    "artist_id": "2DaxqgrOhkeH0fpeiQq2f4",
+                    "artist_name": "Oasis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 258.773,
+            "track_id": "5qqabIl2vWzo9ApSC317sa",
+            "track_name": "Wonderwall - Remastered",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-02-01T17:08:58Z",
+            "album_id": "1VW1MFNstaJuygaoTPkdCk",
+            "album_name": "(What's The Story) Morning Glory? [Remastered]",
+            "album_release_date": "1995-10-02",
+            "album_total_tracks": 40,
+            "artists": [
+                {
+                    "artist_id": "2DaxqgrOhkeH0fpeiQq2f4",
+                    "artist_name": "Oasis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 289.56,
+            "track_id": "0UvCh63URrLFcPkKt99hHd",
+            "track_name": "Don't Look Back in Anger - Remastered",
+            "track_number": 4
+        },
+        {
+            "added_at": "2017-02-01T17:09:14Z",
+            "album_id": "5WsCU95SaumguegxnC87TV",
+            "album_name": "Be Here Now",
+            "album_release_date": "1997-08-21",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2DaxqgrOhkeH0fpeiQq2f4",
+                    "artist_name": "Oasis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 356.6,
+            "track_id": "2gANywSFYF58YFMPdDSAjC",
+            "track_name": "Stand by Me",
+            "track_number": 4
+        },
+        {
+            "added_at": "2017-02-01T17:09:27Z",
+            "album_id": "6XhC5jFMDxZFSAlSGxTEpY",
+            "album_name": "Heathen Chemistry",
+            "album_release_date": "2002-06-20",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2DaxqgrOhkeH0fpeiQq2f4",
+                    "artist_name": "Oasis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 303.133,
+            "track_id": "4sjOSErZILpIu0cOlCFOIg",
+            "track_name": "Stop Crying Your Heart Out",
+            "track_number": 4
+        },
+        {
+            "added_at": "2017-02-01T17:09:50Z",
+            "album_id": "47wh50aG3MIgDpsMe5B7n7",
+            "album_name": "All Killer, No Filler",
+            "album_release_date": "2001-01-01",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "0qT79UgT5tY4yudH9VfsdT",
+                    "artist_name": "Sum 41"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 207.093,
+            "track_id": "68pN2UQYhwQgPy7VrCFKuV",
+            "track_name": "In Too Deep",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-02-01T17:10:47Z",
+            "album_id": "3rEl0zv6lbVZiB79uHAQ5y",
+            "album_name": "No Pads, No Helmets...Just Balls",
+            "album_release_date": "2002-03-19",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "2p4FqHnazRucYQHyDCdBrJ",
+                    "artist_name": "Simple Plan"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 277.026,
+            "track_id": "2TeiKDPE3RdamZG0pp5okI",
+            "track_name": "Perfect",
+            "track_number": 12
+        },
+        {
+            "added_at": "2017-02-01T17:11:25Z",
+            "album_id": "5HDj9yjtyhPduBMVax56pg",
+            "album_name": "Greatest Hits",
+            "album_release_date": "2005-06-21",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "5LfGQac0EIXyAN8aUwmNAQ",
+                    "artist_name": "The Offspring"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 179.946,
+            "track_id": "03C3S4osOdKqWUGA8VBJQ8",
+            "track_name": "The Kids Aren't Alright",
+            "track_number": 9
+        },
+        {
+            "added_at": "2017-02-01T17:11:50Z",
+            "album_id": "3wwRx7Tjr2BXD9Z4yGliie",
+            "album_name": "The Reason",
+            "album_release_date": "2003-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2MqhkhX4npxDZ62ObR5ELO",
+                    "artist_name": "Hoobastank"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 232.8,
+            "track_id": "4x3SQvTgvqSTU3nOL1urZh",
+            "track_name": "The Reason",
+            "track_number": 8
+        },
+        {
+            "added_at": "2017-02-01T17:13:00Z",
+            "album_id": "5PHng5BLIYSwmFfrihOeOi",
+            "album_name": "In Time: The Best Of R.E.M. 1988-2003",
+            "album_release_date": "2003-10-27",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "4KWTAlx2RvbpseOGMEmROg",
+                    "artist_name": "R.E.M."
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 269.0,
+            "track_id": "12axV6NUqaYH3yFUWwArzr",
+            "track_name": "Losing My Religion",
+            "track_number": 6
+        },
+        {
+            "added_at": "2017-02-01T17:13:11Z",
+            "album_id": "0HQhToIjonHnJRRPN4jeJU",
+            "album_name": "Out of Exile",
+            "album_release_date": "2005-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2ziB7fzrXBoh1HUPS6sVFn",
+                    "artist_name": "Audioslave"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 278.973,
+            "track_id": "3zwmW1gM4E8FlHXV5nE16u",
+            "track_name": "Be Yourself",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-02-01T17:13:32Z",
+            "album_id": "78guAsers0klWl6RwzgDLd",
+            "album_name": "Audioslave",
+            "album_release_date": "2002-11-17",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2ziB7fzrXBoh1HUPS6sVFn",
+                    "artist_name": "Audioslave"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 293.96,
+            "track_id": "3YuaBvuZqcwN3CEAyyoaei",
+            "track_name": "Like a Stone",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-02-01T17:13:42Z",
+            "album_id": "78guAsers0klWl6RwzgDLd",
+            "album_name": "Audioslave",
+            "album_release_date": "2002-11-17",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2ziB7fzrXBoh1HUPS6sVFn",
+                    "artist_name": "Audioslave"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 334.906,
+            "track_id": "3bwAS8cN7Xtzvv5UurJOOX",
+            "track_name": "I Am the Highway",
+            "track_number": 8
+        },
+        {
+            "added_at": "2017-02-01T17:14:23Z",
+            "album_id": "7gskILm9UyDvFlmmAoqn2g",
+            "album_name": "All That You Can't Leave Behind",
+            "album_release_date": "2000-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "51Blml2LZPmy7TTiAg47vQ",
+                    "artist_name": "U2"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 246.4,
+            "track_id": "1VuBmEauSZywQVtqbxNqka",
+            "track_name": "Beautiful Day",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-02-01T17:14:33Z",
+            "album_id": "2Ir1mtE8K61cCNY5WQyKGV",
+            "album_name": "Camino Palmero",
+            "album_release_date": "2001",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "5aMmmNxw4vgpc5XC6hK0zp",
+                    "artist_name": "The Calling"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 208.6,
+            "track_id": "5QpaGzWp0hwB5faV8dkbAz",
+            "track_name": "Wherever You Will Go",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-02-01T17:15:15Z",
+            "album_id": "2ENlJXygQX6en4iziijet6",
+            "album_name": "Weathered",
+            "album_release_date": "2001-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "43sZBwHjahUvgbx1WNIkIz",
+                    "artist_name": "Creed"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 238.24,
+            "track_id": "42T2QQv3xgBlpQxaSP7lnK",
+            "track_name": "One Last Breath",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-02-01T17:16:31Z",
+            "album_id": "6fb7z9rBdrjzpBTg1R1Bwp",
+            "album_name": "Eyes Open",
+            "album_release_date": "2006-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "3rIZMv9rysU7JkLzEaC5Jp",
+                    "artist_name": "Snow Patrol"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 341.266,
+            "track_id": "55fg1bDXyNUsY2KaSMNFpA",
+            "track_name": "Open Your Eyes",
+            "track_number": 10
+        },
+        {
+            "added_at": "2017-11-10T18:57:44Z",
+            "album_id": "2Y9IRtehByVkegoD7TcLfi",
+            "album_name": "Californication (Deluxe Edition)",
+            "album_release_date": "1999-06-08",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+                    "artist_name": "Red Hot Chili Peppers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 329.733,
+            "track_id": "48UPSzbZjgc449aqz8bxox",
+            "track_name": "Californication",
+            "track_number": 6
+        },
+        {
+            "added_at": "2017-11-10T18:57:53Z",
+            "album_id": "2uEf3r9i2bnxwJQsxQ0xQ7",
+            "album_name": "Nevermind (Deluxe Edition)",
+            "album_release_date": "1991-09-26",
+            "album_total_tracks": 40,
+            "artists": [
+                {
+                    "artist_id": "6olE6TJLqED3rqDCT0FyPh",
+                    "artist_name": "Nirvana"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 301.92,
+            "track_id": "1f3yAtsJtY87CTmM8RLnxf",
+            "track_name": "Smells Like Teen Spirit",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-11-10T18:58:03Z",
+            "album_id": "6hPkbAV3ZXpGZBGUvL6jVM",
+            "album_name": "Hybrid Theory (Bonus Edition)",
+            "album_release_date": "2000-10-24",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "6XyY86QOPPrYVGvF9ch6wz",
+                    "artist_name": "Linkin Park"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 216.88,
+            "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
+            "track_name": "In the End",
+            "track_number": 8
+        },
+        {
+            "added_at": "2017-11-10T18:58:11Z",
+            "album_id": "0qxadqjY5ZtZPw1kzjCUGp",
+            "album_name": "Results May Vary",
+            "album_release_date": "2003-01-01",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "165ZgPlLkK7bf5bDoFc6Sb",
+                    "artist_name": "Limp Bizkit"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 269.973,
+            "track_id": "1KXrIYY9fvjI0wN4gc4BVN",
+            "track_name": "Behind Blue Eyes",
+            "track_number": 16
+        },
+        {
+            "added_at": "2017-11-10T18:59:06Z",
+            "album_id": "4nO7EUWCOzqHK3iGDXDzzU",
+            "album_name": "Make Yourself - Tour Edition",
+            "album_release_date": "1999",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "3YcBF2ttyueytpXtEzn1Za",
+                    "artist_name": "Incubus"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 232.533,
+            "track_id": "73fzhVcs7n1wZz84eoE2vs",
+            "track_name": "Drive",
+            "track_number": 8
+        },
+        {
+            "added_at": "2017-11-10T18:59:21Z",
+            "album_id": "0rRNLpdA8nA8Sm8Fk490b9",
+            "album_name": "Elephant",
+            "album_release_date": "2003-04-01",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "4F84IBURUo98rz4r61KF70",
+                    "artist_name": "The White Stripes"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.92,
+            "track_id": "3m6KkYKdnbffMpGd9Pm9FP",
+            "track_name": "Seven Nation Army",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-11-10T18:59:32Z",
+            "album_id": "4Gfnly5CzMJQqkUFfoHaP3",
+            "album_name": "Meteora",
+            "album_release_date": "2003-03-24",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6XyY86QOPPrYVGvF9ch6wz",
+                    "artist_name": "Linkin Park"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 185.586,
+            "track_id": "2nLtzopw4rPReszdYBJU6h",
+            "track_name": "Numb",
+            "track_number": 13
+        },
+        {
+            "added_at": "2017-11-10T18:59:45Z",
+            "album_id": "1fF8kYX49s5Ufv4XEY5sjW",
+            "album_name": "Enema Of The State",
+            "album_release_date": "1999-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+                    "artist_name": "blink-182"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 148.573,
+            "track_id": "1hWrl3T1kIH5b9zRHLfCOn",
+            "track_name": "What's My Age Again?",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-11-10T19:00:16Z",
+            "album_id": "6MYqpAbjxmm65kiqYolbfY",
+            "album_name": "Be Here Now",
+            "album_release_date": "1997-08-21",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2DaxqgrOhkeH0fpeiQq2f4",
+                    "artist_name": "Oasis"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 288.64,
+            "track_id": "0goZr16jDmj8QNWDTvOO27",
+            "track_name": "Don't Go Away",
+            "track_number": 8
+        },
+        {
+            "added_at": "2017-11-10T19:00:56Z",
+            "album_id": "75viR4DrKJUIH7wFvQ7PbB",
+            "album_name": "Neon Ballroom",
+            "album_release_date": "1999-01-23",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "4iudEcmuPlYNdbP3e1bdn1",
+                    "artist_name": "Silverchair"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 240.733,
+            "track_id": "7Bz8EMztiuSJeHIjrBw7pw",
+            "track_name": "Miss You Love",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-11-10T19:02:28Z",
+            "album_id": "0xZbyUgbCsYRuTH7gYML0K",
+            "album_name": "Human Clay",
+            "album_release_date": "1999-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "43sZBwHjahUvgbx1WNIkIz",
+                    "artist_name": "Creed"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 235.266,
+            "track_id": "4pldO6ZS749Piqi4GISql8",
+            "track_name": "With Arms Wide Open - New Version With Strings",
+            "track_number": 12
+        },
+        {
+            "added_at": "2017-11-10T18:59:53Z",
+            "album_id": "2Y9IRtehByVkegoD7TcLfi",
+            "album_name": "Californication (Deluxe Edition)",
+            "album_release_date": "1999-06-08",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+                    "artist_name": "Red Hot Chili Peppers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 255.373,
+            "track_id": "64BbK9SFKH2jk86U3dGj2P",
+            "track_name": "Otherside",
+            "track_number": 4
+        },
+        {
+            "added_at": "2017-11-10T18:59:48Z",
+            "album_id": "2uEf3r9i2bnxwJQsxQ0xQ7",
+            "album_name": "Nevermind (Deluxe Edition)",
+            "album_release_date": "1991-09-26",
+            "album_total_tracks": 40,
+            "artists": [
+                {
+                    "artist_id": "6olE6TJLqED3rqDCT0FyPh",
+                    "artist_name": "Nirvana"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 218.92,
+            "track_id": "0MKGH8UMfCnq5w7nG06oM5",
+            "track_name": "Come As You Are",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-11-10T19:00:34Z",
+            "album_id": "4UMjBXcRqIgMZ1XumU2x5T",
+            "album_name": "Dizzy up the Girl",
+            "album_release_date": "1998-09-11",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "2sil8z5kiy4r76CRTXxBCA",
+                    "artist_name": "The Goo Goo Dolls"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 289.533,
+            "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+            "track_name": "Iris",
+            "track_number": 11
+        },
+        {
+            "added_at": "2017-11-10T19:00:51Z",
+            "album_id": "5CZR6ljD0x9fTiS4mh9wMp",
+            "album_name": "Only By The Night",
+            "album_release_date": "2008-09-23",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "2qk9voo8llSGYcZ6xrBzKx",
+                    "artist_name": "Kings of Leon"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 203.346,
+            "track_id": "0ntQJM78wzOLVeCUAW7Y45",
+            "track_name": "Sex on Fire",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-11-10T19:03:12Z",
+            "album_id": "6RSpKXfvVzCqtLi6VySxsU",
+            "album_name": "Still Not Getting Any",
+            "album_release_date": "2004-10-26",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "2p4FqHnazRucYQHyDCdBrJ",
+                    "artist_name": "Simple Plan"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 206.773,
+            "track_id": "10rChmECwPcvTTj4w07hq4",
+            "track_name": "Welcome to My Life",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-11-10T19:04:42Z",
+            "album_id": "3Eli3WxEALRUBF06CvcDtV",
+            "album_name": "August And Everything After",
+            "album_release_date": "1993-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "0vEsuISMWAKNctLlUAhSZC",
+                    "artist_name": "Counting Crows"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 272.506,
+            "track_id": "4q5cQyhhUW5X0PQVzA8VsG",
+            "track_name": "Mr. Jones",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-11-10T19:05:01Z",
+            "album_id": "6BZNF93Ac0zqWD1n9TgFOq",
+            "album_name": "Get A Grip (Reissue - Remaster)",
+            "album_release_date": "1993-04-20",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "7Ey4PD4MYsKc5I2dolUwbH",
+                    "artist_name": "Aerosmith"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 316.693,
+            "track_id": "2cBGl1Ehr1D9xbqNmraqb4",
+            "track_name": "Crazy",
+            "track_number": 11
+        },
+        {
+            "added_at": "2017-11-12T04:38:09Z",
+            "album_id": "616UgaZTc454Gu0aXxVH3K",
+            "album_name": "I Don't Want To Miss A Thing",
+            "album_release_date": "1998-08-18",
+            "album_total_tracks": 3,
+            "artists": [
+                {
+                    "artist_id": "7Ey4PD4MYsKc5I2dolUwbH",
+                    "artist_name": "Aerosmith"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 299.76,
+            "track_id": "0c1gHntWjKD7QShC8s99sq",
+            "track_name": "I Don't Want to Miss a Thing - From the Touchstone film, \"Armageddon\"",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-11-12T04:39:17Z",
+            "album_id": "6ooTaAyanCoC3TytYtJbi2",
+            "album_name": "Extreme II - Pornograffitti",
+            "album_release_date": "1990-01-01",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6w7j5wQ5AI5OQYlcM15s2L",
+                    "artist_name": "Extreme"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 333.995,
+            "track_id": "4npgZHPUKjWn6ipv6wl66Q",
+            "track_name": "More Than Words",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-12-31T12:54:51Z",
+            "album_id": "6deiaArbeoqp1xPEGdEKp1",
+            "album_name": "By the Way (Deluxe Edition)",
+            "album_release_date": "2002-07-09",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+                    "artist_name": "Red Hot Chili Peppers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 311.866,
+            "track_id": "1iFIZUVDBCCkWe705FLXto",
+            "track_name": "Dosed",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-04-11T19:11:21Z",
+            "album_id": "6msV14ocKnUKffhMpHWhIG",
+            "album_name": "bloom",
+            "album_release_date": "2017-05-12",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6TIYQ3jFPwQSRmorSezPxX",
+                    "artist_name": "Machine Gun Kelly"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 185.0,
+            "track_id": "2ZIhuxgLILR8LGBIWevkEe",
+            "track_name": "Let You Go",
+            "track_number": 12
+        },
+        {
+            "added_at": "2018-08-27T16:11:49Z",
+            "album_id": "2R5McN6qZtThUb8Ax0oEkO",
+            "album_name": "Fractured and Dazed",
+            "album_release_date": "2018-06-14",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1GLtl8uqKmnyCWxHmw9tL4",
+                    "artist_name": "The Kooks"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 277.475,
+            "track_id": "7gUjD8UqgaRXDVwriWkiCM",
+            "track_name": "Fractured and Dazed",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-10-19T08:16:54Z",
+            "album_id": "6TZp52tXShLQbq8yNMxqNT",
+            "album_name": "Welcome Interstate Managers",
+            "album_release_date": "2003-01-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "1pgtr4nhBQjp9oCUBPyYWh",
+                    "artist_name": "Fountains Of Wayne"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.986,
+            "track_id": "27L8sESb3KR79asDUBu8nW",
+            "track_name": "Stacy's Mom",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-10-19T08:17:22Z",
+            "album_id": "4I9PfbZ1ErduBZWTimzz2s",
+            "album_name": "Fountains of Wayne",
+            "album_release_date": "1996",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "1pgtr4nhBQjp9oCUBPyYWh",
+                    "artist_name": "Fountains Of Wayne"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 192.493,
+            "track_id": "32uXfxJERzv4RK1gMLXbOA",
+            "track_name": "Sink to the Bottom",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-10-19T08:17:59Z",
+            "album_id": "6TZp52tXShLQbq8yNMxqNT",
+            "album_name": "Welcome Interstate Managers",
+            "album_release_date": "2003-01-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "1pgtr4nhBQjp9oCUBPyYWh",
+                    "artist_name": "Fountains Of Wayne"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 202.32,
+            "track_id": "6sPuuzPOih8vLC92qLpdJB",
+            "track_name": "Mexican Wine",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-12-06T11:14:28Z",
+            "album_id": "43otFXrY0bgaq5fB3GrZj6",
+            "album_name": "The Getaway",
+            "album_release_date": "2016-06-17",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+                    "artist_name": "Red Hot Chili Peppers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 211.52,
+            "track_id": "0pjCkLjbgSLn5c0Ilwuv8z",
+            "track_name": "The Longest Wave",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-12-20T18:38:07Z",
+            "album_id": "0cnNCK2xpudXjB8pzsrYy9",
+            "album_name": "Strange Desire",
+            "album_release_date": "2014-07-14",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "2eam0iDomRHGBypaDQLwWI",
+                    "artist_name": "Bleachers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 188.866,
+            "track_id": "5L95vS64rG1YMIFm1hLjyZ",
+            "track_name": "Rollercoaster",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-12-20T18:38:39Z",
+            "album_id": "0cnNCK2xpudXjB8pzsrYy9",
+            "album_name": "Strange Desire",
+            "album_release_date": "2014-07-14",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "2eam0iDomRHGBypaDQLwWI",
+                    "artist_name": "Bleachers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 163.88,
+            "track_id": "6YArGkJUr82ehzRFa2YaRK",
+            "track_name": "Wake Me",
+            "track_number": 5
+        },
+        {
+            "added_at": "2018-12-30T17:58:32Z",
+            "album_id": "51WStYbzUKG6O0XZd5Ta9x",
+            "album_name": "One More Light (Steve Aoki Chester Forever Remix)",
+            "album_release_date": "2017-10-25",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6XyY86QOPPrYVGvF9ch6wz",
+                    "artist_name": "Linkin Park"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 250.666,
+            "track_id": "2KLX7YuMHdGxiMevRe5W7k",
+            "track_name": "One More Light - Steve Aoki Chester Forever Remix",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-12-30T17:58:47Z",
+            "album_id": "4ZDBQSIDIZRUBOG2OHcN3T",
+            "album_name": "Vol. 3: The Subliminal Verses",
+            "album_release_date": "2004",
+            "album_total_tracks": 22,
+            "artists": [
+                {
+                    "artist_id": "05fG473iIaoy82BF1aGhL8",
+                    "artist_name": "Slipknot"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.32,
+            "track_id": "0O7lENhqOySbsL743G7PqD",
+            "track_name": "Vermilion, Pt. 2",
+            "track_number": 11
+        },
+        {
+            "added_at": "2019-01-10T16:27:54Z",
+            "album_id": "6TZp52tXShLQbq8yNMxqNT",
+            "album_name": "Welcome Interstate Managers",
+            "album_release_date": "2003-01-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "1pgtr4nhBQjp9oCUBPyYWh",
+                    "artist_name": "Fountains Of Wayne"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 156.933,
+            "track_id": "2LGAbm0xHNu7scBDVCkFwN",
+            "track_name": "Hey Julie",
+            "track_number": 9
+        },
+        {
+            "added_at": "2019-01-21T22:35:17Z",
+            "album_id": "62AITKgUMplmKKSTsTlDDo",
+            "album_name": "Dale",
+            "album_release_date": "2015-07-17",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "0TnOYISbd1XYRBk9myaseg",
+                    "artist_name": "Pitbull"
+                },
+                {
+                    "artist_id": "37G8DfNgO4mQ3PKh5droSo",
+                    "artist_name": "Osmani Garcia \"La Voz\""
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 217.16,
+            "track_id": "59db0pQBOuB1FgjLo7RlvH",
+            "track_name": "Chi Chi Bon Bon (feat. Osmani Garcia)",
+            "track_number": 8
+        },
+        {
+            "added_at": "2019-01-30T10:21:30Z",
+            "album_id": "7rgq4mAjZOPGVJCRF56FU4",
+            "album_name": "Americana",
+            "album_release_date": "1998-11-17",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "5LfGQac0EIXyAN8aUwmNAQ",
+                    "artist_name": "The Offspring"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 171.866,
+            "track_id": "5JzF2iymNwCyFz9MTmojd0",
+            "track_name": "Why Don't You Get a Job?",
+            "track_number": 11
+        },
+        {
+            "added_at": "2019-08-31T17:29:15Z",
+            "album_id": "10HKbC9lKDHGQvndGck6XJ",
+            "album_name": "Gone Now",
+            "album_release_date": "2017-06-02",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2eam0iDomRHGBypaDQLwWI",
+                    "artist_name": "Bleachers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 186.053,
+            "track_id": "4PKorFhOq9YfwOGJx0cOiJ",
+            "track_name": "Let's Get Married",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-09-01T20:14:32Z",
+            "album_id": "7BYMJZFCYuGKi2jblMhyxg",
+            "album_name": "Shadows Collide With People",
+            "album_release_date": "2004-02-24",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "7rN3Agir6FaZNfhf5V7mfN",
+                    "artist_name": "John Frusciante"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 195.213,
+            "track_id": "2a0WwSvmFdXPTdDMilPA1y",
+            "track_name": "Song To Sing When I'm Lonely",
+            "track_number": 11
+        },
+        {
+            "added_at": "2019-09-01T20:15:46Z",
+            "album_id": "2HfdqVaLccOvzfsHej9A8g",
+            "album_name": "Junk Of The Heart",
+            "album_release_date": "2011-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "1GLtl8uqKmnyCWxHmw9tL4",
+                    "artist_name": "The Kooks"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 187.253,
+            "track_id": "2jZgzSxNSg1hTCq0ewWHGJ",
+            "track_name": "Junk Of The Heart (Happy)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-02T05:09:43Z",
+            "album_id": "5a3LqvNt2nv1B4aRKXmgOV",
+            "album_name": "Revolution Radio",
+            "album_release_date": "2016-10-07",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "7oPftvlwr6VrsViSDV7fJY",
+                    "artist_name": "Green Day"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 182.893,
+            "track_id": "35weSxL477aChs1wx7oZS5",
+            "track_name": "Ordinary World",
+            "track_number": 12
+        },
+        {
+            "added_at": "2019-09-02T05:20:46Z",
+            "album_id": "4fUDor6o5gw0b18iYKEaRq",
+            "album_name": "Sleeping With Ghosts",
+            "album_release_date": "2003-03-24",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6RZUqkomCmb8zCRqc9eznB",
+                    "artist_name": "Placebo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 214.906,
+            "track_id": "5he7AYCR3MGloRnuWEMroT",
+            "track_name": "This Picture",
+            "track_number": 3
+        },
+        {
+            "added_at": "2019-11-05T18:42:04Z",
+            "album_id": "3b4E89rxzZQ9zkhgKpj8N4",
+            "album_name": "Animals",
+            "album_release_date": "1977-01-23",
+            "album_total_tracks": 5,
+            "artists": [
+                {
+                    "artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+                    "artist_name": "Pink Floyd"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 685.88,
+            "track_id": "0gEaeqVRHPzRc7HMXtOKc7",
+            "track_name": "Pigs (Three Different Ones)",
+            "track_number": 3
+        },
+        {
+            "added_at": "2019-12-28T20:43:13Z",
+            "album_id": "0PMasrHdpaoIRuHuhHp72O",
+            "album_name": "Born In The U.S.A.",
+            "album_release_date": "1984-06-04",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "3eqjTLE0HfPfh78zjh6TqT",
+                    "artist_name": "Bruce Springsteen"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 241.306,
+            "track_id": "7FwBtcecmlpc1sLySPXeGE",
+            "track_name": "Dancing In the Dark",
+            "track_number": 11
+        },
+        {
+            "added_at": "2020-01-31T02:51:12Z",
+            "album_id": "3tEGBDGnejHf4mx1YSqKnb",
+            "album_name": "Who The F*** Are Arctic Monkeys?",
+            "album_release_date": "2006-04-22",
+            "album_total_tracks": 5,
+            "artists": [
+                {
+                    "artist_id": "7Ln80lUS6He07XvHI8qqHH",
+                    "artist_name": "Arctic Monkeys"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.32,
+            "track_id": "6mOiT65GFmXgBAviM3lrsE",
+            "track_name": "No Buses",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-01-31T02:52:12Z",
+            "album_id": "6b2BArDCfSvW3VFenLJatj",
+            "album_name": "Jake Bugg",
+            "album_release_date": "2012-01-01",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "4hf3caW9H8uFwwbv5pFjcg",
+                    "artist_name": "Jake Bugg"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 144.013,
+            "track_id": "79DO6dBi8936P6EShLB209",
+            "track_name": "Lightning Bolt",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-02-25T17:24:01Z",
+            "album_id": "4XHIjbhjRmqWlosjj5rqSI",
+            "album_name": "LIVING THINGS",
+            "album_release_date": "2012-06-20",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6XyY86QOPPrYVGvF9ch6wz",
+                    "artist_name": "Linkin Park"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 229.933,
+            "track_id": "1dYw8HTRJnFpeEeMtXj99a",
+            "track_name": "ROADS UNTRAVELED",
+            "track_number": 8
+        },
+        {
+            "added_at": "2020-12-16T09:59:13Z",
+            "album_id": "4I7uuSfSkHKJjrr1vpu4mi",
+            "album_name": "Portamento",
+            "album_release_date": "2011-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "0p5axeJsbtTCXBrRVoKjwu",
+                    "artist_name": "The Drums"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 233.639,
+            "track_id": "3VIJBrMpvimHEw5wtPh2wB",
+            "track_name": "Money",
+            "track_number": 4
+        },
+        {
+            "added_at": "2021-01-08T12:06:24Z",
+            "album_id": "2xkZV2Hl1Omi8rk2D7t5lN",
+            "album_name": "The New Abnormal",
+            "album_release_date": "2020-04-10",
+            "album_total_tracks": 9,
+            "artists": [
+                {
+                    "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+                    "artist_name": "The Strokes"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 222.093,
+            "track_id": "2t0wwvR15fc3K1ey8OiOaN",
+            "track_name": "Selfless",
+            "track_number": 2
+        }
+    ]
+}

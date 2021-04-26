@@ -1,0 +1,122 @@
+{
+    "playlist_id": "4L5DUv7xum69lqoh54z8aX",
+    "playlist_name": "Reggae",
+    "tracks": [
+        {
+            "added_at": "2019-07-09T12:22:11Z",
+            "album_id": "6xHCLQ9S5AwZoXpByv84x7",
+            "album_name": "Vas a Morir Con Eso",
+            "album_release_date": "2012-05-04",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "6Y1u9VzC9SOmr9pbUACwjg",
+                    "artist_name": "Pipa Para Tabaco"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 183.08,
+            "track_id": "3gICX8xprH36aGvUyiUznn",
+            "track_name": "Todo Biento",
+            "track_number": 10
+        },
+        {
+            "added_at": "2019-07-09T12:22:18Z",
+            "album_id": "6xHCLQ9S5AwZoXpByv84x7",
+            "album_name": "Vas a Morir Con Eso",
+            "album_release_date": "2012-05-04",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "6Y1u9VzC9SOmr9pbUACwjg",
+                    "artist_name": "Pipa Para Tabaco"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 159.973,
+            "track_id": "6kv4uuDRBtpg014dh1sGY1",
+            "track_name": "Efecto Ma\u00f1anero",
+            "track_number": 5
+        },
+        {
+            "added_at": "2019-09-18T22:01:32Z",
+            "album_id": "2CiHdjfdERdDsSwOKcXeSz",
+            "album_name": "Pegaria",
+            "album_release_date": "2016-03-14",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5BwGhYFDQSAfXkSSFGAPkC",
+                    "artist_name": "LaNuestra"
+                },
+                {
+                    "artist_id": "29VZg25BCCYGJklcaKs7h7",
+                    "artist_name": "Chirola"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 189.655,
+            "track_id": "6jiz69dbsL4Dk2EoNcEuXs",
+            "track_name": "Pegaria",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-18T22:01:49Z",
+            "album_id": "1iVn8QVQZA4GBBtM5YpafX",
+            "album_name": "Sr. Pombero",
+            "album_release_date": "2012-12-14",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6bxlchoOipKgLaJKgoCzOZ",
+                    "artist_name": "Kchiporros"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 214.586,
+            "track_id": "65zC8z3yke13wqKMnKHqhF",
+            "track_name": "Cada D\u00eda",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-09-21T19:11:17Z",
+            "album_id": "45DLC0LzabV7G5KsPpLo2m",
+            "album_name": "Hemisferios",
+            "album_release_date": "2014-05-15",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "6RtpeKo8M8Ma1sADlQgI3U",
+                    "artist_name": "La De Roberto"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 207.763,
+            "track_id": "36BEeLmQdyLFTsk0q7NUNb",
+            "track_name": "Hemisferios",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-10-19T22:28:16Z",
+            "album_id": "6AgxVg5UPdPs5b0GCUEQ38",
+            "album_name": "Canela",
+            "album_release_date": "2019-03-22",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1cUpGtXcSQsovNYEZOQgOG",
+                    "artist_name": "Nanpa B\u00e1sico"
+                },
+                {
+                    "artist_id": "5lYeiQxUTcGKVgAuTqbTeL",
+                    "artist_name": "Charles Ans"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 204.629,
+            "track_id": "1yTJg3lyUPmwbnve82twH5",
+            "track_name": "Canela",
+            "track_number": 1
+        }
+    ]
+}

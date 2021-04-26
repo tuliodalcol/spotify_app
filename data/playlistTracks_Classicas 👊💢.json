@@ -1,0 +1,604 @@
+{
+    "playlist_id": "70Q1Gr253SxxLr1krqMPdO",
+    "playlist_name": "Classicas \ud83d\udc4a\ud83d\udca2",
+    "tracks": [
+        {
+            "added_at": "2019-01-18T08:53:02Z",
+            "album_id": "5i2pYUFwnFnNCfXVK4hj1k",
+            "album_name": "Quelqu'un m'a dit",
+            "album_release_date": "2002-11-05",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "1HVwzNriKEjaeE06okqSpx",
+                    "artist_name": "Carla Bruni"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 168.626,
+            "track_id": "5lIOhDGfy2lQJWWwxBm8L4",
+            "track_name": "Quelqu'un m'a dit",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-04-20T22:11:36Z",
+            "album_id": "5SMsywy6z8bEX3SmqYIhZZ",
+            "album_name": "Viento y Sombra",
+            "album_release_date": "2012-01-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6AvVNBiwAW7CXZPACAo2OB",
+                    "artist_name": "Rosario Ortega"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 117.706,
+            "track_id": "4SOLFHte6GaIvPKVz236pX",
+            "track_name": "Luminosidad",
+            "track_number": 10
+        },
+        {
+            "added_at": "2019-03-05T23:48:57Z",
+            "album_id": "3xZOsYi4w4NWEM99Ln2YCW",
+            "album_name": "Abel",
+            "album_release_date": "2013-10-08",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6HTUcOExehqydqa7C3usAa",
+                    "artist_name": "Abel Pintos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 275.813,
+            "track_id": "1fzM7F3jojcKt96znnlP1L",
+            "track_name": "El Mar",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-01-18T08:53:58Z",
+            "album_id": "70VszGJ7SagYgjotM7zvrX",
+            "album_name": "Les Champs-\u00c8lys\u00e9es",
+            "album_release_date": "1969-08-20",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "64LCTpIu9Iji2EPaxxPpxF",
+                    "artist_name": "Joe Dassin"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 157.626,
+            "track_id": "4VWbPQUPvLes814r6T11Jz",
+            "track_name": "Les Champs-Elys\u00e9es",
+            "track_number": 3
+        },
+        {
+            "added_at": "2019-04-20T22:14:15Z",
+            "album_id": "04I3jaGuafxHs7ikbT3Vsn",
+            "album_name": "Vuelve",
+            "album_release_date": "2017-08-24",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "0ZHPrnImGh4re3TbSNkoZl",
+                    "artist_name": "Beret"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 153.049,
+            "track_id": "3hZYJIRDVCq6Cg9d01B12j",
+            "track_name": "Vuelve",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-18T08:53:38Z",
+            "album_id": "3ikheuf2MSfLP17Gd3wjfu",
+            "album_name": "Double Best Of - Comme Un Boomerang",
+            "album_release_date": "2011-01-01",
+            "album_total_tracks": 49,
+            "artists": [
+                {
+                    "artist_id": "01C9OoXDvCKkGcf735Tcfo",
+                    "artist_name": "Serge Gainsbourg"
+                },
+                {
+                    "artist_id": "4XYH5Be5pn1qkxhfaID3J5",
+                    "artist_name": "Jane Birkin"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 260.026,
+            "track_id": "0la075AtuMGjnVtbHSBYUA",
+            "track_name": "Je t'aime moi non plus",
+            "track_number": 24
+        },
+        {
+            "added_at": "2019-01-18T08:57:11Z",
+            "album_id": "1ziLTI3HdXeC5j5PJx4VnK",
+            "album_name": "Peppino Di Capri In Tour",
+            "album_release_date": "2013-04-19",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "4zg9VA3wNR2KFwpvPabqa4",
+                    "artist_name": "Peppino Di Capri"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 240.333,
+            "track_id": "43G0kmQWAlp5Cet0Y7QuEn",
+            "track_name": "Roberta",
+            "track_number": 8
+        },
+        {
+            "added_at": "2019-01-18T08:53:22Z",
+            "album_id": "28QBtKmmzVzIzba686YZX7",
+            "album_name": "Les 50 Plus Belles Chansons",
+            "album_release_date": "2007-01-01",
+            "album_total_tracks": 50,
+            "artists": [
+                {
+                    "artist_id": "0P4PF0pSB8hBeL1keuPwdG",
+                    "artist_name": "Georges Moustaki"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 218.92,
+            "track_id": "2VryXy5oPRDpHbjxPDVSj3",
+            "track_name": "Les eaux de Mars",
+            "track_number": 9
+        },
+        {
+            "added_at": "2019-01-18T08:53:09Z",
+            "album_id": "2k3nz0I7mJzegtkooii4za",
+            "album_name": "Eternelle",
+            "album_release_date": "1987-10-31",
+            "album_total_tracks": 38,
+            "artists": [
+                {
+                    "artist_id": "1WPcVNert9hn7mHsPKDn7j",
+                    "artist_name": "\u00c9dith Piaf"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 142.28,
+            "track_id": "3dkIE8P7hvl3tHl9KSb6dA",
+            "track_name": "Non, je ne regrette rien",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-18T08:53:15Z",
+            "album_id": "6XGMIYzCqAUnaaz9q2ukVr",
+            "album_name": "50 + belles chansons",
+            "album_release_date": "2016-06-10",
+            "album_total_tracks": 50,
+            "artists": [
+                {
+                    "artist_id": "15uNxh8omvRvH71kcdIe2r",
+                    "artist_name": "Renaud"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 246.866,
+            "track_id": "1IJdZVsN6FHN5IvcsaV4jn",
+            "track_name": "C'est mon dernier bal",
+            "track_number": 9
+        },
+        {
+            "added_at": "2019-01-18T08:57:17Z",
+            "album_id": "1ziLTI3HdXeC5j5PJx4VnK",
+            "album_name": "Peppino Di Capri In Tour",
+            "album_release_date": "2013-04-19",
+            "album_total_tracks": 20,
+            "artists": [
+                {
+                    "artist_id": "4zg9VA3wNR2KFwpvPabqa4",
+                    "artist_name": "Peppino Di Capri"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 268.0,
+            "track_id": "6qnQkIIFPFyTAhoyIFBrcR",
+            "track_name": "Champagne",
+            "track_number": 20
+        },
+        {
+            "added_at": "2019-01-18T08:54:13Z",
+            "album_id": "7H3c8NdGjNFruFiJ00iqL0",
+            "album_name": "Sur la route (Live 2015)",
+            "album_release_date": "2015-10-30",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "1mbgj8ERPs8lWi7t5cYrdy",
+                    "artist_name": "Zaz"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 208.219,
+            "track_id": "5phxiOkabSpu5MadUew25D",
+            "track_name": "Si jamais j'oublie - Sur la route Live 2015",
+            "track_number": 11
+        },
+        {
+            "added_at": "2019-01-18T08:54:47Z",
+            "album_id": "5lX198dectE8fpkow4UXrf",
+            "album_name": "Comment te dire adieu ?",
+            "album_release_date": "1968",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "7x3f7c0fBanNlQwpx1255g",
+                    "artist_name": "Fran\u00e7oise Hardy"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 146.333,
+            "track_id": "29GuoJqjg7aMxUmEO3XLEp",
+            "track_name": "Comment te dire adieu - It Hurts to Say Goodbye",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-25T09:01:44Z",
+            "album_id": "6u9tEKSghovMOBy9rwTMLn",
+            "album_name": "Fais Comme L'Oiseau",
+            "album_release_date": "1972-07-20",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "5KnLt0VENhwsfmQL3y2nsY",
+                    "artist_name": "Michel Fugain & Le Big Bazar"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 195.306,
+            "track_id": "1GdtMDRiaF1EnG2LJpELme",
+            "track_name": "Une belle histoire",
+            "track_number": 5
+        },
+        {
+            "added_at": "2019-01-18T08:55:19Z",
+            "album_id": "6MuoqipFgorIZEYwGWEFAU",
+            "album_name": "Zaz",
+            "album_release_date": "2010-05-10",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "1mbgj8ERPs8lWi7t5cYrdy",
+                    "artist_name": "Zaz"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 215.933,
+            "track_id": "734dz1YaFITwawPpM25fSt",
+            "track_name": "Je veux",
+            "track_number": 2
+        },
+        {
+            "added_at": "2019-01-18T20:19:29Z",
+            "album_id": "2jtQpCnF21YfepWwuM0tec",
+            "album_name": "Peppino Di Capri",
+            "album_release_date": "2005-01-01",
+            "album_total_tracks": 24,
+            "artists": [
+                {
+                    "artist_id": "4zg9VA3wNR2KFwpvPabqa4",
+                    "artist_name": "Peppino Di Capri"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 137.346,
+            "track_id": "0yzxnz8zp2ttEAWKgeD006",
+            "track_name": "Saint-Tropez Twist",
+            "track_number": 2
+        },
+        {
+            "added_at": "2019-01-25T09:55:08Z",
+            "album_id": "77UI8F1LuhiQaKIL1qOE1W",
+            "album_name": "Ritchie Valens",
+            "album_release_date": "1959",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "5Y9xEAGW4GwGJgbiI6W85P",
+                    "artist_name": "Ritchie Valens"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 116.626,
+            "track_id": "7caj6X6NMX3tlhWnu1du6V",
+            "track_name": "We Belong Together",
+            "track_number": 11
+        },
+        {
+            "added_at": "2019-01-25T09:54:06Z",
+            "album_id": "3XKYSvPAmrCVaFs4gzr1Ig",
+            "album_name": "Georgia On My Mind",
+            "album_release_date": "2012-02-23",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+                    "artist_name": "Ray Charles"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 216.613,
+            "track_id": "4PKRAcbN8aPrgzFe0kOxRx",
+            "track_name": "Georgia On My Mind",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-01-25T09:55:17Z",
+            "album_id": "77UI8F1LuhiQaKIL1qOE1W",
+            "album_name": "Ritchie Valens",
+            "album_release_date": "1959",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "5Y9xEAGW4GwGJgbiI6W85P",
+                    "artist_name": "Ritchie Valens"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 150.973,
+            "track_id": "0VE4ayVlGs5DBoqOdgJ0Zv",
+            "track_name": "Donna - Single Version",
+            "track_number": 4
+        },
+        {
+            "added_at": "2019-04-20T22:19:41Z",
+            "album_id": "17EANLCoErHdo9FpzMx25q",
+            "album_name": "Fran\u00e7ois",
+            "album_release_date": "2001-01-02",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "1yjAx9cww4f1QuAaN3dUI2",
+                    "artist_name": "Desireless"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 266.6,
+            "track_id": "2d8D7uk3tbAThjRkdfrx9c",
+            "track_name": "Voyage voyage",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-06-10T13:03:58Z",
+            "album_id": "4mhpbf7jYc0L1nBceoebIE",
+            "album_name": "Among My Swan",
+            "album_release_date": "1996-10-29",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "37w38cCSGgKLdayTRjna4W",
+                    "artist_name": "Mazzy Star"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 287.893,
+            "track_id": "010ALbbh5KlQ4fKWgSdhRd",
+            "track_name": "Look On Down From The Bridge",
+            "track_number": 12
+        },
+        {
+            "added_at": "2019-07-22T19:57:04Z",
+            "album_id": "7CgbWo8K9pQx823YTI17zE",
+            "album_name": "La Trenza",
+            "album_release_date": "2017-04-28",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "4boI7bJtmB1L3b1cuL75Zr",
+                    "artist_name": "Mon Laferte"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.653,
+            "track_id": "1gQxoBZiyLK5hRLLoBg89x",
+            "track_name": "Primaveral",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-09-14T21:21:26Z",
+            "album_id": "3rU947MaPxzKjSSbx4cQjg",
+            "album_name": "La Vie En Rose",
+            "album_release_date": "2015-01-28",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "0WfaItAbs4vlgIA1cuqGtJ",
+                    "artist_name": "Daniela Andrade"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 105.5,
+            "track_id": "0VxocBntP1XTZRsR9ZURPS",
+            "track_name": "La Vie En Rose",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-11-08T20:47:34Z",
+            "album_id": "1c7fpydgzXm9gSXHZ228et",
+            "album_name": "Cinquemilaquarantatre (2001 Remastered Version)",
+            "album_release_date": "1972-05",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "3HL1CyOnDLFJo1Rr8YBlKy",
+                    "artist_name": "Mina"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 238.386,
+            "track_id": "7LZDbABGg2NfnGsyIs2SeB",
+            "track_name": "Parole parole - 2001 Remastered Version",
+            "track_number": 11
+        },
+        {
+            "added_at": "2020-02-01T19:49:34Z",
+            "album_id": "3e3Nfe6qFPnmfxUtkBfYrj",
+            "album_name": "La Boh\u00e8me (Remastered 2014)",
+            "album_release_date": "1966",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "2hgP9Ap2tc10R5jrQaEpMT",
+                    "artist_name": "Charles Aznavour"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 245.186,
+            "track_id": "2o0hVSbnkdvDDKKVNaUxnB",
+            "track_name": "La boh\u00e8me",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-03-25T09:35:16Z",
+            "album_id": "3MfNbOJuFb5H4CjrT49oiI",
+            "album_name": "M\u00e1s",
+            "album_release_date": "1997-08-28",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "5sUrlPAHlS9NEirDB8SEbF",
+                    "artist_name": "Alejandro Sanz"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 343.413,
+            "track_id": "0wQCKR9OFjYu5Kzrk7WivJ",
+            "track_name": "Coraz\u00f3n part\u00edo",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-03-25T09:48:24Z",
+            "album_id": "41VfVz6sKvbm1yCbqAlwfM",
+            "album_name": "Mexico en la Piel (edicion diamante)",
+            "album_release_date": "2005-09-06",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "2nszmSgqreHSdJA3zWPyrW",
+                    "artist_name": "Luis Miguel"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 209.213,
+            "track_id": "5BPq1UQa1NSN647R6IzD3n",
+            "track_name": "M\u00e9xico En La Piel",
+            "track_number": 4
+        },
+        {
+            "added_at": "2020-02-02T23:03:06Z",
+            "album_id": "73R38UCArse15SjpJMxPOh",
+            "album_name": "J'suis pas dupe",
+            "album_release_date": "2015-06-29",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6e3pZKXUxrPfnUPJ960Hd9",
+                    "artist_name": "Pomme"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 200.373,
+            "track_id": "2B3PBq5Sh63zt0mPpZ5gXG",
+            "track_name": "J'suis pas dupe",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-03-23T23:22:20Z",
+            "album_id": "1VBHJl3BLl2Jt69WwTvicS",
+            "album_name": "La Familia Festeja Fuerte (En Vivo Estadio River Plate)",
+            "album_release_date": "2018-06-15",
+            "album_total_tracks": 32,
+            "artists": [
+                {
+                    "artist_id": "6HTUcOExehqydqa7C3usAa",
+                    "artist_name": "Abel Pintos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 332.327,
+            "track_id": "5OKZr3uezdH9hejgigW5YL",
+            "track_name": "El Mar (En Vivo Estadio River Plate)",
+            "track_number": 14
+        },
+        {
+            "added_at": "2020-07-09T17:23:50Z",
+            "album_id": "0jDK15E80QD5ekIOlqdY7h",
+            "album_name": "From Gas to Solid / you are my friend",
+            "album_release_date": "2018-10-26",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2mAYpnSe3g2Y22JcZ2ddku",
+                    "artist_name": "Soap&Skin"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 144.0,
+            "track_id": "1HVCTkwQwbYQvNjiv4Os8d",
+            "track_name": "What A Wonderful World",
+            "track_number": 12
+        },
+        {
+            "added_at": "2020-10-13T10:10:10Z",
+            "album_id": "2bFMNIFvppcYCLA4t8QCrC",
+            "album_name": "Questa E La Storia: Andavo A Cento All'ora",
+            "album_release_date": "1994-11-11",
+            "album_total_tracks": 30,
+            "artists": [
+                {
+                    "artist_id": "15FrhfFYJIx7Ijltkpjbsr",
+                    "artist_name": "Gianni Morandi"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 190.44,
+            "track_id": "09jv6S4KKCafPzreGpWcfp",
+            "track_name": "In ginocchio da te",
+            "track_number": 9
+        },
+        {
+            "added_at": "2021-01-29T22:16:02Z",
+            "album_id": "6IFEZC3uX47663lqs4TYLy",
+            "album_name": "di20are",
+            "album_release_date": "2016-02-19",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "4jFlmD92WULLlaRS8Cj6QS",
+                    "artist_name": "Francesca Michielin"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 219.933,
+            "track_id": "6WPDJLHlR2fFXNaRKq0jqm",
+            "track_name": "Nessun grado di separazione",
+            "track_number": 1
+        },
+        {
+            "added_at": "2021-04-09T07:48:52Z",
+            "album_id": "3M0CcOWFI6hwxNB8gr03hm",
+            "album_name": "Yo No Canto Pero Lo Intentamos",
+            "album_release_date": "2009-05-19",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "01rgao9OzfBm2BOHWJpi1Y",
+                    "artist_name": "Espinoza Paz"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 197.122,
+            "track_id": "0TE6IiCnzQdFTwnWZ84JOq",
+            "track_name": "Lo Intentamos",
+            "track_number": 3
+        }
+    ]
+}

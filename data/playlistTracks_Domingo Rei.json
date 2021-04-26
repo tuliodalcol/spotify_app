@@ -1,0 +1,1050 @@
+{
+    "playlist_id": "2AXxzrYVq6grdQpY1feqUm",
+    "playlist_name": "Domingo Rei",
+    "tracks": [
+        {
+            "added_at": "2017-02-01T16:40:47Z",
+            "album_id": "0RnWcHck1zMA2xIPxDMNkH",
+            "album_name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+            "album_release_date": "2004-09-08",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "6aCbXH85qN6xo54C7atSMx",
+                    "artist_name": "Black Alien"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 221.333,
+            "track_id": "1ToSJIoW4JyI6qHrurcNQP",
+            "track_name": "Per\u00edcia Na Del\u00edcia",
+            "track_number": 10
+        },
+        {
+            "added_at": "2017-02-01T16:40:58Z",
+            "album_id": "0m7jcUjqC5DHzR1z13Epf4",
+            "album_name": "Mixtape Pir\u00e2mide Perdida, Vol. 7",
+            "album_release_date": "2016-07-06",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6ZnwtQznVleZpEkQINdyfG",
+                    "artist_name": "Akira Presidente"
+                },
+                {
+                    "artist_id": "6IhtLAHfcTGQuUJX4cdhCn",
+                    "artist_name": "Nectar Gang"
+                },
+                {
+                    "artist_id": "5WFFFHVqeVk5tLuYh2KjQy",
+                    "artist_name": "Luccas Carlos"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 249.23,
+            "track_id": "6I8pDYB4AsMEeyWgYnsFVe",
+            "track_name": "Luccas Carlos",
+            "track_number": 8
+        },
+        {
+            "added_at": "2018-06-10T09:16:45Z",
+            "album_id": "2PO0WJo5C1JIRIcRhlJvyr",
+            "album_name": "N\u00f3 na Orelha",
+            "album_release_date": "2011-12-14",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 280.032,
+            "track_id": "6ROhm6gtkd6SDets7Jz9d6",
+            "track_name": "N\u00e3o Existe Amor em Sp",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-08-14T20:05:18Z",
+            "album_id": "4HcPzKyKVtcZCwJgesoZWn",
+            "album_name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+            "album_release_date": "2002",
+            "album_total_tracks": 21,
+            "artists": [
+                {
+                    "artist_id": "29CQLw9uLWsl8Qkz9holfr",
+                    "artist_name": "Racionais MC's"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 303.56,
+            "track_id": "6m8AgjfI28ER6odzMxmHtR",
+            "track_name": "Vida Loka, Pt. 1",
+            "track_number": 4
+        },
+        {
+            "added_at": "2017-02-01T16:41:00Z",
+            "album_id": "0m7jcUjqC5DHzR1z13Epf4",
+            "album_name": "Mixtape Pir\u00e2mide Perdida, Vol. 7",
+            "album_release_date": "2016-07-06",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6IhtLAHfcTGQuUJX4cdhCn",
+                    "artist_name": "Nectar Gang"
+                },
+                {
+                    "artist_id": "26aPjwxSSJsGy6yQ19YL55",
+                    "artist_name": "Sain"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 201.19,
+            "track_id": "4vKF4NrT9YnYUxQLNK5Cyo",
+            "track_name": "Dispiei",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-02-01T16:41:20Z",
+            "album_id": "0a6RJTaFeFnXG7aQlv6h0X",
+            "album_name": "Sonho de Rua",
+            "album_release_date": "2013-07-25",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "2RKcy8YT2w2QYn0D7TjiIi",
+                    "artist_name": "Cacife Clandestino"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 258.577,
+            "track_id": "39S482DCKS7mjNKr1xgoAT",
+            "track_name": "Beija Flor",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-02-01T16:41:29Z",
+            "album_id": "3AmribtckQVXGNUXg8pg5b",
+            "album_name": "Lady",
+            "album_release_date": "2016-08-07",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5WFFFHVqeVk5tLuYh2KjQy",
+                    "artist_name": "Luccas Carlos"
+                },
+                {
+                    "artist_id": "5zFtqMfPtmGuKZEjepbVDW",
+                    "artist_name": "BK"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 259.951,
+            "track_id": "4rGo35l9nUa2FIcsiEDv4J",
+            "track_name": "Lady",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-02-01T16:43:52Z",
+            "album_id": "2PO0WJo5C1JIRIcRhlJvyr",
+            "album_name": "N\u00f3 na Orelha",
+            "album_release_date": "2011-12-14",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 212.183,
+            "track_id": "1pkD31Pt5ZNW3N9v2cFMzc",
+            "track_name": "Subirusdoistiozin",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-02-01T16:44:00Z",
+            "album_id": "5QwAljFrhBW1RYWo35de4d",
+            "album_name": "Quem Tava L\u00e1?",
+            "album_release_date": "2016-09-02",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "7q1aEytv83jXNECmyaMhgn",
+                    "artist_name": "Costa Gold"
+                },
+                {
+                    "artist_id": "3GUOShSqt7K9wSRgHu3ucX",
+                    "artist_name": "Marechal"
+                },
+                {
+                    "artist_id": "5WFFFHVqeVk5tLuYh2KjQy",
+                    "artist_name": "Luccas Carlos"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 342.12,
+            "track_id": "3NBA1vKfDlg0iTDt7WJbaW",
+            "track_name": "Quem Tava L\u00e1?",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-02-01T16:44:18Z",
+            "album_id": "4CYB9IWp5ReZ8PfvU7Cost",
+            "album_name": "Fuga",
+            "album_release_date": "2016-12-09",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2RKcy8YT2w2QYn0D7TjiIi",
+                    "artist_name": "Cacife Clandestino"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 232.192,
+            "track_id": "1w3wkv5EPlYBHi7N21XADR",
+            "track_name": "Fuga",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-02-01T16:46:02Z",
+            "album_id": "5ldKA0EgQsE2SFcWFApT1H",
+            "album_name": "Castelos & Ru\u00ednas",
+            "album_release_date": "2016-03-21",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "1YOVBTvznjiDvtAj4ExHeo",
+                    "artist_name": "BK"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 249.49,
+            "track_id": "2zibFv0sgeDjDcHVQptIeS",
+            "track_name": "Castelos & Ru\u00ednas",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-02-01T16:47:25Z",
+            "album_id": "25jkBDfGbJJbh60pTRJcTb",
+            "album_name": "P\u00f3s Expediente",
+            "album_release_date": "2015-08-07",
+            "album_total_tracks": 6,
+            "artists": [
+                {
+                    "artist_id": "6ZnwtQznVleZpEkQINdyfG",
+                    "artist_name": "Akira Presidente"
+                },
+                {
+                    "artist_id": "5WFFFHVqeVk5tLuYh2KjQy",
+                    "artist_name": "Luccas Carlos"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 205.312,
+            "track_id": "6NfRmappU9RtvZoPNVHfGF",
+            "track_name": "Sexo, Beck e Fuma\u00e7a",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-02-01T16:47:38Z",
+            "album_id": "5VGacDrA4iQH4ur5YZIohh",
+            "album_name": "Coisas do Meu Imagin\u00e1rio",
+            "album_release_date": "2016-11-11",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "0GWNKI3VPEcJsOIEhUjmxd",
+                    "artist_name": "Rael"
+                },
+                {
+                    "artist_id": "6aCbXH85qN6xo54C7atSMx",
+                    "artist_name": "Black Alien"
+                },
+                {
+                    "artist_id": "0uII35g8xpJtogZEvLCczX",
+                    "artist_name": "Daniel Yorub\u00e1"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 215.828,
+            "track_id": "7t4k0rCxivKJ4aakmrOUkN",
+            "track_name": "Papo Reto",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-02-01T16:47:45Z",
+            "album_id": "7bqvleTPBX8DqrGfNmEUPX",
+            "album_name": "Caro Vapor / Vida e Veneno de Don L",
+            "album_release_date": "2013-10-10",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "6U98XWjrUPnPtPBjEprDmu",
+                    "artist_name": "Don L"
+                },
+                {
+                    "artist_id": "5Lv5kKhpw5dTlc8nl4J8Pi",
+                    "artist_name": "Rael"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 229.889,
+            "track_id": "3Vek6VBsc7NcLQeMTqdUQc",
+            "track_name": "Beira de Piscina (Remix)",
+            "track_number": 10
+        },
+        {
+            "added_at": "2017-02-01T16:48:43Z",
+            "album_id": "52xmMOOQQXlggQF281n47s",
+            "album_name": "Ponta de Lan\u00e7a (Verso Livre)",
+            "album_release_date": "2016-12-26",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6syQjkQSMIrzw5cFnNRheo",
+                    "artist_name": "Rincon Sapi\u00eancia"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 214.165,
+            "track_id": "0Y8dSlRPhYGN96MoPCFj8c",
+            "track_name": "Ponta de Lan\u00e7a (Verso Livre)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-02-01T16:51:35Z",
+            "album_id": "6AkhI7SlndOvkY4o16OE8u",
+            "album_name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+            "album_release_date": "2014-01-25",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2d9LRvQJnAXRijqIJDDs2K",
+                    "artist_name": "Emicida"
+                },
+                {
+                    "artist_id": "0GWNKI3VPEcJsOIEhUjmxd",
+                    "artist_name": "Rael"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 150.32,
+            "track_id": "3BBWqSpbGdF2TLH05XJhSZ",
+            "track_name": "Levanta e Anda",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-02-01T16:51:48Z",
+            "album_id": "3OWspFyN47WiLPQwqN5AmN",
+            "album_name": "Pa\u00eds da Ganja",
+            "album_release_date": "2012-10-23",
+            "album_total_tracks": 6,
+            "artists": [
+                {
+                    "artist_id": "0CuAjzGLgyZe7aHgVwSzSq",
+                    "artist_name": "Eltin"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 321.462,
+            "track_id": "5wh1I66DNl5jdJkNTBNN6S",
+            "track_name": "Pa\u00eds da Ganja",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-02-01T16:52:06Z",
+            "album_id": "5xnpDQuOSNPG5IuyqnEqVS",
+            "album_name": "Convoque Seu Buda",
+            "album_release_date": "2014-11-04",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                },
+                {
+                    "artist_id": "44A7vIMeuMh3AhjFTkj8B5",
+                    "artist_name": "S\u00edntese"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 218.853,
+            "track_id": "3rHkDREhvtlUU9V9LMKYbL",
+            "track_name": "Plano de V\u00f4o",
+            "track_number": 8
+        },
+        {
+            "added_at": "2017-02-01T16:52:37Z",
+            "album_id": "0Rbi6DQAFtVsjFar13NL8U",
+            "album_name": "Saeculum",
+            "album_release_date": "2015-12-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "14SLtuR7lu73JPyxipeLT6",
+                    "artist_name": "Valente"
+                },
+                {
+                    "artist_id": "13FuSigLoOp1jf1YKTNzC9",
+                    "artist_name": "A Banca 021"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 225.0,
+            "track_id": "2Q37b2mmOckVFNOsukmrrc",
+            "track_name": "Deixa Ela",
+            "track_number": 15
+        },
+        {
+            "added_at": "2017-02-01T16:52:46Z",
+            "album_id": "4qoMU7ZgpqMWBddob6PNTN",
+            "album_name": "Sem Crise",
+            "album_release_date": "2012-12-05",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "5BWqFYIPTnFx3OPWOoJvmD",
+                    "artist_name": "Gabriel O Pensador"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 344.103,
+            "track_id": "1uu31YSBhqisi480OmqyL9",
+            "track_name": "Linhas Tortas",
+            "track_number": 5
+        },
+        {
+            "added_at": "2017-02-01T16:53:08Z",
+            "album_id": "128tFdKiK6jIKR9l47QLKI",
+            "album_name": "F\u00e9 na Luta",
+            "album_release_date": "2016-07-15",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5BWqFYIPTnFx3OPWOoJvmD",
+                    "artist_name": "Gabriel O Pensador"
+                },
+                {
+                    "artist_id": "4C2lJrO2VHoBJiDac8ygPS",
+                    "artist_name": "Tais Alvarenga"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 217.083,
+            "track_id": "20cbGw4DpRYSVapv3RQkx7",
+            "track_name": "F\u00e9 na Luta",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-06-10T09:19:32Z",
+            "album_id": "1GwDxmMkYl9ms7ksRifPrC",
+            "album_name": "Convoque Seu Buda",
+            "album_release_date": "2014",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 269.27,
+            "track_id": "2IWhImeG9aRRupVnEJsQgZ",
+            "track_name": "Esquiva da Esgrima",
+            "track_number": 2
+        },
+        {
+            "added_at": "2017-02-01T16:53:33Z",
+            "album_id": "2yIJ5NiVk8BKvQRPj4RWpB",
+            "album_name": "N\u00e1degas A Declarar",
+            "album_release_date": "1999-08-18",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "5BWqFYIPTnFx3OPWOoJvmD",
+                    "artist_name": "Gabriel O Pensador"
+                },
+                {
+                    "artist_id": "0A1oy7PC7fdzURgaLaWkL1",
+                    "artist_name": "Lulu Santos"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 283.76,
+            "track_id": "3ujI5Tb5sebqIq2uvXL3UW",
+            "track_name": "Astronauta (feat. Lulu Santos)",
+            "track_number": 11
+        },
+        {
+            "added_at": "2018-06-06T13:07:55Z",
+            "album_id": "1GwDxmMkYl9ms7ksRifPrC",
+            "album_name": "Convoque Seu Buda",
+            "album_release_date": "2014",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 265.299,
+            "track_id": "5vpme37T5Zk5qmBojQ5VTj",
+            "track_name": "Pegue Pra Ela",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-02-01T16:57:19Z",
+            "album_id": "3J9f8j8ljuaO17iqxQZty1",
+            "album_name": "Sou Filho da Lua",
+            "album_release_date": "2016-11-11",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "3ge4xOaKvWfhRwgx0Rldov",
+                    "artist_name": "MC Guime"
+                },
+                {
+                    "artist_id": "2JdhS3S5OScu2aaP7mYPNs",
+                    "artist_name": "Cone Crew"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 202.626,
+            "track_id": "0oBbF7vJJMPVWkDuj2sVuX",
+            "track_name": "Gata eu vim do gueto (Participa\u00e7\u00e3o especial ConeCrew Diretoria)",
+            "track_number": 3
+        },
+        {
+            "added_at": "2017-02-01T16:58:23Z",
+            "album_id": "3J9f8j8ljuaO17iqxQZty1",
+            "album_name": "Sou Filho da Lua",
+            "album_release_date": "2016-11-11",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "3ge4xOaKvWfhRwgx0Rldov",
+                    "artist_name": "MC Guime"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 158.617,
+            "track_id": "2xaw7aGyc4wkfEWjquJBr2",
+            "track_name": "Sou filho da lua",
+            "track_number": 7
+        },
+        {
+            "added_at": "2017-03-07T18:39:02Z",
+            "album_id": "7e9hM8Jz8OKFPYviQ4xwUB",
+            "album_name": "Cristal 2",
+            "album_release_date": "2016-05-05",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "7ChygUWxLcKr1ZVd7fBdVw",
+                    "artist_name": "Fam\u00edlia Mad\u00e1"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 165.894,
+            "track_id": "6trqur3zD8gJfxqpJ69uQI",
+            "track_name": "Cristal 2",
+            "track_number": 1
+        },
+        {
+            "added_at": "2017-02-01T16:56:12Z",
+            "album_id": "0hPixFMI6iDjmqS0XkjTWq",
+            "album_name": "Nada Pode Me Parar",
+            "album_release_date": "2013-01-01",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "1vEN3d3dJbmdHQpXD6AIkL",
+                    "artist_name": "Marcelo D2"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 101.32,
+            "track_id": "6484IifCHQoulao2LznaZn",
+            "track_name": "4:20",
+            "track_number": 13
+        },
+        {
+            "added_at": "2017-12-03T19:49:33Z",
+            "album_id": "6dkYPGRCnQUdCbCtS1em4C",
+            "album_name": "Dubai",
+            "album_release_date": "2016-04-15",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "0vLuOi2k62sHujIfplInlK",
+                    "artist_name": "Hungria Hip Hop"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 280.218,
+            "track_id": "16Ij1j3ZawPQ2vxsnusKLY",
+            "track_name": "Dubai",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-06-10T09:16:59Z",
+            "album_id": "1GwDxmMkYl9ms7ksRifPrC",
+            "album_name": "Convoque Seu Buda",
+            "album_release_date": "2014",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.183,
+            "track_id": "4TbwJDJvt8HZtFXS4MFYl8",
+            "track_name": "Convoque Seu Buda",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-01-22T18:30:20Z",
+            "album_id": "1oaEpUzcT5FeAwoPJhC1pV",
+            "album_name": "3Fs (Ao Vivo / Deluxe Version)",
+            "album_release_date": "2016-05-27",
+            "album_total_tracks": 21,
+            "artists": [
+                {
+                    "artist_id": "2zGf6lwQ9PxXdoeo5XXP2K",
+                    "artist_name": "Projota"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 277.613,
+            "track_id": "24vKziOpfXphE3oNAzPTk7",
+            "track_name": "Muleque De Vila - Ao Vivo",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-06-10T09:16:14Z",
+            "album_id": "4cMjw5iPcfOvPTUlJZF9rp",
+            "album_name": "Ainda H\u00e1 Tempo",
+            "album_release_date": "2016-05-06",
+            "album_total_tracks": 8,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 318.08,
+            "track_id": "1amAr7t3eqmJTXMU0vVbkN",
+            "track_name": "Ainda H\u00e1 Tempo",
+            "track_number": 8
+        },
+        {
+            "added_at": "2017-12-03T19:49:37Z",
+            "album_id": "6JlV7Q5QzwlPs2Lk1fpVfv",
+            "album_name": "Lembran\u00e7as",
+            "album_release_date": "2016-09-02",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "0vLuOi2k62sHujIfplInlK",
+                    "artist_name": "Hungria Hip Hop"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 270.597,
+            "track_id": "2BZx6pvXQpY8pExUmdkkm1",
+            "track_name": "Lembran\u00e7as",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-02-18T11:53:19Z",
+            "album_id": "3nf63XW2gj7wYjNMy9e9Vi",
+            "album_name": "Rap, Cerva, Erva e Muita Larica",
+            "album_release_date": "2015-07-10",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "0iUdFhwiXjGQWAt9yXPP1T",
+                    "artist_name": "ConeCrewDiretoria"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 251.001,
+            "track_id": "5sIxCKnrs3V6FG0M5XxmgD",
+            "track_name": "Rap, Cerva, Erva e Muita Larica",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-06-06T13:08:02Z",
+            "album_id": "2PO0WJo5C1JIRIcRhlJvyr",
+            "album_name": "N\u00f3 na Orelha",
+            "album_release_date": "2011-12-14",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "37ZflmHTdxkSLQuT8w9NBs",
+                    "artist_name": "Criolo"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 238.654,
+            "track_id": "32cYAZHY26n3mIJRwkqhvh",
+            "track_name": "Sucrilhos",
+            "track_number": 8
+        },
+        {
+            "added_at": "2018-01-22T18:35:09Z",
+            "album_id": "2BibXwo5br5Y17qCFrTFBn",
+            "album_name": "Foco, For\u00e7a E F\u00e9",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "2zGf6lwQ9PxXdoeo5XXP2K",
+                    "artist_name": "Projota"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 263.106,
+            "track_id": "7nSYnBDOj7zgEPljG8V3Aw",
+            "track_name": "A Rezadeira",
+            "track_number": 11
+        },
+        {
+            "added_at": "2018-01-22T18:30:13Z",
+            "album_id": "5G18HUege9Prtoj8Z9YeMU",
+            "album_name": "Entre a Carne e a Alma",
+            "album_release_date": "2015-08-07",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "3OHpci0ruhvaMv9F795LR5",
+                    "artist_name": "3030"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 211.584,
+            "track_id": "7xDUymWSqR2iZ4zFxZCOeT",
+            "track_name": "Luz em Todo Morro",
+            "track_number": 8
+        },
+        {
+            "added_at": "2018-01-22T18:34:28Z",
+            "album_id": "71gRZE6rvUeNe8HysWajNb",
+            "album_name": "Ela S\u00f3 Quer Paz",
+            "album_release_date": "2016-01-27",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2zGf6lwQ9PxXdoeo5XXP2K",
+                    "artist_name": "Projota"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 174.382,
+            "track_id": "3mTUqLbtWm2DAEwvQTyu4d",
+            "track_name": "Ela S\u00f3 Quer Paz",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-01-22T18:36:19Z",
+            "album_id": "7msxRsGAaEkGmvjCSKtalu",
+            "album_name": "Fotografia de um Instante, Vol. 1 & 2",
+            "album_release_date": "2014-12-15",
+            "album_total_tracks": 35,
+            "artists": [
+                {
+                    "artist_id": "53iGNetIf91uZx4Jb54cgb",
+                    "artist_name": "Haikaiss"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 229.904,
+            "track_id": "4PhzFZQnhPnaqXYLAB29MT",
+            "track_name": "Sem Gra\u00e7a",
+            "track_number": 12
+        },
+        {
+            "added_at": "2018-01-22T18:37:13Z",
+            "album_id": "6zRATgnCJStl1kLIf5pXUr",
+            "album_name": "Singles",
+            "album_release_date": "2016-05-04",
+            "album_total_tracks": 4,
+            "artists": [
+                {
+                    "artist_id": "7ChygUWxLcKr1ZVd7fBdVw",
+                    "artist_name": "Fam\u00edlia Mad\u00e1"
+                },
+                {
+                    "artist_id": "2RKcy8YT2w2QYn0D7TjiIi",
+                    "artist_name": "Cacife Clandestino"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 205.506,
+            "track_id": "6a5e74IzjViEVMPP3QmxMk",
+            "track_name": "Sol (feat. Cacife Clandestino)",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-08-17T17:53:58Z",
+            "album_id": "3BShBccIina58rGe3OvlB0",
+            "album_name": "Sin City",
+            "album_release_date": "2014-07-21",
+            "album_total_tracks": 25,
+            "artists": [
+                {
+                    "artist_id": "667OSHKP0N0wmIVCc3qGIl",
+                    "artist_name": "Cartel Mcs"
+                },
+                {
+                    "artist_id": "52ERDscNOODxwtDXn260CP",
+                    "artist_name": "Cachorro Magro"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 256.771,
+            "track_id": "0xX6w73XuHNHVafmub27R4",
+            "track_name": "Onda M\u00e1xima",
+            "track_number": 23
+        },
+        {
+            "added_at": "2018-09-04T08:47:33Z",
+            "album_id": "0m7jcUjqC5DHzR1z13Epf4",
+            "album_name": "Mixtape Pir\u00e2mide Perdida, Vol. 7",
+            "album_release_date": "2016-07-06",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6ZnwtQznVleZpEkQINdyfG",
+                    "artist_name": "Akira Presidente"
+                },
+                {
+                    "artist_id": "6IhtLAHfcTGQuUJX4cdhCn",
+                    "artist_name": "Nectar Gang"
+                },
+                {
+                    "artist_id": "26aPjwxSSJsGy6yQ19YL55",
+                    "artist_name": "Sain"
+                },
+                {
+                    "artist_id": "5WFFFHVqeVk5tLuYh2KjQy",
+                    "artist_name": "Luccas Carlos"
+                }
+            ],
+            "n_artists": 4,
+            "track_duration_seg": 281.684,
+            "track_id": "5aUPqdoH90bbbqjaOf1LOS",
+            "track_name": "Canto das Baixas",
+            "track_number": 5
+        },
+        {
+            "added_at": "2018-09-04T08:50:14Z",
+            "album_id": "69vbtr2KuRwE14nK8LJfEZ",
+            "album_name": "Marginal",
+            "album_release_date": "2017-04-26",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "2RKcy8YT2w2QYn0D7TjiIi",
+                    "artist_name": "Cacife Clandestino"
+                },
+                {
+                    "artist_id": "5WFFFHVqeVk5tLuYh2KjQy",
+                    "artist_name": "Luccas Carlos"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 162.578,
+            "track_id": "2m289XYMv1obM0YSdOwmbJ",
+            "track_name": "Desempenho",
+            "track_number": 5
+        },
+        {
+            "added_at": "2018-09-11T15:34:28Z",
+            "album_id": "2sYBOWYCJlcYoFpbpXnr5Q",
+            "album_name": "Teto Baixo",
+            "album_release_date": "2017-03-24",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "53iGNetIf91uZx4Jb54cgb",
+                    "artist_name": "Haikaiss"
+                },
+                {
+                    "artist_id": "6PERJZF7wohA034PAxDK0b",
+                    "artist_name": "Neo Beats"
+                },
+                {
+                    "artist_id": "48Oxa6B9euthfl9VTQsArN",
+                    "artist_name": "Jonas Bento"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 263.078,
+            "track_id": "3YSagrvQP9x32rAjEI48PL",
+            "track_name": "Raplord",
+            "track_number": 11
+        },
+        {
+            "added_at": "2018-09-12T18:56:22Z",
+            "album_id": "0M7Qar3a31HBBUGBREC4rg",
+            "album_name": "Eletrocardiograma",
+            "album_release_date": "2017-09-07",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "5Znx4PG5UsUitigaJnmZX3",
+                    "artist_name": "Flora Matos"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 224.272,
+            "track_id": "00XfUDUYQJ2hgG0vKpdwa6",
+            "track_name": "Bora Dan\u00e7ar",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-10-10T08:36:01Z",
+            "album_id": "7f7tJ66hE6aghmPubHTqVk",
+            "album_name": "Rap \u00c9 Compromisso (Edi\u00e7\u00e3o Comemorativa)",
+            "album_release_date": "2014-11-20",
+            "album_total_tracks": 13,
+            "artists": [
+                {
+                    "artist_id": "5deK5HnwbEKvge2svL0i0B",
+                    "artist_name": "Sabotage"
+                },
+                {
+                    "artist_id": "1E4r5qziZja6v8jA7iTqjn",
+                    "artist_name": "Negra Li"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 263.986,
+            "track_id": "3zWt9okKsOFDjMl8tku0cA",
+            "track_name": "Rap \u00c9 Compromisso",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-11-15T19:48:27Z",
+            "album_id": "4waze5VNGmC0IQ3nMgl36R",
+            "album_name": ".155",
+            "album_release_date": "2015-11-28",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "7q1aEytv83jXNECmyaMhgn",
+                    "artist_name": "Costa Gold"
+                },
+                {
+                    "artist_id": "6PERJZF7wohA034PAxDK0b",
+                    "artist_name": "Neo Beats"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 197.655,
+            "track_id": "6e2uf3kukg8TzUzzk5zhvF",
+            "track_name": "D\u00e1s Ar\u00e1bia",
+            "track_number": 5
+        },
+        {
+            "added_at": "2019-03-23T23:10:05Z",
+            "album_id": "7scY0Fx2xbaj9zi7OU2fhA",
+            "album_name": "N\u00e3o Precisamos de Muito",
+            "album_release_date": "2019-03-15",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4qlswgPQGKcNxaqcdkjcsF",
+                    "artist_name": "Luisota"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 204.288,
+            "track_id": "5GTuTXXZxRkMlKWQxqUfyR",
+            "track_name": "N\u00e3o Precisamos de Muito",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-01-31T02:43:26Z",
+            "album_id": "61wvaVHo5eUxZv44ztftMX",
+            "album_name": "Poesia Ac\u00fastica #6: Era uma Vez",
+            "album_release_date": "2018-12-24",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "09U6hmCerKcIJrixubiBjm",
+                    "artist_name": "Pineapple StormTv"
+                },
+                {
+                    "artist_id": "1WQBwwssN6r8DSjUlkyUGW",
+                    "artist_name": "MC Cabelinho"
+                },
+                {
+                    "artist_id": "4DITWCDQL8b3VZTBYpNDR9",
+                    "artist_name": "Bob do Contra"
+                },
+                {
+                    "artist_id": "1uf8uSErmKc3JVtmjVBZ83",
+                    "artist_name": "Azzy"
+                },
+                {
+                    "artist_id": "7gJN8W0589FisSYJS17K54",
+                    "artist_name": "Filipe Ret"
+                },
+                {
+                    "artist_id": "5Ynf8bbQV9ICbK3vZoPxGF",
+                    "artist_name": "Dudu"
+                },
+                {
+                    "artist_id": "5YwzDz4RJfTiMHS4tdR5Lf",
+                    "artist_name": "Xam\u00e3"
+                },
+                {
+                    "artist_id": "3rfM2cGqF6DB0kUyytMkXx",
+                    "artist_name": "Orochi"
+                },
+                {
+                    "artist_id": "0ixIqccVXNU45qPhq3kWex",
+                    "artist_name": "Maquiny"
+                },
+                {
+                    "artist_id": "7zxFc10N9BP2lg73b8cwZ0",
+                    "artist_name": "Salve Malak"
+                }
+            ],
+            "n_artists": 10,
+            "track_duration_seg": 577.819,
+            "track_id": "13Rf6RaZT13TW4xLQR3MQr",
+            "track_name": "Poesia Ac\u00fastica #6: Era uma Vez",
+            "track_number": 1
+        },
+        {
+            "added_at": "2020-08-16T12:36:37Z",
+            "album_id": "5IP2CrhuUrIjKzZuf6lY7P",
+            "album_name": "Seja o Que Voc\u00ea Quiser - Single",
+            "album_release_date": "2016-11-12",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1zTvedZmyKWzZYC0NgzZBY",
+                    "artist_name": "D-Negro"
+                },
+                {
+                    "artist_id": "2uwIwpXUSnFLDvw6tfiX43",
+                    "artist_name": "Pacificadores"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 258.484,
+            "track_id": "2ElVxnnoLWJFLk1rgQW6vG",
+            "track_name": "Seja o Que Voc\u00ea Quiser",
+            "track_number": 1
+        }
+    ]
+}

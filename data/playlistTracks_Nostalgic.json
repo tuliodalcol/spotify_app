@@ -1,0 +1,806 @@
+{
+    "playlist_id": "5icncasQu6YvyidyGOC7GH",
+    "playlist_name": "Nostalgic",
+    "tracks": [
+        {
+            "added_at": "2019-07-29T21:09:49Z",
+            "album_id": "2BOlaNQt6WJ1HO5pQcKHGh",
+            "album_name": "Bringing Down The Horse",
+            "album_release_date": "1996-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "0jJNGWrpjGIHUdTTJiIYeB",
+                    "artist_name": "The Wallflowers"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 312.626,
+            "track_id": "0z1b34WikhOH9ZxU8QDWcv",
+            "track_name": "One Headlight",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-08-03T20:49:49Z",
+            "album_id": "5Y4TgE5qVSkBWb0NJl3WQ7",
+            "album_name": "Hotting Up",
+            "album_release_date": "2015-08-28",
+            "album_total_tracks": 9,
+            "artists": [
+                {
+                    "artist_id": "0q9lPhJHW5R9J7RXIJRbTk",
+                    "artist_name": "Iration"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 189.746,
+            "track_id": "2WpTJCv2LrNGhVTvmEBiSS",
+            "track_name": "Midnight",
+            "track_number": 4
+        },
+        {
+            "added_at": "2019-07-29T21:10:06Z",
+            "album_id": "5Eevxp2BCbWq25ZdiXRwYd",
+            "album_name": "One More Light",
+            "album_release_date": "2017-05-19",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "6XyY86QOPPrYVGvF9ch6wz",
+                    "artist_name": "Linkin Park"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 255.066,
+            "track_id": "3xXBsjrbG1xQIm1xv1cKOt",
+            "track_name": "One More Light",
+            "track_number": 9
+        },
+        {
+            "added_at": "2019-08-04T01:58:59Z",
+            "album_id": "7JI8FoL3XNiXp0lRdFGCta",
+            "album_name": "It's That Talk Again",
+            "album_release_date": "2015-09-25",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6dgwEwnK0YtDfS9XhRwBTG",
+                    "artist_name": "Broken Bells"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 241.333,
+            "track_id": "5C8Vwr9o1WtsoDVPFqPCob",
+            "track_name": "It's That Talk Again",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-07-29T21:19:25Z",
+            "album_id": "1AXGGSwPSbAwrrIMoXGKq8",
+            "album_name": "Akeda",
+            "album_release_date": "2014-06-03",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "5eyMzR1hYiEZtN2c9ly2kw",
+                    "artist_name": "Matisyahu"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 492.036,
+            "track_id": "7dofcLRvBgxW2B0yBjyHM4",
+            "track_name": "Sick for so Long",
+            "track_number": 14
+        },
+        {
+            "added_at": "2019-07-29T21:16:18Z",
+            "album_id": "56d3QQW5CCPP0DA3k9uBB3",
+            "album_name": "Double Up",
+            "album_release_date": "2016-12-02",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0q9lPhJHW5R9J7RXIJRbTk",
+                    "artist_name": "Iration"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 259.648,
+            "track_id": "15eq6mpVjnmgIV5HHyXpXY",
+            "track_name": "Reelin - Acoustic",
+            "track_number": 4
+        },
+        {
+            "added_at": "2019-07-29T21:16:37Z",
+            "album_id": "56d3QQW5CCPP0DA3k9uBB3",
+            "album_name": "Double Up",
+            "album_release_date": "2016-12-02",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0q9lPhJHW5R9J7RXIJRbTk",
+                    "artist_name": "Iration"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 198.36,
+            "track_id": "5By1bC3lipRGePPBWH1iNq",
+            "track_name": "Falling - Acoustic",
+            "track_number": 10
+        },
+        {
+            "added_at": "2019-07-29T21:10:33Z",
+            "album_id": "1CEBG1qVlHZr6v7eHAVF4W",
+            "album_name": "Sadnecessary",
+            "album_release_date": "2013-05-31",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "1hzfo8twXdOegF3xireCYs",
+                    "artist_name": "Milky Chance"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 313.684,
+            "track_id": "2jiPHbFX5XM8TjaTfYJ0eo",
+            "track_name": "Stolen Dance",
+            "track_number": 11
+        },
+        {
+            "added_at": "2019-07-29T21:10:47Z",
+            "album_id": "2pqGLzC2eD4oFSpUzisVMw",
+            "album_name": "Ac\u00fastico Ira!",
+            "album_release_date": "2004-11-15",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "7L5YQQJPL1wrmrdigJavV7",
+                    "artist_name": "Ira!"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 247.16,
+            "track_id": "6OwunUyuA5gtuJOdrE43vH",
+            "track_name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+            "track_number": 2
+        },
+        {
+            "added_at": "2019-07-29T21:11:41Z",
+            "album_id": "6TZp52tXShLQbq8yNMxqNT",
+            "album_name": "Welcome Interstate Managers",
+            "album_release_date": "2003-01-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "1pgtr4nhBQjp9oCUBPyYWh",
+                    "artist_name": "Fountains Of Wayne"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 156.933,
+            "track_id": "2LGAbm0xHNu7scBDVCkFwN",
+            "track_name": "Hey Julie",
+            "track_number": 9
+        },
+        {
+            "added_at": "2019-09-11T22:01:48Z",
+            "album_id": "26WTFLXc2Y8ps9P4QuLr27",
+            "album_name": "Ela T\u00e1 Que T\u00e1",
+            "album_release_date": "2018-01-29",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "1cYhx7ZOhYoVmnDPb9KMwo",
+                    "artist_name": "Mc Davi"
+                },
+                {
+                    "artist_id": "0QHGCPmM4UgeNvrNPntSlu",
+                    "artist_name": "Cynthia Luz"
+                },
+                {
+                    "artist_id": "233YXmma3OPL1trG1x3WpS",
+                    "artist_name": "Felipe Flip"
+                },
+                {
+                    "artist_id": "23ot0eI6ByBW6LrlBfr2bm",
+                    "artist_name": "Pedro Lotto"
+                },
+                {
+                    "artist_id": "1T0F05F7TEo6QYr4vtGJdb",
+                    "artist_name": "Paiva Prod"
+                }
+            ],
+            "n_artists": 5,
+            "track_duration_seg": 206.829,
+            "track_id": "3G79AJm9H5lKnngSgBT21L",
+            "track_name": "Ela T\u00e1 Que T\u00e1",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-11T22:05:06Z",
+            "album_id": "2GI9HmLvO1YkC15IIrVXCW",
+            "album_name": "Foda Que Ela \u00c9 Linda",
+            "album_release_date": "2014-07-10",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "3OHpci0ruhvaMv9F795LR5",
+                    "artist_name": "3030"
+                },
+                {
+                    "artist_id": "0ldh1JBzb2SEDjaqFP5Y8h",
+                    "artist_name": "Tifli"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 180.743,
+            "track_id": "0rHct5QPUUlNEQml8GfglW",
+            "track_name": "Foda Que Ela \u00c9 Linda",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-11T22:08:40Z",
+            "album_id": "4xZooRPlL4QKyM0twraCtp",
+            "album_name": "Quando a vontade bater (Participa\u00e7\u00e3o especial de PK Delas)",
+            "album_release_date": "2019-03-04",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "5xYkM2vMrE23taj6tl7qkm",
+                    "artist_name": "Pk"
+                },
+                {
+                    "artist_id": "6gqBZ0kAjgVLsZQKkHcaB3",
+                    "artist_name": "PK Delas"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 166.4,
+            "track_id": "26WpOBpHiIMoBuMEIwtOCH",
+            "track_name": "Quando a vontade bater (Participa\u00e7\u00e3o especial de PK Delas)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-11T22:39:38Z",
+            "album_id": "2wQCMH9zQ2KYDjhUmgIS4s",
+            "album_name": "Rio",
+            "album_release_date": "2019-02-22",
+            "album_total_tracks": 4,
+            "artists": [
+                {
+                    "artist_id": "0iZz25uH5PLaShpqq84uYv",
+                    "artist_name": "Papatinho"
+                },
+                {
+                    "artist_id": "5WFFFHVqeVk5tLuYh2KjQy",
+                    "artist_name": "Luccas Carlos"
+                },
+                {
+                    "artist_id": "3rfM2cGqF6DB0kUyytMkXx",
+                    "artist_name": "Orochi"
+                },
+                {
+                    "artist_id": "5xYkM2vMrE23taj6tl7qkm",
+                    "artist_name": "Pk"
+                },
+                {
+                    "artist_id": "5YwzDz4RJfTiMHS4tdR5Lf",
+                    "artist_name": "Xam\u00e3"
+                }
+            ],
+            "n_artists": 5,
+            "track_duration_seg": 223.384,
+            "track_id": "0Xl6Ib6YLJzKPyXMqvtcis",
+            "track_name": "Como ela vem (feat. Luccas Carlos, Xam\u00e3, PK e Orochi)",
+            "track_number": 2
+        },
+        {
+            "added_at": "2019-09-11T22:42:14Z",
+            "album_id": "5d7EmiyyrTmfBmrudw3wSC",
+            "album_name": "Pitbullzado Loratcho Bradock",
+            "album_release_date": "2019-03-22",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2UMj7NCbuqy1yUZmiSYGjJ",
+                    "artist_name": "MC Kevin o Chris"
+                },
+                {
+                    "artist_id": "6EQ2GT80A1oXZarAalUWNE",
+                    "artist_name": "DJ Zullu"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 160.104,
+            "track_id": "7JIR5Q5e4xZYJiawteEJmN",
+            "track_name": "Pitbullzado Loratcho Bradock",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-11T22:45:31Z",
+            "album_id": "0nHDIABn1zwc0lfS73KiYq",
+            "album_name": "Sento no Bico da Glock",
+            "album_release_date": "2018-10-04",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "6HJiLhKqnOh32p3LSNWsR3",
+                    "artist_name": "Dj Gabriel do Borel"
+                },
+                {
+                    "artist_id": "44bzWn6GQs6zVXvnYtqIMa",
+                    "artist_name": "Mc Lucy"
+                },
+                {
+                    "artist_id": "2USPQZOb9mb2Z1yI3eskEr",
+                    "artist_name": "Mc Rog\u00ea"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 192.025,
+            "track_id": "32eYiopIS9wkXx0CqWoxeR",
+            "track_name": "Sento no Bico da Glock",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-11T22:46:32Z",
+            "album_id": "2kcYEeVFU9YVN17OT7cEUy",
+            "album_name": "Calma",
+            "album_release_date": "2018-07-20",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "4QVBYiagIaa6ZGSPMbybpy",
+                    "artist_name": "Pedro Cap\u00f3"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 180.065,
+            "track_id": "6aLJnupvPpT9HLv3xaUhe1",
+            "track_name": "Calma",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-11T22:54:28Z",
+            "album_id": "3KziODx7ieQTgYCVrS6nBv",
+            "album_name": "Hollywood's Bleeding",
+            "album_release_date": "2019-09-06",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                },
+                {
+                    "artist_id": "1RyvyyTE3xzB2ZywiAwp0i",
+                    "artist_name": "Future"
+                },
+                {
+                    "artist_id": "26VFTg2z8YR0cCuwLzESi2",
+                    "artist_name": "Halsey"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 245.266,
+            "track_id": "59PYPDxTbqJpiGfyogPb5h",
+            "track_name": "Die For Me (feat. Future & Halsey)",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-09-11T22:54:44Z",
+            "album_id": "3KziODx7ieQTgYCVrS6nBv",
+            "album_name": "Hollywood's Bleeding",
+            "album_release_date": "2019-09-06",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                },
+                {
+                    "artist_id": "20sxb77xiYeusSH8cVdatc",
+                    "artist_name": "Meek Mill"
+                },
+                {
+                    "artist_id": "5f7VJjfbwm532GiveGC0ZK",
+                    "artist_name": "Lil Baby"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 218.32,
+            "track_id": "0hGH0S74Eoyv6mXZcOKtdQ",
+            "track_name": "On The Road (feat. Meek Mill & Lil Baby)",
+            "track_number": 8
+        },
+        {
+            "added_at": "2019-09-11T22:58:58Z",
+            "album_id": "7J0uECwRkAFLiZljgYFq1w",
+            "album_name": "Stoney",
+            "album_release_date": "2016-12-09",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 256.533,
+            "track_id": "1Bi5t0q9j3nYXIZuZgSGvr",
+            "track_name": "White Iverson",
+            "track_number": 6
+        },
+        {
+            "added_at": "2019-09-11T23:04:45Z",
+            "album_id": "5s0rmjP8XOPhP6HhqOhuyC",
+            "album_name": "Stoney (Deluxe)",
+            "album_release_date": "2016-12-09",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                },
+                {
+                    "artist_id": "0VRj0yCOv2FXJNP47XQnx5",
+                    "artist_name": "Quavo"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 220.293,
+            "track_id": "3a1lNhkSLSkpJE4MSHpDu9",
+            "track_name": "Congratulations",
+            "track_number": 12
+        },
+        {
+            "added_at": "2019-09-13T22:35:15Z",
+            "album_id": "6FmjkSwiZx4IQJ4IJV8bFP",
+            "album_name": "One Last Time (feat. Jesper Jenset)",
+            "album_release_date": "2018-07-06",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "2oRTLExi1ct74cVtfAwfhV",
+                    "artist_name": "Gromee"
+                },
+                {
+                    "artist_id": "4Q6zYbQ2MrKiEWTGB3yrPv",
+                    "artist_name": "Jesper Jenset"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 207.412,
+            "track_id": "2fsUx17P1kqo8s5LZKO8oh",
+            "track_name": "One Last Time (feat. Jesper Jenset)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-14T19:35:05Z",
+            "album_id": "3GF7Wo03gvx5m7fdB5Szso",
+            "album_name": "The End",
+            "album_release_date": "2015-04-13",
+            "album_total_tracks": 5,
+            "artists": [
+                {
+                    "artist_id": "2I4hRNCYkPKJQlkoEZKjYx",
+                    "artist_name": "Monolink"
+                },
+                {
+                    "artist_id": "3LHqODf1hGAgZ5LTw1Gf4C",
+                    "artist_name": "Acid Pauli"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 493.599,
+            "track_id": "0lwUE9DGjdbbuwbPbxZyzw",
+            "track_name": "The End",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-17T17:06:54Z",
+            "album_id": "07nBld9enf1PyRysZAVSqJ",
+            "album_name": "Nightcall",
+            "album_release_date": "2010",
+            "album_total_tracks": 7,
+            "artists": [
+                {
+                    "artist_id": "0UF7XLthtbSF2Eur7559oV",
+                    "artist_name": "Kavinsky"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 258.413,
+            "track_id": "0U0ldCRmgCqhVvD6ksG63j",
+            "track_name": "Nightcall",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-09-21T19:04:17Z",
+            "album_id": "3fyFk4hNkdXZK7eIuAvkyz",
+            "album_name": "Rocanroles Sin Destino",
+            "album_release_date": "2004-09-24",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "2osoVujXgV0PA8lhqDKYFw",
+                    "artist_name": "Callejeros"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 240.373,
+            "track_id": "46yA2K9FA0PaCbeWkezvFC",
+            "track_name": "Rocanroles Sin Destino",
+            "track_number": 11
+        },
+        {
+            "added_at": "2019-09-21T19:09:40Z",
+            "album_id": "573TG9cHInMww2QgBeKqTy",
+            "album_name": "Se\u00f1ales",
+            "album_release_date": "2006-03-21",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "2osoVujXgV0PA8lhqDKYFw",
+                    "artist_name": "Callejeros"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 301.133,
+            "track_id": "2Hi9GB2wbT4Jy0Gbq1VkqB",
+            "track_name": "Sue\u00f1o",
+            "track_number": 8
+        },
+        {
+            "added_at": "2019-09-28T11:49:05Z",
+            "album_id": "0QFMqnSP2kBMTrbfNkj3SB",
+            "album_name": "Settle (The Remixes)",
+            "album_release_date": "2013-06-11",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "6nS5roXSAGhTGr34W6n7Et",
+                    "artist_name": "Disclosure"
+                },
+                {
+                    "artist_id": "14L5rpGTLVUz1pD8fUeJB1",
+                    "artist_name": "Eliza Doolittle"
+                },
+                {
+                    "artist_id": "6nxWCVXbOlEVRexSbLsTer",
+                    "artist_name": "Flume"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 282.812,
+            "track_id": "1snNAXmmPXCn0dkF9DaPWw",
+            "track_name": "You & Me - Flume Remix",
+            "track_number": 8
+        },
+        {
+            "added_at": "2019-10-09T08:57:32Z",
+            "album_id": "4g1ZRSobMefqF6nelkgibi",
+            "album_name": "Hollywood's Bleeding",
+            "album_release_date": "2019-09-06",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 156.266,
+            "track_id": "7sWRlDoTDX8geTR8zzr2vt",
+            "track_name": "Hollywood's Bleeding",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-11-12T08:53:17Z",
+            "album_id": "6trNtQUgC8cgbWcqoMYkOR",
+            "album_name": "beerbongs & bentleys",
+            "album_release_date": "2018-04-27",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 228.226,
+            "track_id": "4qWCFTuNnmGNdY4egtb4ZY",
+            "track_name": "Otherside",
+            "track_number": 11
+        },
+        {
+            "added_at": "2019-11-12T08:53:23Z",
+            "album_id": "6trNtQUgC8cgbWcqoMYkOR",
+            "album_name": "beerbongs & bentleys",
+            "album_release_date": "2018-04-27",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                },
+                {
+                    "artist_id": "1URnnhqYAYcrqrcwql10ft",
+                    "artist_name": "21 Savage"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 218.146,
+            "track_id": "0e7ipj03S05BNilyu5bRzt",
+            "track_name": "rockstar (feat. 21 Savage)",
+            "track_number": 6
+        },
+        {
+            "added_at": "2019-11-12T08:53:54Z",
+            "album_id": "4g1ZRSobMefqF6nelkgibi",
+            "album_name": "Hollywood's Bleeding",
+            "album_release_date": "2019-09-06",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 215.28,
+            "track_id": "21jGcNKet2qwijlDFuPiPb",
+            "track_name": "Circles",
+            "track_number": 6
+        },
+        {
+            "added_at": "2019-11-12T08:54:48Z",
+            "album_id": "4g1ZRSobMefqF6nelkgibi",
+            "album_name": "Hollywood's Bleeding",
+            "album_release_date": "2019-09-06",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                },
+                {
+                    "artist_id": "50co4Is1HCEo8bhOyUWKpn",
+                    "artist_name": "Young Thug"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 174.853,
+            "track_id": "0t3ZvGKlmYmVsDzBJAXK8C",
+            "track_name": "Goodbyes (feat. Young Thug)",
+            "track_number": 14
+        },
+        {
+            "added_at": "2019-12-06T18:11:22Z",
+            "album_id": "6trNtQUgC8cgbWcqoMYkOR",
+            "album_name": "beerbongs & bentleys",
+            "album_release_date": "2018-04-27",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 231.266,
+            "track_id": "7dt6x5M1jzdTEt8oCbisTK",
+            "track_name": "Better Now",
+            "track_number": 9
+        },
+        {
+            "added_at": "2019-12-13T09:02:02Z",
+            "album_id": "5STh8ZE7MwksBxQo6APYbo",
+            "album_name": "18K",
+            "album_release_date": "2018-03-09",
+            "album_total_tracks": 9,
+            "artists": [
+                {
+                    "artist_id": "2QjS2N6sORI7H4qbf6xitS",
+                    "artist_name": "WC no Beat"
+                },
+                {
+                    "artist_id": "1WQBwwssN6r8DSjUlkyUGW",
+                    "artist_name": "MC Cabelinho"
+                },
+                {
+                    "artist_id": "5xYkM2vMrE23taj6tl7qkm",
+                    "artist_name": "Pk"
+                },
+                {
+                    "artist_id": "0pcoadNMmvrUyab1RxWBoV",
+                    "artist_name": "MC Hariel"
+                },
+                {
+                    "artist_id": "3rfM2cGqF6DB0kUyytMkXx",
+                    "artist_name": "Orochi"
+                }
+            ],
+            "n_artists": 5,
+            "track_duration_seg": 284.117,
+            "track_id": "1hw5UuO6s1DRAJmCn4Nc1H",
+            "track_name": "Meu Mundo",
+            "track_number": 3
+        },
+        {
+            "added_at": "2019-12-14T20:24:23Z",
+            "album_id": "5w27XydFTwAPV5GjsWya37",
+            "album_name": "Hair Down (feat. Kendrick Lamar)",
+            "album_release_date": "2019-08-08",
+            "album_total_tracks": 1,
+            "artists": [
+                {
+                    "artist_id": "3QTDHixorJelOLxoxcjqGx",
+                    "artist_name": "SiR"
+                },
+                {
+                    "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "artist_name": "Kendrick Lamar"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 217.005,
+            "track_id": "6sq5mqtS3jwJjvBHALknJH",
+            "track_name": "Hair Down (feat. Kendrick Lamar)",
+            "track_number": 1
+        },
+        {
+            "added_at": "2019-12-14T20:50:36Z",
+            "album_id": "4g1ZRSobMefqF6nelkgibi",
+            "album_name": "Hollywood's Bleeding",
+            "album_release_date": "2019-09-06",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "246dkjvS1zLTtiykXe5h60",
+                    "artist_name": "Post Malone"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 141.413,
+            "track_id": "6b2mfHMqWCA74XmUuVJm8r",
+            "track_name": "I Know",
+            "track_number": 16
+        },
+        {
+            "added_at": "2019-12-14T20:50:58Z",
+            "album_id": "007DWn799UWvfY1wwZeENR",
+            "album_name": "i am > i was",
+            "album_release_date": "2018-12-21",
+            "album_total_tracks": 15,
+            "artists": [
+                {
+                    "artist_id": "1URnnhqYAYcrqrcwql10ft",
+                    "artist_name": "21 Savage"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 211.785,
+            "track_id": "4paAidoE8VAemwU4jgCc6l",
+            "track_name": "all my friends",
+            "track_number": 7
+        },
+        {
+            "added_at": "2019-12-14T20:52:13Z",
+            "album_id": "37m9KwQ4yNWbsThepwDvAK",
+            "album_name": "Heart Full of Rage",
+            "album_release_date": "2019-02-22",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "1MXZ0hsGic96dWRDKwAwdr",
+                    "artist_name": "Tyla Yaweh"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 163.167,
+            "track_id": "18LhA0zBzAa2YnhcN3hWGa",
+            "track_name": "High Right Now",
+            "track_number": 1
+        }
+    ]
+}

@@ -1,0 +1,918 @@
+{
+    "playlist_id": "5qhnBfw3T1NdmhFhgVhMr4",
+    "playlist_name": "SURF \ud83c\udf0a\ud83c\udf0a",
+    "tracks": [
+        {
+            "added_at": "2018-08-21T08:11:58Z",
+            "album_id": "79XM6cgSAdUdDxngwlNe92",
+            "album_name": "Spy File: The Best Of",
+            "album_release_date": "1991-07-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 232.826,
+            "track_id": "3XnOcbWB5LeOyUSymZDFiE",
+            "track_name": "The Golden Mile",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-08-21T07:55:55Z",
+            "album_id": "2H371tT3IIvmqji0iZCp0O",
+            "album_name": "20000 Watt RSL - The Midnight Oil Collection",
+            "album_release_date": "1997",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "72KyoXzp0NOQij6OcmZUxk",
+                    "artist_name": "Midnight Oil"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 258.173,
+            "track_id": "6Nabz5Gsy80XL0MJoOmgF8",
+            "track_name": "Beds Are Burning - Remastered",
+            "track_number": 9
+        },
+        {
+            "added_at": "2018-08-21T08:07:15Z",
+            "album_id": "4Gl1RuBBSWtuOz8mpcOcq7",
+            "album_name": "The Greatest Hits (Remastered)",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "41fDGRDlzczk5Yo2wDo0H4",
+                    "artist_name": "Australian Crawl"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 209.9,
+            "track_id": "34wXRO45pHdVQdT8qxmJSq",
+            "track_name": "Errol - Remastered",
+            "track_number": 7
+        },
+        {
+            "added_at": "2018-08-21T08:11:30Z",
+            "album_id": "4E3V7nO3E6pmbfjQrs9umq",
+            "album_name": "A.O. Mod. TV. Vers.",
+            "album_release_date": "1986-12-08",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 268.293,
+            "track_id": "5EC1lRrLRicJq1wh6Ae8wz",
+            "track_name": "Use Your Head",
+            "track_number": 8
+        },
+        {
+            "added_at": "2018-08-21T08:16:29Z",
+            "album_id": "0PO4cvpGuKcP1BwQyPhHpf",
+            "album_name": "The Greatest Hits (Remastered)",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "41fDGRDlzczk5Yo2wDo0H4",
+                    "artist_name": "Australian Crawl"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 229.114,
+            "track_id": "1mqBYVr0n1eojIfSdEnFPg",
+            "track_name": "Easy On Your Own - Remastered",
+            "track_number": 11
+        },
+        {
+            "added_at": "2018-08-21T07:45:33Z",
+            "album_id": "6reTSIf5MoBco62rk8T7Q1",
+            "album_name": "Hot Space (2011 Remaster)",
+            "album_release_date": "1982-05-03",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "1dfeR4HaWDbWqFHLkxsg1d",
+                    "artist_name": "Queen"
+                },
+                {
+                    "artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "artist_name": "David Bowie"
+                }
+            ],
+            "n_artists": 2,
+            "track_duration_seg": 248.44,
+            "track_id": "2fuCquhmrzHpu5xcA1ci9x",
+            "track_name": "Under Pressure - Remastered 2011",
+            "track_number": 11
+        },
+        {
+            "added_at": "2018-08-21T07:56:31Z",
+            "album_id": "4C3raKL0dzfTitM3YtqN1S",
+            "album_name": "Blue Sky Mining (Remastered)",
+            "album_release_date": "1990-06-10",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "72KyoXzp0NOQij6OcmZUxk",
+                    "artist_name": "Midnight Oil"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 256.573,
+            "track_id": "6PrbbxJFuwDUUcgEjZW0jr",
+            "track_name": "Forgotten Years - 2011 Remaster",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-08-21T08:45:45Z",
+            "album_id": "4HDJMKkwAMVFewqfZcmf84",
+            "album_name": "Business As Usual",
+            "album_release_date": "1981-11-09",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "0f3EsoviYnRKTkmayI3cux",
+                    "artist_name": "Men At Work"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 222.32,
+            "track_id": "3ZZq9396zv8pcn5GYVhxUi",
+            "track_name": "Down Under",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-08-21T08:11:45Z",
+            "album_id": "0NUHPgUBEvqRUayYPyJgpH",
+            "album_name": "Harrys Reasons?",
+            "album_release_date": "1986-03-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 189.36,
+            "track_id": "1l38KlqrWLH3UDlGPBF3Ik",
+            "track_name": "Injustice",
+            "track_number": 10
+        },
+        {
+            "added_at": "2018-08-21T07:49:00Z",
+            "album_id": "65IUZfizoxnc0WHnhEZjf3",
+            "album_name": "The Sound of the Smiths (2008 Remaster)",
+            "album_release_date": "2008-11-11",
+            "album_total_tracks": 23,
+            "artists": [
+                {
+                    "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+                    "artist_name": "The Smiths"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 194.546,
+            "track_id": "78vbud2T0ssObobQiBNqZT",
+            "track_name": "Bigmouth Strikes Again - 2008 Remaster",
+            "track_number": 14
+        },
+        {
+            "added_at": "2018-08-21T07:53:08Z",
+            "album_id": "0p2ETkPfqNn7pUyDJHBjlO",
+            "album_name": "Heart Of Glass",
+            "album_release_date": "1979-01-03",
+            "album_total_tracks": 4,
+            "artists": [
+                {
+                    "artist_id": "4tpUmLEVLCGFr93o8hFFIB",
+                    "artist_name": "Blondie"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 350.866,
+            "track_id": "449G2rWpLD93IEhoaVE3QA",
+            "track_name": "Heart Of Glass - 12\" Version",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-08-21T07:53:57Z",
+            "album_id": "2EDOuY8xLKFLuQ4D2OEFz7",
+            "album_name": "Tears Roll Down (Greatest Hits 82-92)",
+            "album_release_date": "1992-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "4bthk9UfsYUYdcFyqxmSUU",
+                    "artist_name": "Tears For Fears"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 392.04,
+            "track_id": "1oeUieVK2eXZBRUwsYjXe1",
+            "track_name": "Shout",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-08-21T07:54:23Z",
+            "album_id": "6EW7DSC8rjwBJIeAc1d7uQ",
+            "album_name": "Outlandos D'Amour",
+            "album_release_date": "1978-11-02",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
+                    "artist_name": "The Police"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 289.586,
+            "track_id": "0rN5OBAJpd9bw7uvvJsRek",
+            "track_name": "So Lonely - Remastered 2003",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-08-21T07:56:25Z",
+            "album_id": "243XzHQegX82bPnUVQ0SPV",
+            "album_name": "Diesel And Dust",
+            "album_release_date": "1987-10-02",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "72KyoXzp0NOQij6OcmZUxk",
+                    "artist_name": "Midnight Oil"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 311.026,
+            "track_id": "7nfGP5B3Pc508kEb6zL6r9",
+            "track_name": "The Dead Heart - 2007 Remastered",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-21T07:52:53Z",
+            "album_id": "0H0gECNGQQ9RE3HZL2Z9AH",
+            "album_name": "Boxed",
+            "album_release_date": "2005-11-11",
+            "album_total_tracks": 125,
+            "artists": [
+                {
+                    "artist_id": "0NKDgy9j66h3DLnN8qu1bB",
+                    "artist_name": "Eurythmics"
+                },
+                {
+                    "artist_id": "5MspMQqdVbdwP6ax3GXqum",
+                    "artist_name": "Annie Lennox"
+                },
+                {
+                    "artist_id": "7gcCQIlkkfbul5Mt0jBQkg",
+                    "artist_name": "Dave Stewart"
+                }
+            ],
+            "n_artists": 3,
+            "track_duration_seg": 294.586,
+            "track_id": "5vYhr2kgOonJtWeJq5qZzU",
+            "track_name": "Here Comes the Rain Again - Remastered Version",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T07:57:47Z",
+            "album_id": "0jYmAPQezr1aG75KerJCdG",
+            "album_name": "Three Imaginary Boys",
+            "album_release_date": "1979-05-11",
+            "album_total_tracks": 33,
+            "artists": [
+                {
+                    "artist_id": "7bu3H8JO7d0UbMoVzbo70s",
+                    "artist_name": "The Cure"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 155.973,
+            "track_id": "1QFh8OH1e78dGd3VyJZCAC",
+            "track_name": "Boys Don't Cry",
+            "track_number": 16
+        },
+        {
+            "added_at": "2018-08-21T07:58:42Z",
+            "album_id": "4Mw9Gcu1LT7JaipXdwrq1Q",
+            "album_name": "Murmur",
+            "album_release_date": "1983-01-01",
+            "album_total_tracks": 12,
+            "artists": [
+                {
+                    "artist_id": "4KWTAlx2RvbpseOGMEmROg",
+                    "artist_name": "R.E.M."
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 245.2,
+            "track_id": "46dGFTD918NMz1IP1rPJXO",
+            "track_name": "Radio Free Europe",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T07:54:57Z",
+            "album_id": "5fMAuIxI96lqdSPqUGwlXd",
+            "album_name": "Reggatta De Blanc",
+            "album_release_date": "1979-10-02",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "5NGO30tJxFlKixkPSgXcFE",
+                    "artist_name": "The Police"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 290.28,
+            "track_id": "5xD021bM8VbqrhCVhxRozx",
+            "track_name": "Message In A Bottle - Remastered 2003",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T07:59:11Z",
+            "album_id": "0PSWY4XyjTWppfBb0tBtqu",
+            "album_name": "Brotherhood (Collector's Edition)",
+            "album_release_date": "1986-09-29",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "0yNLKJebCb8Aueb54LYya3",
+                    "artist_name": "New Order"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 263.213,
+            "track_id": "6wVViUl2xSRoDK2T7dMZbR",
+            "track_name": "Bizarre Love Triangle",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-21T08:30:39Z",
+            "album_id": "3znLFUETgB3dVfFdBwKHqh",
+            "album_name": "Sigh No More",
+            "album_release_date": "2010-01-01",
+            "album_total_tracks": 25,
+            "artists": [
+                {
+                    "artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+                    "artist_name": "Mumford & Sons"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 247.0,
+            "track_id": "1SW1BedvKrjZBDRRirzBCK",
+            "track_name": "Little Lion Man",
+            "track_number": 7
+        },
+        {
+            "added_at": "2018-08-21T07:46:53Z",
+            "album_id": "6GYIy1SuhPDrugCZ5yNeQy",
+            "album_name": "The Best Of Men At Work: Contraband",
+            "album_release_date": "1996-02-01",
+            "album_total_tracks": 16,
+            "artists": [
+                {
+                    "artist_id": "0f3EsoviYnRKTkmayI3cux",
+                    "artist_name": "Men At Work"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 200.493,
+            "track_id": "5cOM0fTHceCkJVwuyHdMnk",
+            "track_name": "Who Can It Be Now?",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T08:00:02Z",
+            "album_id": "6gMv3MgFlieOM6Uz5GZBzy",
+            "album_name": "Document (R.E.M. No. 5)",
+            "album_release_date": "1987-09-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "4KWTAlx2RvbpseOGMEmROg",
+                    "artist_name": "R.E.M."
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 246.933,
+            "track_id": "2oSpQ7QtIKTNFfA08Cy0ku",
+            "track_name": "It's The End Of The World As We Know It (And I Feel Fine)",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-21T08:00:29Z",
+            "album_id": "6NII6OnGzd07nDw5o7Secq",
+            "album_name": "Greatest Hits",
+            "album_release_date": "2001-11-13",
+            "album_total_tracks": 18,
+            "artists": [
+                {
+                    "artist_id": "7bu3H8JO7d0UbMoVzbo70s",
+                    "artist_name": "The Cure"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 178.066,
+            "track_id": "0q657mODPO13AQ40XrQ5Bl",
+            "track_name": "In Between Days",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-21T08:07:00Z",
+            "album_id": "4Gl1RuBBSWtuOz8mpcOcq7",
+            "album_name": "The Greatest Hits (Remastered)",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "41fDGRDlzczk5Yo2wDo0H4",
+                    "artist_name": "Australian Crawl"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 279.819,
+            "track_id": "3LN1ZDrnXcr0BMeJaAotgP",
+            "track_name": "The Boys Light Up - Remastered",
+            "track_number": 2
+        },
+        {
+            "added_at": "2018-08-21T08:07:05Z",
+            "album_id": "4Gl1RuBBSWtuOz8mpcOcq7",
+            "album_name": "The Greatest Hits (Remastered)",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "41fDGRDlzczk5Yo2wDo0H4",
+                    "artist_name": "Australian Crawl"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 306.606,
+            "track_id": "1fAFuX3lFZxLNCwKpS2BjS",
+            "track_name": "Oh No Not You Again - Remastered",
+            "track_number": 8
+        },
+        {
+            "added_at": "2018-08-21T08:03:21Z",
+            "album_id": "1L4HE00En7eNK74voVZums",
+            "album_name": "Beauty And The Beat",
+            "album_release_date": "1981-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "2mG8HHQ9S9kcbjcrb5N1FE",
+                    "artist_name": "The Go-Go's"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 153.133,
+            "track_id": "5kz9GDBTX846OXwqWoyKzF",
+            "track_name": "We Got The Beat",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-21T08:11:10Z",
+            "album_id": "0NUHPgUBEvqRUayYPyJgpH",
+            "album_name": "Harrys Reasons?",
+            "album_release_date": "1986-03-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 283.026,
+            "track_id": "6XDMLGPirnAhAZuQqm6ZBQ",
+            "track_name": "All over the World",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T08:04:51Z",
+            "album_id": "2mbU3fhxBior3QV3jbL1DO",
+            "album_name": "Hits Of The 80s (50 Songs)",
+            "album_release_date": "2009",
+            "album_total_tracks": 50,
+            "artists": [
+                {
+                    "artist_id": "3bmFPbLMiLxtR9tFrTcKcP",
+                    "artist_name": "Matthew Wilder"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 180.24,
+            "track_id": "0VIFNgegNZm34l1ti0RA2C",
+            "track_name": "Break My Stride",
+            "track_number": 39
+        },
+        {
+            "added_at": "2018-08-21T08:16:19Z",
+            "album_id": "30aG9Rjezn1vxaYXrB8j3d",
+            "album_name": "The Essential Men At Work",
+            "album_release_date": "1981",
+            "album_total_tracks": 14,
+            "artists": [
+                {
+                    "artist_id": "0f3EsoviYnRKTkmayI3cux",
+                    "artist_name": "Men At Work"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 284.573,
+            "track_id": "06CUB4iLHgyenwlMwiLSF1",
+            "track_name": "It's a Mistake",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-08-21T07:59:18Z",
+            "album_id": "6NTrwu1XJ56jBPx7HMksbZ",
+            "album_name": "Power Corruption and Lies",
+            "album_release_date": "1983-05-02",
+            "album_total_tracks": 8,
+            "artists": [
+                {
+                    "artist_id": "0yNLKJebCb8Aueb54LYya3",
+                    "artist_name": "New Order"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 315.333,
+            "track_id": "2EEinN4Zk8MUv4OQuLsTBj",
+            "track_name": "Age of Consent - 2015 Remaster",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T08:07:21Z",
+            "album_id": "4Gl1RuBBSWtuOz8mpcOcq7",
+            "album_name": "The Greatest Hits (Remastered)",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "41fDGRDlzczk5Yo2wDo0H4",
+                    "artist_name": "Australian Crawl"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 187.097,
+            "track_id": "0gRitKVDAAFthRmgeiFHY3",
+            "track_name": "Downhearted - Remastered",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-08-21T08:12:26Z",
+            "album_id": "79XM6cgSAdUdDxngwlNe92",
+            "album_name": "Spy File: The Best Of",
+            "album_release_date": "1991-07-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 275.866,
+            "track_id": "3zaNIIl2Brw0qEqbf01MV4",
+            "track_name": "Credit Cards",
+            "track_number": 9
+        },
+        {
+            "added_at": "2018-08-21T08:07:27Z",
+            "album_id": "4Gl1RuBBSWtuOz8mpcOcq7",
+            "album_name": "The Greatest Hits (Remastered)",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "41fDGRDlzczk5Yo2wDo0H4",
+                    "artist_name": "Australian Crawl"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 237.197,
+            "track_id": "5JXMSMiDo2uPKAPzLU6KFw",
+            "track_name": "Things Don't Seem - Remastered",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-21T08:13:16Z",
+            "album_id": "79XM6cgSAdUdDxngwlNe92",
+            "album_name": "Spy File: The Best Of",
+            "album_release_date": "1991-07-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 169.56,
+            "track_id": "1FoQdCeNH76p01q8eYFkqu",
+            "track_name": "Oceania",
+            "track_number": 16
+        },
+        {
+            "added_at": "2018-08-21T08:30:00Z",
+            "album_id": "4nKfZbCALT9H9LfedtDwnZ",
+            "album_name": "August And Everything After",
+            "album_release_date": "1993-01-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "0vEsuISMWAKNctLlUAhSZC",
+                    "artist_name": "Counting Crows"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 272.293,
+            "track_id": "5DiXcVovI0FcY2s0icWWUu",
+            "track_name": "Mr. Jones",
+            "track_number": 3
+        },
+        {
+            "added_at": "2018-08-21T08:07:32Z",
+            "album_id": "4Gl1RuBBSWtuOz8mpcOcq7",
+            "album_name": "The Greatest Hits (Remastered)",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "41fDGRDlzczk5Yo2wDo0H4",
+                    "artist_name": "Australian Crawl"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 174.099,
+            "track_id": "6NlQGLzaljaeiJJngw5Rcw",
+            "track_name": "Beautiful People - Remastered",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T08:10:59Z",
+            "album_id": "4E3V7nO3E6pmbfjQrs9umq",
+            "album_name": "A.O. Mod. TV. Vers.",
+            "album_release_date": "1986-12-08",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 242.76,
+            "track_id": "5PCYi38idZ0NEQazXbgaO0",
+            "track_name": "Don't Tear It Down",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T08:07:43Z",
+            "album_id": "4Gl1RuBBSWtuOz8mpcOcq7",
+            "album_name": "The Greatest Hits (Remastered)",
+            "album_release_date": "2014-01-01",
+            "album_total_tracks": 19,
+            "artists": [
+                {
+                    "artist_id": "41fDGRDlzczk5Yo2wDo0H4",
+                    "artist_name": "Australian Crawl"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 150.501,
+            "track_id": "1j63Gg7w4pqBLIbfLHxMpC",
+            "track_name": "Hoochie Gucci Fiorucci Mama - Remastered",
+            "track_number": 4
+        },
+        {
+            "added_at": "2018-08-21T08:10:53Z",
+            "album_id": "7zWgh0LRQpGG5W2Qe1INXj",
+            "album_name": "Xenophobia (Why?)",
+            "album_release_date": "1988-03-21",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 228.426,
+            "track_id": "2w9CCTYEIYf3kTriDYWBzH",
+            "track_name": "Clarity of Mind",
+            "track_number": 7
+        },
+        {
+            "added_at": "2018-08-21T08:16:39Z",
+            "album_id": "4WMAkJDilQHHsBEwZ3TIis",
+            "album_name": "GANGgajang",
+            "album_release_date": "2007-11-18",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "3CDzOX9D1buMRHeTNFHXMm",
+                    "artist_name": "GANGgajang"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 163.173,
+            "track_id": "4sTGwAMB0KsiW96yAS41lt",
+            "track_name": "Gimme Some Lovin'",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T08:11:14Z",
+            "album_id": "0NUHPgUBEvqRUayYPyJgpH",
+            "album_name": "Harrys Reasons?",
+            "album_release_date": "1986-03-01",
+            "album_total_tracks": 10,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 269.066,
+            "track_id": "0tiYWgNtrAudtrpliWBDHO",
+            "track_name": "Harrys Reasons?",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-21T08:14:17Z",
+            "album_id": "3avNYPQrtAxtqlBRrw9wJo",
+            "album_name": "Sunnyboys (Expanded Edition)",
+            "album_release_date": "1988-12-19",
+            "album_total_tracks": 37,
+            "artists": [
+                {
+                    "artist_id": "6sAh1RUpXblYP320gZ91LC",
+                    "artist_name": "Sunnyboys"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 183.906,
+            "track_id": "1MGx52ItiackVVHqfW3rN9",
+            "track_name": "Happy Man - 2014 Remaster",
+            "track_number": 6
+        },
+        {
+            "added_at": "2018-08-21T08:11:20Z",
+            "album_id": "1gBLNKyKRxDU7Hp6FVhord",
+            "album_name": "Trash the Planet",
+            "album_release_date": "1989-11-01",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 171.293,
+            "track_id": "3VnG1nC9Dp3JiS8eJwkfmq",
+            "track_name": "Hardtimes",
+            "track_number": 1
+        },
+        {
+            "added_at": "2018-08-21T08:12:39Z",
+            "album_id": "79XM6cgSAdUdDxngwlNe92",
+            "album_name": "Spy File: The Best Of",
+            "album_release_date": "1991-07-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 201.666,
+            "track_id": "4oG65Q04YjIMsAbWuyJYFl",
+            "track_name": "Waiting",
+            "track_number": 11
+        },
+        {
+            "added_at": "2018-08-21T08:13:11Z",
+            "album_id": "79XM6cgSAdUdDxngwlNe92",
+            "album_name": "Spy File: The Best Of",
+            "album_release_date": "1991-07-01",
+            "album_total_tracks": 17,
+            "artists": [
+                {
+                    "artist_id": "44zM7BZouAB5kNxnQOnl1K",
+                    "artist_name": "V.SPY V.SPY"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 244.6,
+            "track_id": "4xA1G7omytioRhsPSwgAdZ",
+            "track_name": "Don't Tear It Down",
+            "track_number": 15
+        },
+        {
+            "added_at": "2019-07-28T19:49:52Z",
+            "album_id": "59gl3QDzCgH4GXzXLEwe55",
+            "album_name": "The Sound of the Smiths (Deluxe; 2008 Remaster)",
+            "album_release_date": "2008-11-11",
+            "album_total_tracks": 45,
+            "artists": [
+                {
+                    "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+                    "artist_name": "The Smiths"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 196.946,
+            "track_id": "6MGkPE8tToS3I73mQa73FN",
+            "track_name": "Ask - 2008 Remaster",
+            "track_number": 17
+        },
+        {
+            "added_at": "2019-07-28T20:05:35Z",
+            "album_id": "59gl3QDzCgH4GXzXLEwe55",
+            "album_name": "The Sound of the Smiths (Deluxe; 2008 Remaster)",
+            "album_release_date": "2008-11-11",
+            "album_total_tracks": 45,
+            "artists": [
+                {
+                    "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+                    "artist_name": "The Smiths"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 123.013,
+            "track_id": "0DyPx2npygVWkjcJzkLCNI",
+            "track_name": "Girlfriend in a Coma - 2008 Remaster",
+            "track_number": 21
+        },
+        {
+            "added_at": "2020-11-20T09:26:41Z",
+            "album_id": "3cHTRZ8zythVmOH5js9mgi",
+            "album_name": "100 Essential Soul & Funk Classics",
+            "album_release_date": "2010-10-15",
+            "album_total_tracks": 100,
+            "artists": [
+                {
+                    "artist_id": "7zliF6Q946WznVk3ZMYhZX",
+                    "artist_name": "The Sugarhill Gang"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 235.12,
+            "track_id": "4ah2I83egBRhCGRGbYNyTw",
+            "track_name": "Rappers Delight",
+            "track_number": 7
+        },
+        {
+            "added_at": "2020-11-27T08:48:00Z",
+            "album_id": "3QFUhbSxlj6Ajwx90mdHO4",
+            "album_name": "Of Skins And Heart",
+            "album_release_date": "1981-04-13",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "2ZfogSsOWP4mVfEqfpLXCt",
+                    "artist_name": "The Church"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 254.4,
+            "track_id": "00W0z4GR2fU8v11dhszOdw",
+            "track_name": "The Unguarded Moment - 2002 Digital Remaster",
+            "track_number": 3
+        },
+        {
+            "added_at": "2020-12-27T15:08:02Z",
+            "album_id": "7x6wYKbZUU2BL3N8ZWwM3q",
+            "album_name": "2",
+            "album_release_date": "2012-10-16",
+            "album_total_tracks": 11,
+            "artists": [
+                {
+                    "artist_id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+                    "artist_name": "Mac DeMarco"
+                }
+            ],
+            "n_artists": 1,
+            "track_duration_seg": 173.888,
+            "track_id": "25SJaCCPiosugnlY53VhRG",
+            "track_name": "Freaking Out the Neighborhood",
+            "track_number": 3
+        }
+    ]
+}
